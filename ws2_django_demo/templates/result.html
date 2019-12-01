@@ -1,0 +1,139 @@
+{% load staticfiles %}
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>My Books Searcher</title>
+<link href="{% static 'style_result.css' %}" rel="stylesheet" type="text/css" media="all"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<meta name="keywords" content="Flat Search Box Responsive, Login form web template, Sign up Web Templates, Flat Web Templates, Login signup Responsive web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body >
+<div id="id1" class="p-3 mb-2 bg-dark text-white">
+	<div id="m" style="width:100%;">
+		<div id="l" style="width:3%;position:relative;float:left;">
+	<a href = "homepage"><img src = "{% static 'house-128.png' %}" style="top:300px;left:0px;height:50px;weight:50px" ></a>
+			</div>
+		<div id="r" style="width:97%;position:relative;float:right;">
+	<h1 face="微软雅黑" align="center" style="color:#FFFFFF ; font-size:30px ;position:relative;left:-55px;top:-3px">My Books Searcher</h1>
+		</div>
+	</div>
+	<div id="id3" class="s-bar" >
+	   <form method="POST" autocomplete="on" >
+		{{ form }}
+		{% csrf_token %}
+		<input type="submit"  autocomplete="on" contenteditable="true" spellcheck="true" value="Find a book" />
+		   <small id="emailHelp" class="form-text text-muted">Go and Find the Interest of Reading</small>
+	  </form>
+
+	</div>
+
+</div>
+<div class="container-fluid"style="height:100%;weight:100%" >
+	<div style="width:280px;height:100%;position:relative;float:left">
+		<div class="alert alert-secondary" role="alert">
+			<center>About us</center>
+		</div>
+		<font size="4">QIU&nbsp;&nbsp;&nbsp;Yaowen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1730026087</font><br />
+		<font size="4">QIAO&nbsp;Heng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1730026086</font><br />
+		<font size="4">WU&nbsp;&nbsp;&nbsp;&nbsp;Xiaoxuan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1730025130</font><br />
+		<br><br><br>
+		<div class="alert alert-danger" role="alert">
+			<center>Features</center>
+		</div>
+		<ul class="list-group">
+  <li class="list-group-item d-flex justify-content-between align-items-center">
+    Input Correction
+    <span class="badge badge-primary badge-pill"> new</span>
+  </li>
+  <li class="list-group-item d-flex justify-content-between align-items-center">
+    High&nbsp; Speed
+    <span class="badge badge-primary badge-pill"> new</span>
+  </li>
+  <li class="list-group-item d-flex justify-content-between align-items-center">
+    Huge&nbsp; Database
+    <span class="badge badge-primary badge-pill"> new</span>
+  </li>
+			<li class="list-group-item d-flex justify-content-between align-items-center">
+    Word&nbsp; Infos
+    <span class="badge badge-primary badge-pill"> new</span>
+  </li>
+</ul>
+		<br><br><br>
+		<div class="alert alert-info" role="alert">
+			<center>Supports</center>
+		</div><br>
+		<center><img id="logo1" src = "{% static 'django.jpg' %}" style="height:50px;weight:500px;background-color: transparent;border: none" ></center><br>
+		<center><img id="logo2" src = "{% static 'hadoop.jpg' %}" style="height:50px;weight:500px" ></center><br>
+		<center><img id="logo3" src = "{% static 'luence.png' %}" style="height:50px;weight:500px" ></center><br>
+	</div>
+
+	<div id="middle" style="width:1px;height:100%;position:relative;float:left;left:40px;background:darkgray;" >
+		<p></p>
+	</div>
+<div  id="frameContent" style="width:65%;height:94%;position:relative;float:left;left:65px;">
+	<div class="alert alert-warning alert-dismissible fade show" role="alert">
+  {{ content |safe}}{{suggestion |safe}}
+		<p>Time cost:<strong><u>{{time |safe}}s</u></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numbers of results:<strong><u>{{amount|safe}} books</u></strong></p>
+</div>
+	<div  style="weight:100%;height:90%;overflow-pageINdex:auto;overflow-y:auto;">
+		{{final |safe}}
+		</div>
+</div>
+	<div id="middle1" style="width:1px;height:100%;position:relative;float:left;left:100px;background:darkgray;" >
+		<p></p>
+	</div>
+<div id="right"  style="width:300px;height:95%;position:relative;float:left;left:150px">
+	<div class="card text-white bg-success mb-3">
+	<div class="card-header"><b>{{title1}}</b></div>
+  <div class="card-body">
+    <p id="cg1" class="card-text">{{explanation |safe}}</p>
+  </div>
+	</div>
+	<br><br><br>
+	<div class="card text-white bg-warning mb-3">
+	<div class="card-header"><b>{{title2}}</b></div>
+
+  <div class="card-body">
+    <p id="cg2" class="card-text">{{synonyms |safe}}</p>
+  </div>
+	</div>
+</div>
+</div>
+
+<div style="position:relative;">
+	<style>
+	#footer {
+            height: 40px;
+            width: 100%;
+            position: absolute;
+            bottom: 0;
+        }
+</style>
+<footer id="footer" class="blockquote-footer text-white" >
+<!--	<nav aria-label="..." style = "position:relative;left:800px">-->
+<!--  <ul class="pagination">-->
+<!--    <li class="page-item disabled">-->
+<!--      <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>-->
+<!--    </li>-->
+<!--	  <li class="page-item active" aria-current="page">-->
+<!--    <a class="page-link">1<span class="sr-only">(current)</span></a>-->
+<!--      </li>-->
+<!--      <li class="page-item"><a class="page-link" href="#">2</a></li>-->
+<!--    <li class="page-item"><a class="page-link" href="#">3</a></li>-->
+<!--    <li class="page-item">-->
+<!--      <a class="page-link" href="#">Next</a>-->
+<!--    </li>-->
+<!--  </ul>-->
+<!--</nav><br><br>-->
+<div class="p-3 mb-2 bg-info text-white" style="height:90%">
+	 <p align="right">@Copyright 2019 Data Processing Workshop II Group 13</p>
+</div>
+</footer>
+	</div>
+</body>
+</html>

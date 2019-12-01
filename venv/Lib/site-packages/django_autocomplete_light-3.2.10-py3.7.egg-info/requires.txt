@@ -1,0 +1,9 @@
+
+[genericm2m]
+django-generic-m2m
+
+[gfk]
+django-querysetsequence
+
+[tags]
+django-taggit

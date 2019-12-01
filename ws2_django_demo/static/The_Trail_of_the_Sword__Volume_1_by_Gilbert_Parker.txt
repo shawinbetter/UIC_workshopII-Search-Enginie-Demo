@@ -1,0 +1,2032 @@
+﻿The Project Gutenberg EBook The Trail of The Sword, v1, by G. Parker
+#33 in our series by Gilbert Parker
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**EBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These EBooks Were Prepared By Thousands of Volunteers*****
+
+
+Title: The Trail of the Sword, Volume 1.
+
+Author: Gilbert Parker
+
+Release Date: August, 2004  [EBook #6206]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on September 23, 2002]
+
+Edition: 10
+
+Language: English
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK TRAIL OF THE SWORD, V1, BY PARKER ***
+
+
+
+This eBook was produced by David Widger <widger@cecomet.net>
+
+
+
+[NOTE: There is a short list of bookmarks, or pointers, at the end of the
+file for those who may wish to sample the author's ideas before making an
+entire meal of them.  D.W.]
+
+
+
+
+
+TRAIL OF THE SWORD
+
+By Gilbert Parker
+
+
+
+CONTENTS:
+
+EPOCH THE FIRST
+I.        AN ENVOY EXTRAORDINARY
+II.       THE THREAT OF A RENEGADE
+III.      THE FACE AT THE WINDOW
+IV.       THE UPLIFTING OF THE SWORDS
+V.        THE FRUITS OF THE LAW
+VI.       THE KIDNAPPING
+
+EPOCH THE SECOND
+VII.      FRIENDS IN COUNCIL
+VIII.     AS SEEN THROUGH A GLASS, DARKLY
+IX.       TO THE PORCH OF THE WORLD
+X.        QUI VIVE!
+XI.       WITH THE STRANGE PEOPLE
+XII.      OUT OF THE NET
+
+EPOCH THE THIRD
+XIII.     "AS WATER UNTO WINE"
+XIV.      IN WHICH THE HUNTERS ARE OUT
+XV.       IN THE MATTER OF BUCKLAW
+XVI.      IN THE TREASURE HOUSE
+XVII.     THE GIFT OF A CAPTIVE
+XVIII.    MAIDEN NO MORE
+
+EPOCH THE FOURTH
+XIX.      WHICH TELLS OF A BROTHER'S BLOOD CRYING FROM THE GROUND
+XX.       A TRAP IS SET
+XXI.      AN UNTOWARD MESSENGER
+XXII.     FROM TIGER'S CLAW TO LION'S MOUTH
+XXIII.    AT THE GATES OF MISFORTUNE
+XXIV.     IN WHICH THE SWORD IS SHEATHED
+
+
+
+
+WHEREIN IS SET FORTH THE HISTORY OF JESSICA LEVERET, AS ALSO THAT OF
+PIERRE LE MOYNE OF IBERVILLE, GEORGE GERING, AND OTHER BOLD SPIRITS;
+TOGETHER WITH CERTAIN MATTERS OF WAR, AND THE DEEDS OF ONE EDWARD
+BUCKLAW, MUTINEER AND PIRATE
+
+
+
+DEDICATION
+
+     My Dear Father:
+
+     Once, many years ago, in a kind of despair, you were impelled to say
+     that I would "never be anything but a rascally lawyer."  This, it
+     may be, sat upon your conscience, for later you turned me gravely
+     towards Paley and the Thirty-nine Articles; and yet I know that in
+     your deepest soldier's heart, you really pictured me, how
+     unavailingly, in scarlet and pipe-clay, and with sabre, like
+     yourself in youth and manhood.  In all I disappointed you, for I
+     never had a brief or a parish, and it was another son of yours who
+     carried on your military hopes.  But as some faint apology--I almost
+     dare hope some recompense for what must have seemed wilfulness, I
+     send you now this story of a British soldier and his "dear maid,"
+     which has for its background the old city of Quebec, whose high
+     ramparts you walked first sixty years ago; and for setting, the
+     beginning of those valiant fightings, which, as I have heard you
+     say, "through God's providence and James Wolfe, gave England her
+     best possession."
+
+     You will, I feel sure, quarrel with the fashion of my campaigns, and
+     be troubled by my anachronisms; but I beg you to remember that long
+     ago you gave my young mind much distress when you told that
+     wonderful story, how you, one man, "surrounded" a dozen enemies, and
+     drove them prisoners to headquarters.  "Surrounded" may have been
+     mere lack of precision, but it serves my turn now, as you see.  You
+     once were--and I am precise here--a gallant swordsman: there are
+     legends yet of your doings with a crack Dublin bully.  Well, in the
+     last chapter of this tale you shall find a duel which will perhaps
+     recall those early days of this century, when your blood was hot and
+     your hand ready.  You would be distrustful of the details of this
+     scene, did I not tell you that, though the voice is Jacob's the hand
+     is another's.  Swordsmen are not so many now in the army or out of
+     it, that, among them, Mr. Walter Herrim Pollock's name will have
+     escaped you: so, if you quarrel, let it be with Esau; though, having
+     good reason to be grateful to him, that would cause me sorrow.
+
+     My dear father, you are nearing the time-post of ninety years, with
+     great health and cheerfulness; it is my hope you may top the arch of
+     your good and honourable life with a century key-stone.
+
+                         Believe me, sir,
+
+                              Your affectionate son,
+
+                                        GILBERT PARKER.
+
+15th September, 1894,
+     7 Park Place,
+          St. James's S.W.
+
+
+
+
+
+INTRODUCTION
+
+THE TRAIL OF THE SWORD
+
+This book, like Mrs. Falchion, was published in two volumes in January.
+That was in 1894.  It appeared first serially in the Illustrated London
+News, for which paper, in effect, it was written, and it also appeared in
+a series of newspapers in the United States during the year 1893.  This
+was a time when the historical novel was having its vogue.  Mr. Stanley
+Weyman, Sir Arthur Conan Doyle, and a good many others were following
+the fashion, and many of the plays at the time were also historical--
+so-called.  I did not write The Trail of the Sword because it was in
+keeping with the spirit of the moment.  Fashion has never in the least
+influenced my writing or my literary purposes.  Whatever may be thought
+of my books, they represent nothing except my own bent of mind, my own
+wilful expression of myself, and the setting forth of that which seized
+my imagination.
+
+I wrote The Trail of the Sword because the early history of the
+struggles between the French and English and the North American Continent
+interested me deeply and fascinated my imagination.  Also, I had a most
+intense desire to write of the Frenchman of the early days of the old
+regime; and I have no idea why it was so, because I have no French blood
+in my veins nor any trace of French influence in my family.  There is,
+however, the Celtic strain, the Irish blood, immediate of the tang, as it
+were, and no doubt a sympathy between the Celtic and the Gallic strain is
+very near, and has a tendency to become very dear.  It has always been a
+difficulty for me to do anything except show the more favourable side of
+French character and life.
+
+I am afraid that both in The Trail of the Sword, which was the forerunner
+of The Seats of the Mighty, the well sunk, in a sense, out of which the
+latter was drawn, I gave my Frenchman the advantage over his English
+rival.  In The Trail of the Sword, the gallant French adventurer's
+chivalrous but somewhat merciless soul, makes a better picture than does
+his more phlegmatic but brave and honourable antagonist, George Gering.
+Also in The Seats of the Mighty, Doltaire, the half-villain, overshadows
+the good English hero from first to last; and yet, despite the
+unconscious partiality for the individual in both books, English
+character and the English as a race, as a whole, are dominant in the
+narrative.
+
+There is a long letter, as a dedication to this book, addressed to my
+father; there is a note also, which explains the spirit in which the book
+was written, and I have no desire to enlarge this introduction in the
+presence of these prefaces to the first edition.  But I may say that this
+book was gravely important to me, because it was to test all my capacity
+for writing a novel with an historical background, and, as it were, in
+the custom of a bygone time.  It was not really the first attempt at
+handling a theme belonging to past generations, because I had written for
+Good Words, about the year 1890, a short novel which I called The Chief
+Factor, a tale of the Hudson's Bay Company.  It was the first novel or
+tale of mine which secured copyright under the new American copyright act
+of 1892.
+
+There was a circumstance connected with this publication which is
+interesting.  When I arrived in New York, I had only three days in which
+to have the book printed in order to secure the copyright before Good
+Words published the novel as its Christmas annual in its entirety.  I
+tried Messrs. Harper & Brothers, and several other publishers by turn,
+but none of them could undertake to print the book in the time.  At last
+some kind friend told me to go to the Trow Directory Binding Company,
+which I did.  They said they could not print the story in the time.
+I begged them to reconsider.  I told them how much was at stake for me.
+I said that I would stay in the office and read the proofs as they came
+from the press, and would not move until it was finished.  Refusal had
+been written on the lips and the face of the manager at the beginning,
+but at last I prevailed.  He brought the foreman down there and then.
+Each of us, elated by the conditions of the struggle, determined to pull
+the thing off.  We printed that book of sixty-five thousand words or so,
+in forty-eight hours, and it arrived in Washington three hours before the
+time was up.  I saved the copyright, and I need hardly say that my
+gratitude to the Trow Directory Binding Company was as great as their
+delight in having done a really brilliant piece of work.
+
+The day after the copyright was completed, I happened to mention the
+incident to Mr. Archibald Clavering Gunter, author of Mr. Barnes of New
+York, who had a publishing house for his own books.  He immediately made
+me an offer for The Chief Factor.  I hesitated, because I had been
+dealing with great firms like Harpers, and, to my youthful mind, it
+seemed rather beneath my dignity to have the imprint of so new a firm as
+the Home Publishing Company on the title-page of my book.  I asked the
+advice of Mr. Walter H.  Page, then editor of The Forum, now one of the
+proprietors of The World's Work and Country Life, and he instantly said:
+"What difference does it make who publishes your book?  It is the public
+you want."
+
+I did not hesitate any longer.  The Chief Factor went to Mr. Archibald
+Clavering Gunter and the Home Publishing Company, and they made a very
+large sale of it.  I never cared for the book however; it seemed stilted
+and amateurish, though some of its descriptions and some of its dialogues
+were, I think, as good as I can do; so, eventually, in the middle
+nineties, I asked Mr. Gunter to sell me back the rights in the book and
+give me control of it.  This he did.  I thereupon withdrew it from
+publication at once, and am not including it in this subscription
+edition.  I think it better dead.  But the writing of it taught me better
+how to write The Trail of the Sword; though, if I had to do this book
+again, I could construct it better.
+
+I think it fresh and very vigorous, and I think it does not lack
+distinction, while a real air of romance--of refined romance--pervades
+it.  But I know that Mr. W. E. Henley was right when, after most
+generously helping me to revise it, with a true literary touch
+wonderfully intimate and affectionate, he said to me: "It is just not
+quite big, but the next one will get home."
+
+He was right.  The Trail of the Sword is "just not quite," though I think
+it has charm; but it remained for The Seats of the Mighty to get home, as
+"W. E. H.", the most exacting, yet the most generous, of critics, said.
+
+This book played a most important part in a development of my literary
+work, and the warm reception by the public--for in England it has been
+through its tenth edition, and in America through proportionate
+thousands--was partly made possible by the very beautiful illustrations
+which accompanied its publication in The Illustrated London News.  The
+artist was A. L. Forestier, and never before or since has my work
+received such distinguished pictorial exposition, save, perhaps, in The
+Weavers, when Andre Castaigne did such triumphant work.  It is a joy
+still to look at the illustrations of The Trail of the Sword, for,
+absolutely faithful to the time, they add a note of verisimilitude to the
+tale.
+
+
+
+
+A NOTE
+
+The actors in this little drama played their parts on the big stage of a
+new continent two hundred years ago.  Despots sat upon the thrones of
+France and England, and their representatives on the Hudson and the St.
+Lawrence were despots too, with greater opportunity and to better ends.
+In Canada, Frontenac quarreled with his Intendant and his Council, set
+a stern hand upon the Church when she crossed with his purposes, cajoled,
+treated with, and fought the Indians by turn, and cherished a running
+quarrel with the English Governor of New York.  They were striving for
+the friendship of the Iroquois on the one hand, and for the trade of the
+Great West on the other.  The French, under such men as La Salle, had
+pushed their trading posts westward to the great lakes and beyond the
+Missouri, and north to the shores of Hudson's Bay.  They traded and
+fought and revelled, hot with the spirit of adventure, the best of
+pioneers and the worst of colonists.  Tardily, upon their trail, came the
+English and the Dutch, slow to acquire but strong to hold; not so rash in
+adventure, nor so adroit in intrigue, as fond of fighting, but with less
+of the gift of the woods, and much more the faculty for government.
+There was little interchange of friendliness and trade between the rival
+colonists; and Frenchmen were as rare on Manhattan Island as Englishmen
+on the heights of Quebec--except as prisoners.
+
+                                                       G. P.
+
+
+
+
+THE TRAIL OF THE SWORD
+
+EPOCH THE FIRST
+I.        AN ENVOY EXTRAORDINARY
+II.       THE THREAT OF A RENEGADE
+III.      THE FACE AT THE WINDOW
+IV.       THE UPLIFTING OF THE SWORDS
+V.        THE FRUITS OF THE LAW
+VI.       THE KIDNAPPING
+
+
+
+CHAPTER I
+
+AN ENVOY EXTRAORDINARY
+
+One summer afternoon a tall, good-looking stripling stopped in the midst
+of the town of New York, and asked his way to the governor's house.  He
+attracted not a little attention, and he created as much astonishment
+when he came into the presence of the governor.  He had been announced as
+an envoy from Quebec.  "Some new insolence of the County Frontenac!"
+cried old Richard Nicholls, bringing his fist down on the table.  For a
+few minutes he talked with his chamberfellow; then, "Show the gentleman
+in," he added.  In the room without, the envoy from Quebec had stood
+flicking the dust from his leggings with a scarf.  He was not more than
+eighteen, his face had scarcely an inkling of moustache, but he had an
+easy upright carriage, with an air of self-possession, the keenest of
+grey eyes, a strong pair of shoulders, a look of daring about his rather
+large mouth, which lent him a manliness well warranting his present
+service.  He had been left alone, and the first thing he had done was to
+turn on his heel and examine the place swiftly.  This he seemed to do
+mechanically, not as one forecasting danger, not as a spy.  In the curve
+of his lips, in an occasional droop of his eyelids, there was a
+suggestion of humour: less often a quality of the young than of the old.
+For even in the late seventeenth century, youth took itself seriously at
+times.
+
+Presently, as he stood looking at the sunshine through the open door,
+a young girl came into the lane of light, waved her hand, with a little
+laugh, to some one in the distance, and stepped inside.  At first she did
+not see him.  Her glances were still cast back the way she had come.
+The young man could not follow her glance, nor was he anything curious.
+Young as he was, he could enjoy a fine picture.  There was a pretty
+demureness in the girl's manner, a warm piquancy in the turn of the neck,
+and a delicacy in her gestures, which to him, fresh from hard hours in
+the woods, was part of some delightful Arcady--though Arcady was more in
+his veins than of his knowledge.  For the young seigneur of New France
+spent far more hours with his gun than with his Latin, and knew his bush-
+ranging vassal better than his tutor; and this one was too complete a
+type of his order to reverse its record.  He did not look to his scanty
+lace, or set himself seemingly; he did but stop flicking the scarf held
+loose in his fingers, his foot still on the bench.  A smile played at his
+lips, and his eyes had a gleam of raillery.  He heard the girl say in a
+soft, quaint voice, just as she turned towards him, "Foolish boy!"  By
+this he knew that the pretty picture had for its inspiration one of his
+own sex.
+
+She faced him, and gave a little cry of surprise.  Then their eyes met.
+Immediately he made the most elaborate bow of all his life, and she swept
+a graceful courtesy.  Her face was slightly flushed that this stranger
+should have seen, but he carried such an open, cordial look that she
+paused, instead of hurrying into the governor's room, as she had seemed
+inclined to do.
+
+In the act the string of her hat, slung over her arm, came loose, and the
+hat fell to the floor.  Instantly he picked it up and returned it.
+Neither had spoken a word.  It seemed another act of the light pantomime
+at the door.  As if they had both thought on the instant how droll it
+was, they laughed, and she said to him naively: "You have come to visit
+the governor?  You are a Frenchman, are you not?"
+
+To this in slow and careful English, "Yes," he replied; "I have come from
+Canada to see his excellency.  Will you speak French?"
+
+"If you please, no," she answered, smiling; "your English is better than
+my French.  But I must go."  And she turned towards the door of the
+governor's room.
+
+"Do not go yet," he said.  "Tell me, are you the governor's daughter?"
+
+She paused, her hand at the door.  "Oh no," she answered; then, in a
+sprightly way--"are you a governor's son?"
+
+"I wish I were," he said, "for then there'd be a new intendant, and we'd
+put Nick Perrot in the council."
+
+"What is an intendant?" she asked, "and who is Nick Perrot?"
+
+"Bien! an intendant is a man whom King Louis appoints to worry the
+governor and the gentlemen of Canada, and to interrupt the trade.
+Nicolas Perrot is a fine fellow, and a great coureur du bois, and helps
+to get the governor out of troubles to-day, the intendant to-morrow.
+He is a splendid fighter.  Perrot is my friend."
+
+He said this, not with an air of boasting, but with a youthful and
+enthusiastic pride, which was relieved, by the twinkle in his eyes and
+his frank manner.
+
+"Who brought you here?" she asked demurely.  "Are they inside with the
+governor?"
+
+He saw the raillery; though, indeed, it was natural to suppose that he
+had no business with the governor, but had merely come with some one.
+The question was not flattering.  His hand went up to his chin a little
+awkwardly.  She noted how large yet how well-shaped it was, or, rather,
+she remembered afterwards.  Then it dropped upon the hilt of the rapier
+he wore, and he answered with good self-possession, though a little hot
+spot showed on his cheek: "The governor must have other guests who are
+no men of mine; for he keeps an envoy from Count Frontenac long in his
+anteroom."
+
+The girl became very youthful indeed, and a merry light danced in her
+eyes and warmed her cheek.  She came a step nearer.  "It is not so?
+You do not come from Count Frontenac--all alone, do you?"
+
+"I'll tell you after I have told the governor," he answered, pleased and
+amused.
+
+"Oh, I shall hear when the governor hears," she answered, with a soft
+quaintness, and then vanished into the governor's chamber.  She had
+scarce entered when the door opened again, and the servant, a Scotsman,
+came out to say that his excellency would receive him.  He went briskly
+forward, but presently paused.  A sudden sense of shyness possessed him.
+It was not the first time he had been ushered into vice-regal presence,
+but his was an odd position.  He was in a strange land, charged with an
+embassy which accident had thrust upon him.  Then, too, the presence of
+the girl had withdrawn him for an instant from the imminence of his duty.
+His youth came out of him, and in the pause one could fairly see him turn
+into man.
+
+He had not the dark complexion of so many of his race, but was rather
+Saxon in face, with rich curling brown hair.  Even in that brave time one
+might safely have bespoken for him a large career.  And even while the
+Scotsman in the doorway eyed him with distant deprecation, as he eyed all
+Frenchmen, good and bad, ugly or handsome, he put off his hesitation and
+entered the governor's chamber.  Colonel Nicholls came forward to greet
+him, and then suddenly stopped, astonished.  Then he wheeled upon the
+girl.  "Jessica, you madcap!" he said in a low voice.
+
+She was leaning against a tall chair, both hands grasping the back of it,
+her chin just level with the top.  She had told the governor that Count
+Frontenac had sent him a lame old man, and that, enemy or none, he ought
+not to be kept waiting, with arm in sling and bandaged head.  Seated at
+the table near her was a grave member of the governor's council, William
+Drayton by name.  He lifted a reproving finger at her now, but with a
+smile on his kindly face, and "Fie, fie, young lady!" he said, in a
+whisper.
+
+Presently the governor mastered his surprise, and seeing that the young
+man was of birth and quality, extended his hand cordially enough, and
+said: "I am glad to greet you, sir;" and motioned him to a seat.  "But,
+pray, sit down," he added, "and let us hear the message Count Frontenac
+has sent.  Meanwhile we would be favoured with your name and rank."
+
+The young man thrust a hand into his doublet and drew forth a packet of
+papers.  As he handed it over, he said in English--for till then the
+governor had spoken French, having once served with the army of France,
+and lived at the French Court: "Your excellency, my name is Pierre le
+Moyne of Iberville, son of Charles le Moyne, a seigneur of Canada, of
+whom you may have heard."  (The governor nodded.)  "I was not sent by
+Count Frontenac to you.  My father was his envoy: to debate with you
+our trade in the far West and our dealings with the Iroquois."
+
+"Exactly," said old William Drayton, tapping the table with his
+forefinger; "and a very sound move, upon my soul."
+
+"Ay, ay," said the governor, "I know of your father well enough.  A good
+fighter and an honest gentleman, as they say.  But proceed, Monsieur le
+Moyne of Iberville."
+
+"I am called Iberville," said the young man simply.  Then: "My father and
+myself started from Quebec with good Nick Perrot, the coureur du bois--"
+
+"I know him too," the governor interjected--"a scoundrel worth his weight
+in gold to your Count Frontenac."
+
+"For whose head Count Frontenac has offered gold in his time," answered
+Iberville, with a smile.
+
+"A very pretty wit," said old William Drayton, nodding softly towards the
+girl, who was casting bright, quizzical glances at the youth over the
+back of the chair.
+
+Iberville went on: "Six days ago we were set upon by a score of your
+Indians, and might easily have left our scalps with them; but, as it
+chanced, my father was wounded, I came off scot-free, and we had the
+joy of ridding your excellency of half a dozen rogues."
+
+The governor lifted his eyebrows and said nothing.  The face of the girl
+over against the back of the chair had become grave.
+
+"It was in question whether Perrot or I should bear Count Frontenac's
+message.  Perrot knew the way, I did not; Perrot also knew the Indians."
+
+"But Perrot," said the governor blufily, "would have been the letter-
+carrier; you are a kind of ambassador.  Upon my soul, yes, a sort of
+ambassador!" he added, enjoying the idea; for, look at it how you would,
+Iberville was but a boy.
+
+"That was my father's thought and my own," answered Iberville coolly.
+"There was my father to care for till his wound was healed and he could
+travel back to Quebec, so we thought it better Perrot should stay with
+him.  A Le Moyne was to present himself, and a Le Moyne has done so."
+
+The governor was impressed more deeply than he showed.  It was a time of
+peace, but the young man's journey among Indian braves and English
+outlaws, to whom a French scalp was a thing of price, was hard and
+hazardous.  His reply was cordial, then his fingers came to the seal
+of the packet; but the girl's hand touched his arm.
+
+"I know his name," she said in the governor's ear, "but he does not know
+mine."
+
+The governor patted her hand, and then rejoined: "Now, now, I forgot the
+lady; but I cannot always remember that you are full fifteen years old."
+
+Standing up, with all due gravity and courtesy, "Monsieur Iberville," he
+said, "let me present you to Mistress Jessica Leveret, the daughter of my
+good and honoured and absent friend, the Honourable Hogarth Leveret."
+
+So the governor and his councillor stood shoulder to shoulder at one
+window, debating Count Frontenac's message; and shoulder to shoulder at
+another stood Iberville and Jessica Leveret.  And what was between these
+at that moment--though none could have guessed it--signified as much to
+the colonies of France and England, at strife in the New World, as the
+deliberations of their elders.
+
+
+
+
+CHAPTER II
+
+THE THREAT OF A RENEGADE
+
+Iberville was used to the society of women.  Even as a young lad, his
+father's notable place in the colony, and the freedom and gaiety of life
+in Quebec and Montreal, had drawn upon him a notice which was as much a
+promise of the future as an accent of the present.  And yet, through all
+of it, he was ever better inspired by the grasp of a common soldier, who
+had served with Carignan-Salieres, or by the greeting and gossip of such
+woodsmen as Du Lhut, Mantet, La Durantaye, and, most of all, his staunch
+friend Perrot, chief of the coureurs du bois.  Truth is, in his veins was
+the strain of war and adventure first and before all.  Under his tutor,
+the good Pere Dollier de Casson, he had never endured his classics, save
+for the sake of Hector and Achilles and their kind; and his knowledge of
+English, which his father had pressed him to learn,--for he himself had
+felt the lack of it in dealings with Dutch and English traders,--only
+grew in proportion as he was given Shakespeare and Raleigh to explore.
+
+Soon the girl laughed up at him.  "I have been a great traveller," she
+said, "and I have ears.  I have been as far west as Albany and south to
+Virginia, with my father, who, perhaps you do not know, is in England
+now.  And they told me everywhere that Frenchmen are bold, dark men, with
+great black eyes and very fine laces and wigs, and a trick of bowing and
+making foolish compliments; and they are not to be trusted, and they will
+not fight except in the woods, where there are trees to climb.  But I see
+that it is not all true, for you are not dark, your eyes are not big or
+black, your laces are not much to see, you do not make compliments--"
+
+"I shall begin now," he interrupted.
+
+"--you must be trusted a little, or Count Frontenac would not send you,
+and--and--tell me, would you fight if you had a chance?"
+
+No one of her sex had ever talked so to Iberville.  Her demure raillery,
+her fresh, frank impertinence, through which there ran a pretty air of
+breeding, her innocent disregard of formality, all joined to impress him,
+to interest him.  He was not so much surprised at the elegance and
+cleverness of her speech, for in Quebec girls of her age were skilled in
+languages and arts, thanks to the great bishop, Laval, and to Marie of
+the Incarnation.  In response to her a smile flickered upon his lips.  He
+had a quick fierce temper, but it had never been severely tried; and so
+well used was he to looking cheerfully upon things, so keen had been his
+zest in living, that, where himself was concerned, his vanity was not
+easily touched.  So, looking with genial dryness, "You will hardly
+believe it, of course," he said, "but wings I have not yet grown, and the
+walking is bad 'twixt here and the Chateau St. Louis."
+
+"Iroquois traps," she suggested, with a smile.  "With a trick or two of
+English footpads," was his reply.
+
+Meanwhile his eye had loitered between the two men in council at the
+farther window and the garden, into which he and the girl were looking.
+Presently he gave a little start and a low whistle, and his eyelids
+slightly drooped, giving him a handsome sulkiness.  "Is it so?" he said
+between his teeth: "Radisson--Radisson, as I live!"
+
+He had seen a man cross a corner of the yard.  This man was short, dark-
+bearded, with black, lanky hair, brass earrings, and buckskin leggings,
+all the typical equipment of the French coureur du bois.  Iberville had
+only got one glance at his face, but the sinister profile could never be
+forgotten.  At once the man passed out of view.  The girl had not seen
+him, she had been watching her companion.  Presently she said, her
+fingers just brushing his sleeve, for he stood eyeing the point where the
+man had disappeared: "Wonderful!  You look now as if you would fight.
+Oh, fierce, fierce as the governor when he catches a French spy!"
+
+He turned to her and, with a touch of irony, "Pardon!" he retorted.
+"Now I shall look as blithe as the governor when a traitor deserts to
+him."
+
+Of purpose he spoke loud enough to be heard by the governor and his
+friend.  The governor turned sharply on him.  He had caught the ring in
+the voice, that rash enthusiasm of eager youth, and, taking a step
+towards Iberville, Count Frontenac's letter still poised in his hand:
+"Were your words meant for my hearing, monsieur?" he said.  "Were you
+speaking of me or of your governor?"
+
+"I was thinking of one Radisson a traitor, and I was speaking of
+yourself, your excellency."
+
+The governor had asked his question in French, in French the reply was
+given.  Both the girl and Councillor Drayton followed with difficulty.
+Jessica looked a message to her comrade in ignorance.  The old man
+touched the governor's arm.  "Let it be in English if monsieur is
+willing.  He speaks it well."
+
+The governor was at work to hide his anger: he wished good greeting to
+Count Frontenac's envoy, and it seemed not fitting to be touched by the
+charges of a boy.  "I must tell you frankly, Monsieur Iberville," he
+said, "that I do not choose to find a sort of challenge in your words;
+and I doubt that your father, had he been here, would have spoke quite so
+roundly.  But I am for peace and happy temper when I can.  I may not help
+it if your people, tired of the governance of Louis of France, come into
+the good ruling of King Charles.  As for this man Radisson: what is it
+you would have?"
+
+Iberville was now well settled back upon his native courage.
+He swallowed the rebuke with grace, and replied with frankness: "Radisson
+is an outlaw.  Once he attempted Count Frontenac's life.  He sold a band
+of our traders to the Iroquois.  He led your Hollanders stealthily to cut
+off the Indians of the west, who were coming with their year's furs to
+our merchants.  There is peace between your colony and ours--is it fair
+to harbour such a wretch in your court-yard?  It was said up in Quebec,
+your excellency, that such men have eaten at your table."
+
+During this speech the governor seemed choleric, but a change passed
+over him, and he fell to admiring the lad's boldness.  "Upon my soul,
+monsieur," he said, "you are council, judge, and jury all in one; but I
+think I need not weigh the thing with you, for his excellency, from whom
+you come, has set forth this same charge,"--he tapped the paper,--"and we
+will not spoil good-fellowship by threshing it now."  He laughed a little
+ironically.  "And I promise you," he added, "that your Radisson shall
+neither drink wine nor eat bread with you at my table.  And now, come,
+let us talk awhile together; for, lest any accident befall the packet you
+shall bear, I wish you to carry in your memory, with great distinctness,
+the terms of my writing to your governor.  I would that it were not to be
+written, for I hate the quill, and I've seen the time I would rather
+point my sword red than my quill black."
+
+By this the shadows were falling.  In the west the sun was slipping down
+behind the hills, leaving the strong day with a rosy and radiant glamour,
+that faded away in eloquent tones to the grey, tinsel softness of the
+zenith.  Out in the yard a sumach bush was aflame.  Rich tiger-lilies
+thrust in at the sill, and lazy flies and king bees boomed in and out of
+the window.  Something out of the sunset, out of the glorious freshness
+and primal majesty of the new land, diffused through the room where those
+four people stood, and made them silent.  Presently the governor drew his
+chair to the table, and motioned Councillor Drayton and Iberville to be
+seated.
+
+The girl touched his arm.  "And where am I to sit?" she asked demurely.
+Colonel Nicholls pursed his lips and seemed to frown severely on her.
+"To sit?  Why, in your room, mistress.  Tut, tut, you are too bold.
+If I did not know your father was coming soon to bear you off, new orders
+should be issued.  Yes, yes, e'en as I say," he added, as he saw the
+laughter in her eyes.
+
+She knew that she could wind the big-mannered soldier about her finger.
+She had mastered his household; she was the idol of the settlement,
+her flexible intelligence, the flush of the first delicate bounty of
+womanhood had made him her slave.  In a matter of vexing weight he would
+not have let her stay, but such deliberatings as he would have with
+Iberville could well bear her scrutiny.  He reached out to pinch her
+cheek, but she deftly tipped her head and caught his outstretched
+fingers.  "But where am I to sit?" she persisted.  "Anywhere, then, but
+at the council-table," was his response, as he wagged a finger at her and
+sat down.  Going over she perched herself on a high stool in the window
+behind Iberville.  He could not see her, and, if he thought at all about
+it, he must have supposed that she could not see him.  Yet she could; for
+against the window-frame was a mirror, and it reflected his face and the
+doings at the board.  She did not listen to the rumble of voices.  She
+fell to studying Iberville.  Once or twice she laughed softly to herself.
+
+As she turned to the window a man passed by and looked in at her.  His
+look was singular, and she started.  Something about his face was
+familiar.  She found her mind feeling among far memories, for even the
+past of the young stretches out interminably.  She shuddered, and a
+troubled look came into her eyes.  Yet she could not remember.  She
+leaned slightly forward, as if she were peering into that by-gone world
+which, maybe, is wider than the future for all of us--the past.  Her eyes
+grew deep and melancholy.  The sunset seemed to brighten around her all
+at once, and enmesh her in a golden web, burnishing her hair, and it fell
+across her brow with a peculiar radiance, leaving the temples in shadow,
+softening and yet lighting the carmine of her cheeks and lips, giving a
+feeling of life to her dress, which itself was like dusty gold.  Her
+hands were caught and clasped at her knees.  There was something
+spiritual and exalted in the picture.  It had, too, a touch of tragedy,
+for something out of her nebulous past had been reflected in faint
+shadows in her eyes, and this again, by strange, delicate processes, was
+expressed in every line of her form, in all the aspect of her face.  It
+was as if some knowledge were being filtered to her through myriad
+atmospheres of premonition; as though the gods in pity foreshadowed a
+great trouble, that the first rudeness of misery might be spared.
+
+She did not note that Iberville had risen, and had come round the table
+to look over Councillor Drayton's shoulder at a map spread out.  After
+standing a moment watching, the councillor's finger his pilot, he started
+back to his seat.  As he did so he caught sight of her still in that
+poise of wonderment and sadness.  He stopped short, then glanced at
+Colonel Nicholls and the councillor.  Both were bent over the map,
+talking in eager tones.  He came softly round the table, and was about
+to speak over her shoulder, when she drew herself up with a little shiver
+and seemed to come back from afar.  Her hands went up to her eyes.  Then
+she heard him.  She turned quickly, with the pageant of her dreams still
+wavering in her face; smiled at him distantly, looked towards the window
+again in a troubled way, then stepped softly and swiftly to the door, and
+passed out.  Iberville watched the door close and turned to the window.
+Again he saw, and this time nearer to the window, Radisson, and with him
+the man who had so suddenly mastered Jessica.
+
+He turned to Colonel Nicholls.  "Your excellency," he said, "will you not
+let me tell Count Frontenac that you forbid Radisson your purlieus?  For,
+believe me, sir, there is no greater rogue unhanged, as you shall find
+some day to the hurt of your colony, if you shelter him."
+
+The governor rose and paced the room thoughtfully.  "He is proclaimed by
+Frontenac?" he asked.
+
+"A price is on his head.  As a Frenchman I should shoot him like a wolf
+where'er I saw him; and so I would now were I not Count Frontenac's
+ambassador and in your excellency's presence."
+
+"You speak manfully, monsieur," said the governor, not ill-pleased; "but
+how might you shoot him now?  Is he without there?"  At this he came to
+where Iberville stood, and looked out.  "Who is the fellow with him?"
+he asked.
+
+"A cut-throat scoundrel, I'll swear, though his face is so smug," said
+Iberville.  "What think you sir?" turning to the councillor, who was
+peering between their shoulders.
+
+"As artless yet as strange a face as I have ever seen," answered the
+merchant.  "What's his business here, and why comes he with the other
+rogue?  He would speak with your excellency, I doubt not," he added.
+
+Colonel Nicholls turned to Iberville.  "You shall have your way," he
+said.  "Yon renegade was useful when we did not know what sudden game was
+playing from Chateau St. Louis; for, as you can guess, he has friends as
+faithless as himself.  But to please your governor, I will proclaim him."
+
+He took his stick and tapped the floor.  Waiting a moment, he tapped
+again.  There was no sign.  He opened the door; but his Scots body-guard
+was not in sight.  "That's unusual," he said.  Then, looking round:
+"Where is our other councillor?  Gone?" he laughed.  "Faith, I did not
+see her go.  And now we can swear that where the dear witch is will
+Morris, my Scotsman, be found.  Well, well!  They have their way with us
+whether we will or no.  But, here, I'll have your Radisson in at once."
+
+He was in act to call when Morris entered.  With a little hasty rebuke
+he gave his order to the man.  "And look you, my good Morris," he added,
+"tell Sherlock and Weir to stand ready.  I may need the show of
+firearms."
+
+Turning to Iberville, he said: "I trust you will rest with us some days,
+monsieur.  We shall have sports and junketings anon.  We are not yet so
+grim as our friends in Massachusetts."
+
+"I think I might venture two days with you, sir, if for nothing else,
+to see Radisson proclaimed.  Count Frontenac would gladly cut months from
+his calendar to know you ceased to harbour one who can prove no friend,"
+was the reply.
+
+The governor smiled.  "You have a rare taste for challenge, monsieur.
+To be frank, I will say your gift is more that of the soldier than the
+envoy.  But upon my soul, if you will permit me, I think no less of you
+for that."
+
+Then the door opened, and Morris brought in Radisson.  The keen, sinister
+eyes of the woodsman travelled from face to face, and then rested
+savagely on Iberville.  He scented trouble, and traced it to its source.
+Iberville drew back to the window and, resting his arm on the high stool
+where Jessica had sat, waited the event.  Presently the governor came
+over to him.
+
+"You can understand," he said quietly, "that this man has been used by my
+people, and that things may be said which--"
+
+Iberville waved his hand respectfully.  "I understand, your excellency,"
+he said.  "I will go."  He went to the door.
+
+The woodsman as he passed broke out: "There is the old saying of the
+woods, 'It is mad for the young wolf to trail the old bear.'"
+
+"That is so," rejoined Iberville, with excellent coolness, "if the wolf
+holds not the spring of the trap."
+
+In the outer room were two soldiers and the Scot.  He nodded, passed into
+the yard, and there he paced up and down.  Once he saw Jessica's face at
+a window, he was astonished to see how changed.  It wore a grave, an
+apprehensive look.  He fell to wondering, but, even as he wondered, his
+habit of observation made him take in every feature of the governor's
+house and garden, so that he could have reproduced all as it was mirrored
+in his eye.  Presently he found himself again associating Radisson's
+comrade with the vague terror in Jessica's face.  At last he saw the
+fellow come forth between two soldiers, and the woodsman turned his head
+from side to side, showing his teeth like a wild beast at sight of
+Iberville.  His black brows twitched over his vicious eyes.  "There are
+many ways to hell, Monsieur Iberville," he said.  "I will show you one.
+Some day when you think you tread on a wisp of straw, it will be a snake
+with the deadly tooth.  You have made an outlaw--take care!  When the
+outlaw tires of the game, he winds it up quick.  And some one pays for
+the candles and the cards."
+
+Iberville walked up to him.  "Radisson," he said in a voice well
+controlled, "you have always been an outlaw.  In our native country you
+were a traitor; in this, you are the traitor still.  I am not sorry for
+you, for you deserve not mercy.  Prove me wrong.  Go back to Quebec;
+offer to pay with your neck, then--"
+
+"I will have my hour," said the woodsman, and started on.
+
+"It's a pity," said Iberville to himself--"as fine a woodsman as Perrot,
+too!"
+
+
+
+
+CHAPTER III
+
+THE FACE AT THE WINDOW
+
+At the governor's table that night certain ladies and gentlemen assembled
+to do the envoy honour.  There came, too, a young gentleman, son of a
+distinguished New Englander, his name George Gering, who was now in New
+York for the first time.  The truth is, his visit was to Jessica, his old
+playmate, the mistress of his boyhood.  Her father was in England, her
+mother had been dead many years, and Colonel Nicholls and his sister
+being kinsfolk, a whole twelvemonth ago she had been left with them.  Her
+father had thought at first to house her with his old friend Edward
+Gering, but he loved the Cavalier-like tone of Colonel Nicholls's
+household better than the less inspiriting air which Madam Puritan Gering
+suffused about her home.  Himself in early youth had felt the austerity
+of a Cavalier father turned a Puritan on a sudden, and he wished no such
+experience for his daughter.  For all her abundancy of life and feeling,
+he knew how plastic and impressionable she was, and he dreaded to see
+that exaltation of her fresh spirit touched with gloom.  She was his only
+child, she had been little out of his sight, her education had gone on
+under his own care, and, in so far as was possible in a new land, he had
+surrounded her with gracious influences.  He looked forward to any
+definite separation (as marriage) with apprehension.  Perhaps one of the
+reasons why he chose Colonel Nicholls's house for her home, was a fear
+lest George Gering should so impress her that she might somehow change
+ere his return.  And in those times brides of sixteen were common as now
+they are rare.
+
+She sat on the governor's left.  All the brightness, the soft piquancy,
+which Iberville knew, had returned; and he wondered--fortunate to know
+that wonder so young--at her varying moods.  She talked little, and most
+with the governor; but her presence seemed pervasive, the aura in her
+veins flowed from her eye and made an atmosphere that lighted even the
+scarred and rather sulky faces of two officers of His Majesty near.  They
+had served with Nicholls in Spain, but not having eaten King Louis's
+bread, eyed all Frenchmen askance, and were not needlessly courteous to
+Iberville, whose achievements they could scarce appreciate, having done
+no Indian fighting.
+
+Iberville sat at the governor's end, Gering at the other.  It was noticed
+by Iberville that Gering's eyes were much on Jessica, and in the spirit
+of rivalry, the legitimate growth of race and habit, he began to speak to
+her with the air of easy but deliberate playfulness which marked their
+first meeting.
+
+Presently she spoke across the table to him, after Colonel Nicholls had
+pledged him heartily over wine.  The tone was a half whisper as of awe,
+in reality a pretty mockery.  "Tell me," she said, "what is the bravest
+and greatest thing you ever did?"
+
+"Jessica, Jessica!" said the governor in reproof.  An old Dutch burgher
+laughed into his hand, and His Majesty's officers cocked their ears, for
+the whisper was more arresting than any loud talk.  Iberville coloured,
+but the flush passed quickly and left him unembarrassed.  He was not
+hurt, not even piqued, for he felt well used to her dainty raillery.  But
+he saw that Gering's eyes were on him, and the lull that fell as by a
+common instinct--for all could not have heard the question--gave him a
+thrill of timidity.  But, smiling, he said drily across the table, his
+voice quiet and clear: "My bravest and greatest thing was to answer an
+English lady's wit in English."
+
+A murmur of applause ran round, and Jessica laughed and clapped her
+hands.  For the first time in his life Gering had a pang of jealousy and
+envy.  Only that afternoon he had spent a happy hour with Jessica in the
+governor's garden, and he had then made an advance upon the simple
+relations of their life in Boston.  She had met him without self-
+consciousness, persisting in her old ways, and showing only when she left
+him, and then for a breath, that she saw his new attitude.  Now the eyes
+of the two men met, and Gering's dark face flushed and his brow lowered.
+Perhaps no one saw but Iberville, but he, seeing, felt a sudden desire to
+play upon the other's weakness.  He was too good a sportsman to show
+temper in a game; he had suddenly come to the knowledge that love, too,
+is a game, and needs playing.  By this time the dinner was drawing to its
+close and now a singular thing happened.  As Jessica, with demure
+amusement, listened to the talk that followed Iberville's sally, she
+chanced to lift her eyes to a window.  She started, changed colour, and
+gave a little cry.  The governor's hand covered hers at once as he
+followed her look.  It was a summer's night and the curtained windows
+were partly open.  Iberville noted that Jessica's face wore the self-same
+shadow as in the afternoon when she had seen the stranger with Radisson.
+
+"What was it, my dear?" said the governor.
+
+She did not answer, but pressed his hand nervously.  "A spy, I believe,"
+said Iberville, in a low voice.  "Yes, yes," said Jessica in a half
+whisper; "a man looked in at the window; a face that I have seen--but
+I can't remember when."
+
+The governor went to the window and drew the curtains.  There was nothing
+to see.  He ordered Morris, who stood behind his chair, to have the
+ground searched and to bring in any straggler.  Already both the officers
+were on their way to the door, and at this point it opened and let in a
+soldier.  He said that as he and his comrade were returning from their
+duty with Radisson they saw a man lurking in the grounds and seized him.
+He had made no resistance, and was now under guard in the ante-room.  The
+governor apologised to his guests, but the dinner could not be ended
+formally now, so the ladies rose and retired.  Jessica, making a mighty
+effort to recover herself, succeeded so well that ere she went she was
+able to reproach herself for her alarm; the more so because the
+governor's sister showed her such consideration as would be given a
+frightened child--and she had begun to feel something more.
+
+The ladies gone, the governor drew his guests about him and ordered in
+the prisoner.  Morris spoke up, saying that the man had begged an
+interview with the governor that afternoon, but, being told that his
+excellency was engaged, had said another hour would do.  This man was the
+prisoner.  He came in under guard, but he bore himself quietly enough and
+made a low bow to the governor.  He was not an ill-favoured fellow.  His
+eye was steely cold, but his face was hearty and round, and remarkably
+free from viciousness.  He had a cheerful air and an alert freedom of
+manner, which suggested good-fellowship and honest enterprise.
+
+Where his left hand had been was an iron hook, but not obtrusively in
+view, nor did it give any marked grimness to his appearance.  Indeed, the
+effect was almost comical when he lifted it and scratched his head and
+then rubbed his chin with it; it made him look part bumpkin and part
+sailor.  He bore the scrutiny of the company very well, and presently
+bowed again to the governor as one who waited the expression of that
+officer's goodwill and pleasure.
+
+"Now, fellow," said the colonel, "think yourself lucky my soldiers here
+did not shoot you without shrift.  You chance upon good-natured times.
+When a spying stranger comes dangling about these windows, my men are
+given to adorning the nearest tree with him.  Out with the truth now.
+Who and what are you, and why are you here?"
+
+The fellow bowed.  "I am the captain of a little trading schooner, the
+Nell Gwynn, which anchors in the roadstead till I have laid some private
+business before your excellency and can get on to the Spanish Indies."
+
+"Business--private business!  Then what in the name of all that's
+infernal," quoth Nicholls, "brought your sneaking face to yon window to
+fright my lady-guests?"  The memory of Jessica's alarm came hotly to his
+mind.  "By Heaven," he said, "I have a will to see you lifted, for means
+to better manners."
+
+The man stood very quiet, now and again, however, raising the hook to
+stroke his chin.  He showed no fear, but Iberville, with his habit of
+observation, caught in his eyes, shining superficially with a sailor's
+open honesty, a strange ulterior look.  "My business," so he answered
+Nicholls, "is for your excellency's ears."  He bowed again.
+
+"Have done with scraping.  Now, I tell you what, my gentle spy, if your
+business hath not concern, I'll stretch you by your fingers there to our
+public gallows, and my fellows shall fill you with small shot as full as
+a pod of peas."
+
+The governor rose and went into another room, followed by this strange
+visitor and the two soldiers.  There he told the guard to wait at the
+door, which entered into the ante-room.  Then he unlocked a drawer and
+took out of it a pair of pistols.  These he laid on the table (for he
+knew the times), noting the while that the seaman watched him with a
+pensive, deprecating grin.
+
+"Well, sir," he said sharply (for he was something nettled), "out with
+your business, and your name in preface."
+
+"My name is Edward Bucklaw, and I have come to your excellency because
+I know there is no braver and more enterprising gentleman in the world."
+He paused.  "So much for preamble; now for the discourse."
+
+"By your excellency's leave.  I am a poor man.  I have only my little
+craft and a handful of seamen picked up at odd prices.  But there's gold
+and silver enough I know of, owned by no man, to make cargo and ballast
+for the Nell Gwynn, or another twice her size."
+
+"Gold and silver," said the governor, cocking his ear and eyeing his
+visitor up and down.  Colonel Nicholls had an acquisitive instinct; he
+was interested.  "Well, well, gold and silver," he continued, "to fill
+the Nell Gwynn and another!  And what concern is that of mine?  Let your
+words come plain off your tongue; I have no time for foolery."
+
+"'Tis no foolery on my tongue, sir, as you may please to see."
+
+He drew a paper from his pocket and shook it out as he came a little
+nearer, speaking all the while.  His voice had gone low, running to a
+soft kind of chuckle, and his eyes were snapping with fire, which
+Iberville alone had seen was false.  "I have come to make your
+excellency's fortune, if you will stand by with a good, stout ship
+and a handful of men to see me through."
+
+The governor shrugged his shoulders.  "Babble," he said, "all babble and
+bubble.  But go on."
+
+"Babble, your honour!  Every word of it is worth a pint of guineas; and
+this is the pith of it.  Far down West Indies way, some twenty-five,
+maybe, or thirty years ago, there was a plate ship wrecked upon a reef.
+I got it from a Spaniard, who had been sworn upon oath to keep it secret
+by priests who knew.  The priests were killed and after a time the
+Spaniard died also, but not until he had given me the ways whereby I
+should get at what makes a man's heart rap in his weasand."
+
+"Let me see your chart," said the governor.
+
+A half-hour later he rose, went to the door, and sent a soldier for the
+two king's officers.  As he did so, Bucklaw eyed the room doors, windows,
+fireplaces, with a grim, stealthy smile trailing across his face.  Then
+suddenly the good creature was his old good self again--the comfortable
+shrewdness, the buoyant devil-may-care, the hook stroking the chin
+pensively.  And the king's officers came in, and soon all four were busy
+with the map.
+
+
+
+
+CHAPTER IV
+
+THE UPLIFTING OF THE SWORDS
+
+Iberville and Gering sat on with the tobacco and the wine.  The older men
+had joined the ladies, the governor having politely asked them to do so
+when they chose.  The other occupant of the room was Morris, who still
+stood stolidly behind his master's chair.
+
+For a time he heard the talk of the two young men as in a kind of dream.
+Their words were not loud, their manner was amicable enough, if the
+sharing of a bottle were anything to the point.  But they were sitting
+almost the full length of the table from him, and to quarrel courteously
+and with an air hath ever been a quality in men of gentle blood.
+
+If Morris's eyesight had been better, he would have seen that Gering
+handled his wine nervously, and had put down his long Dutch pipe.  He
+would also have seen that Iberville was smoking with deliberation, and
+drinking with a kind of mannered coolness.  Gering's face was flushed,
+his fine nostrils were swelling viciously, his teeth showed white against
+his red lips, and his eyes glinted.  There was a kind of devilry at
+Iberville's large and sensuous mouth, but his eyes were steady and
+provoking, and while Gering's words went forth pantingly, Iberville's
+were slow and concise, and chosen with the certainty of a lapidary.
+
+It is hard to tell which had started the quarrel, but an edge was on
+their talk from the beginning.  Gering had been moved by a boyish
+jealousy; Iberville, who saw the injustice of his foolish temper, had
+played his new-found enemy with a malicious adroitness.  The aboriginal
+passions were strong in him.  He had come of a people which had to do
+with essentials in the matter of emotions.  To love, to hate, to fight,
+to explore, to hunt, to be loyal, to avenge, to bow to Mother Church,
+to honour the king, to beget children, to taste outlawry under a more
+refined name, and to die without whining: that was its range of duty,
+and a very sufficient range it was.
+
+The talk had been running on Bucklaw.  It had then shifted to Radisson.
+Gering had crowded home with flagrant emphasis the fact that, while
+Radisson was a traitor and a scoundrel,--which Iberville himself had
+admitted with an ironical frankness,--he was also a Frenchman.  It was
+at this point that Iberville remembered, also with something of irony,
+the words that Jessica had used that afternoon when she came out of the
+sunshine into the ante-room of the governor's chamber.  She had waved her
+hand into the distance and had said: "Foolish boy!"  He knew very well
+that that part of the game was turned against him, but with a kind of
+cheerful recklessness, as was ever his way with odds against him, and he
+guessed that the odds were with Gering in the matter of Jessica,--he bent
+across the table and repeated them with an exasperating turn to his
+imperfect accent.  "Foolish boy!" he said, and awaited, not for long,
+the event.
+
+"A fool's lie," retorted Gering, in a low, angry voice, and spilled his
+wine.
+
+At that Iberville's heart thumped in his throat with anger, and the roof
+of his mouth became dry; never in his life had he been called a liar.
+The first time that insult strikes a youth of spirit he goes a little
+mad.
+
+But he was very quiet--an ominous sort of quietness, even in a boy.  He
+got to his feet and leaned over the table, speaking in words that dropped
+on the silence like metal: "Monsieur, there is but one answer."
+
+At this point Morris, roused from his elaborate musings, caught, not very
+clearly, at the meaning of it all.  But he had not time to see more, for
+just then he was called by the governor, and passed into the room where
+Mammon, for the moment, perched like a leering, little dwarf upon the
+shoulders of adventurous gentlemen grown avaricious on a sudden.
+
+"Monsieur, there is but one way.  Well?" repeated Iberville.
+
+"I am ready," replied Gering, also getting to his feet.  The Frenchman
+was at once alive to certain difficulties.  He knew that an envoy should
+not fight, and that he could ask no one to stand his second; also that it
+would not be possible to arrange a formal duel between opposites so young
+as Gering and himself.  He sketched this briefly, and the Bostonian
+nodded moody assent.  "Come, then," said Iberville, "let us find a place.
+My sword is at my hand.  Yours?"
+
+"Mine is not far off," answered Gering sullenly.  Iberville forbore to
+point a moral, but walked to the mantel, above which hung two swords of
+finest steel, with richly-chased handles.  He had noted them as soon as
+he had entered the room.  "By the governor's leave," he said, and took
+them down.  "Since we are to ruffle him let him furnish the spurs--eh?
+Shall we use these, and so be even as to weapons?  But see," he added,
+with a burst of frankness, "I am in a--a trouble."  It was not easy on
+the instant to find the English word.  He explained the duties of his
+mission.  It was singular to ask his enemy that he should see his papers
+handed to Count Frontenac if he were killed, but it was characteristic of
+him.
+
+"I will see the papers delivered," said Gering, with equal frankness.
+
+"That is, if by some miraculous chance I should be killed," added
+Iberville.  "But I have other ends in view."
+
+"I have only one end in view," retorted Gering.  "But wait," he said, as
+they neared the door leading into the main hall; "we may be seen.  There
+is another way into the grounds through a little hall here."  He turned
+and opened a door almost as small as a panel.  "I was shown this secret
+door the other day, and since ours is a secret mission let us use it."
+
+"Very well.  But a minute more," said Iberville.  He went and unhooked a
+fine brass lantern, of old Dutch workmanship, swung from the ceiling by a
+chain.  "We shall need a light," he remarked.
+
+They passed into the musty little hallway, and Gering with some
+difficulty drew back the bolts.  The door creaked open and they stepped
+out into the garden,
+
+Iberville leading the way.  He had not conned his surroundings that
+afternoon for nothing, and when they had reached a quiet place among
+some firs he hung the lantern to the branch of a tree, opening the little
+ornamental door so that the light streamed out.  There was not much of
+it, but it would serve, and without a word, like two old warriors, they
+took off their coats.
+
+Meanwhile Morris had returned to the dining-room to find Jessica standing
+agaze there.  She had just come in; for, chancing to be in her bed-
+chamber, which was just over the secret hallway, she had heard Gering
+shoot the bolts.  Now, the chamber was in a corner, so that the window
+faced another way, but the incident seemed strange to her, and she stood
+for a moment listening.  Then hearing the door shut, she ran down the
+stairs, knocked at the dining-room door and, getting no answer, entered,
+meeting Morris as he came from the governor's room.
+
+"Morris, Morris," she said, "where are they all?"
+
+"The governor is in his room, mistress."
+
+"Who are with him?"  He told her.
+
+"Where are the others?" she urged.  "Mr. Gering and Monsieur Iberville
+--where are they?"
+
+The man's eyes had flashed to the place where the swords were used to
+hang.  "Lord God!" he said under his breath.
+
+Her eyes had followed his.  She ran forward to the wall and threw up her
+hands against it.  "Oh Morris," she said distractedly, "they have taken
+the swords!"  Then she went past him swiftly through the panel and the
+outer door.  She glanced around quickly, running, as she did so, with a
+kind of blind instinct towards the clump of firs.  Presently she saw a
+little stream of light in the trees.  Always a creature of abundant
+energy and sprightliness, she swept through the night, from the comedy
+behind to the tragedy in front; the grey starlight falling about her
+white dress and making her hair seem like a cloud behind her as she ran.
+Suddenly she came in on the two sworders with a scared, transfigured
+face.
+
+Iberville had his man at an advantage, and was making the most of it when
+she came in at an angle behind the other, and the sight of her stayed his
+arm.  It was but for a breath, but it served.  Gering had not seen, and
+his sword ran up Iberville's arm, making a little trench in the flesh.
+
+She ran in on them from the gloom, saying in a sharp, aching voice:
+"Stop, stop!  Oh, what madness!"  The points dropped and they stepped
+back.  She stood between them, looking from one to the other.  At that
+moment Morris burst in also.  "In God's name," he said, "is this your
+honouring of the king's governor!  Ye that have eat and drunk at his
+table the night!  Have ye nae sense o' your manhood, young gentlemen,
+that for a mad gossip ower the wine ye wend into the dark to cut each
+other's throats?  Think--think shame, baith o' ye, being as ye are of
+them that should know better."
+
+Gering moodily put on his coat and held his peace.  Iberville tossed his
+sword aside, and presently wrung the blood from his white sleeve.  The
+girl saw him, and knew that he was wounded.  She snatched a scarf from
+her waist and ran towards him.  "You are wounded," she said.  "Oh, take
+this!"
+
+"I am so much sorry, indeed," he answered coolly, winding the scarf about
+his arm.  "Mistress Leveret came too soon."
+
+His face wore a peculiar smile, but his eyes burned with anger; his voice
+was not excited.  Immediately, however, as he looked at Jessica, his mood
+seemed to change.
+
+"Morris," he said, "I am sorry.  Mademoiselle," he added, "pardon!  I
+regret whatever gives you pain."  Gering came near to her, and Iberville
+could see that a flush stole over Jessica's face as he took her hand and
+said: "I am sorry--that you should have known."
+
+"Good!" said Iberville, under his breath.  "Good!  he is worth fighting
+again."
+
+A moment afterwards Morris explained to them that if the matter could be
+hushed he would not impart it to the governor--at least, not until
+Iberville had gone.  Then they all started back towards the house.  It
+did not seem incongruous to Iberville and Gering to walk side by side;
+theirs was a superior kind of hate.  They paused outside the door, on
+Morris's hint, that he might see if the coast was clear, and return the
+swords to their place on the wall.
+
+Jessica turned in the doorway.  "I shall never forgive you," she said,
+and was swallowed by the darkness.  "Which does she mean?" asked
+Iberville, with a touch of irony.  The other was silent.
+
+In a moment Morris came back to tell them that they might come, for the
+dining-room was empty still.
+
+
+
+
+CHAPTER V
+
+THE FRUITS OF THE LAW
+
+Bucklaw having convinced the governor and his friends that down in the
+Spaniards' country there was treasure for the finding, was told that he
+might come again next morning.  He asked if it might not be late
+afternoon instead, because he had cargo from the Indies for sale, and in
+the morning certain merchants were to visit his vessel.  Truth to tell he
+was playing a deep game.  He wanted to learn the governor's plans for the
+next afternoon and evening, and thought to do so by proposing this same
+change.  He did not reckon foolishly.  The governor gave him to
+understand that there would be feasting next day: first, because it
+was the birthday of the Duke of York; secondly, because it was the
+anniversary of the capture from the Dutch; and, last of all, because
+there were Indian chiefs to come from Albany to see New York and himself
+for the first time.  The official celebration would begin in the
+afternoon and last till sundown, so that all the governor's time must be
+fully occupied.  But Bucklaw said, with great candour, that unfortunately
+he had to sail for Boston within thirty-six hours, to keep engagements
+with divers assignees for whom he had special cargo.  If his excellency,
+he said, would come out to his ship the next evening when the shows were
+done, he would be proud to have him see his racketing little craft; and
+it could then be judged if, with furbishing and armaments, she could by
+any means be used for the expedition.  Nicholls consented, and asked the
+king's officers if they would accompany him.  This they were exceedingly
+glad to do: so that the honest shipman's good nature and politeness were
+vastly increased, and he waved his hook in so funny and so boyish a way
+it set them all a-laughing.
+
+So it was arranged forthwith that he should be at a quiet point on the
+shore at a certain hour to row the governor and his friends to the Nell
+Gwynn.  And, this done, he was bade to go to the dining-room and refresh
+himself.
+
+He obeyed with cheerfulness, and was taken in charge by Morris, who,
+having passed on Iberville and Gering to the drawing-room, was once more
+at his post, taciturn as ever.  The governor and his friends had gone
+straight to the drawing-room, so that Morris and he were alone.  Wine was
+set before the sailor and he took off a glass with gusto, his eye cocked
+humorously towards his host.  "No worse fate for a sinner," quoth he;
+"none better for a saint."
+
+Morris's temper was not amiable.  He did not like the rascal.  "Ay," said
+he, "but many's the sinner has wished yon wish, and footed it from the
+stocks to the gallows."
+
+Bucklaw laughed up at him.  It was not a pretty laugh, and his eyes were
+insolent and hard.  But that, changed almost on the instant.  "A good
+thrust, mighty Scot," he said.  "Now what say you to a pasty, or a strip
+of beef cut where the juice runs, and maybe the half of a broiled fowl?"
+
+Morris, imperturbably deliberate, left the room to seek the kitchen.
+Bucklaw got instantly to his feet.  His eye took in every window and
+door, and ran along the ceiling and the wall.  There was a sudden click
+in the wall before him.  It was the door leading to the unused hallway,
+which had not been properly closed and had sprung open.  He caught up a
+candle, ran over, entered the hallway, and gave a grunt of satisfaction.
+He hastily and softly drew the bolts of the outer door, so that any one
+might come in from the garden, then stepped back into the dining-room and
+closed the panel tight behind him, remarking with delight that it had no
+spring-lock, and could be opened from the hallway.  He came back quickly
+to the table, put down the candle, took his seat, stroked his chin with
+his hook, and chuckled.  When Morris came back, he was holding his wine
+with one hand while he hummed a snatch of song and drummed lightly on the
+table with the hook.  Immediately after came a servant with a tray, and
+the Scotsman was soon astonished, not only at the buxomness of his
+appetite, but at the deftness with which he carved and handled things
+with what he called his "tiger."  And so he went on talking and eating,
+and he sat so long that Jessica, as she passed into the corridor and up
+the stairs, wearied by the day, heard his voice uplifted in song.  It so
+worked upon her that she put her hands to her ears, hurried to her room,
+and threw herself upon the bed in a distress she could set down to no
+real cause.
+
+Before the governor and his guests parted for the night, Iberville, as he
+made his adieus to Gering, said in a low voice: "The same place and time
+to-morrow night, and on the same conditions?"
+
+"I shall be happy," said Gering, and they bowed with great formality.
+
+The governor had chanced to hear a word or two and, thinking it was some
+game of which they spoke, said: "Piquet or a game of wits, gentlemen?"
+
+"Neither, your excellency," quoth Gering--"a game called fox and goose."
+
+"Good," said Iberville, under his breath; "my Puritan is waking."
+
+The governor was in ripe humour.  "But it is a game of wits, then, after
+all.  Upon my soul, you two should fence like a pair of veterans."
+
+"Only for a pass or two," said Iberville dryly.  "We cannot keep it up."
+
+All this while a boat was rowing swiftly from the shore of the island
+towards a craft carrying Nell Gwynn beneath the curious, antique
+figurehead.  There were two men in her, and they were talking gloatingly
+and low.
+
+"See, bully, how I have the whole thing in my hands.  Ha!  Received by
+the governor and his friends!  They are all mad for the doubloons, which
+are not for them, my Radisson, but for you and me, and for a greater than
+Colonel Richard Nicholls.  Ho, ho!  I know him--the man who shall lead
+the hunt and find the gold--the only man in all that cursed Boston whose
+heart I would not eat raw, so help me Judas!  And his name--no.  That is
+to come.  I will make him great."
+
+Again he chuckled.  "Over in London they shall take him to their bosoms.
+Over in London his blessed majesty shall dub him knight--treasure-trove
+is a fine reason for the touch of a royal sword--and the king shall say:
+'Rise, Sir William'--No, it is not time for the name; but it is not
+Richard Nicholls, it is not Hogarth Leveret."  He laughed like a boy.
+"I have you, Hogarth Leveret, in my hand, and by God I will squeeze you
+until there is a drop of heart's blood at every pore of your skin!"
+
+Now and again Radisson looked sideways at him, a sardonic smile at his
+lip.  At last: "Bien," he said, "you are merry.  So--I shall be merry
+too, for I have scores to wipe away, and they shall be wiped clean--
+clean."
+
+"You are with me, then," the pirate asked; "even as to the girl?"
+
+"Even as to the girl," was the reply, with a brutal oath.
+
+"That is good, dear lad.  Blood of my soul, I have waited twelve years--
+twelve years."
+
+"You have not told me," rejoined the Frenchman; "speak now."
+
+"There is not much to tell, but we are to be partners once and for all.
+See, my beauty.  He was a kite-livered captain.  There was gold on board.
+We mutinied and put him and four others--their livers were like his own--
+in a boat with provisions plenty.  Then we sailed for Boston.  We never
+thought the crew of skulkers would reach land, but by God they drifted in
+again the very hour we found port.  We were taken and condemned.  First,
+I was put into the stocks, hands and feet, till I was fit for the
+pillory; from the pillory to the wooden horse."  Here he laughed, and the
+laugh was soft and womanlike.  "Then the whipping-post, when I was made
+pulp from my neck to my loins.  After that I was to hang.  I was the only
+one they cooked so; the rest were to hang raw.  I did not hang; I broke
+prison and ran.  For years I was a slave among the Spaniards.  Years
+more--in all, twelve--and then I came back with the little chart for one
+thing, this to do for another.  Who was it gave me that rogues' march
+from the stocks to the gallows's foot?  It was Hogarth Leveret, who deals
+out law in Massachusetts in the king's name, by the grace of God.  It was
+my whim to capture him and take him on a journey--such a journey as he
+would go but once.  Blood of my soul, the dear lad was gone.  But there
+was his child.  See this: when I stood in the pillory a maid one day
+brought the child to the foot of the platform, lifted it up in her arms
+and said: 'Your father put that villain there.'  That woman was sister to
+one of the dogs we'd set adrift.  The child stared at me hard, and I
+looked at her, though my eyes were a little the worse for wear, so that
+she cried out in great fright--the sweet innocent!  and then the wench
+took her away.  When she saw my face to-night--to-day--it sent her wild,
+but she did not remember."  He rubbed his chin in ecstasy and drummed his
+knee.  "Ha!  I cannot have the father--so I'll have the goodly child, and
+great will be the ransom.  Great will be the ransom, my Frenchman!"  And
+once more he tapped Radisson with the tiger.
+
+
+
+
+CHAPTER VI
+
+THE KIDNAPPING
+
+The rejoicing had reached its apogee, and was on the wane.  The Puritan
+had stretched his austereness to the point of levity; the Dutchman had
+comfortably sweated his obedience and content; the Cavalier had paced it
+with a pretty air of patronage and an eye for matron and maid; the
+Indian, come from his far hunting-grounds, bivouacked in the governor's
+presence as the pipe of peace went round.
+
+About twilight the governor and his party had gone home.  Deep in
+ceremonial as he had been, his mind had run upon Bucklaw and the
+Spaniards' country.  So, when the dusk was growing into night, the hour
+came for his visit to the Nell Gwynn.  With his two soldier friends and
+Councillor Drayton, he started by a roundabout for the point where he
+looked to find Bucklaw.  Bucklaw was not there: he had other fish to fry,
+and the ship's lights were gone.  She had changed her anchorage since
+afternoon.
+
+"It's a bold scheme," Bucklaw was saying to his fellow-ruffian in the
+governor's garden, "and it may fail, yet 'twill go hard, but we'll save
+our skins.  No pluck, no pence.  Once again, here's the trick of it.
+I'll go in by the side door I unlocked last night, hide in the hallway,
+then enter the house quietly or boldly, as the case may be.  Plan one: a
+message from his excellency to Miss Leveret, that he wishes her to join
+him on the Nell Gwynn.  Once outside it's all right.  She cannot escape
+us.  We have our cloaks and we have the Spanish drug.  Plan two: make her
+ours in the house.  Out by this hall door-through the grounds--to the
+beach--the boat in waiting--and so, up anchor and away!  Both risky, as
+you see, but the bolder the game the sweeter the spoil.  You're sure her
+chamber is above the hallway, and that there's a staircase to it from the
+main hall?"
+
+"I am very well sure.  I know the house up-stairs and down."
+
+Bucklaw looked to his arms.  He was about starting on his quest when they
+heard footsteps, and two figures appeared.  It was Iberville and Gering.
+They paused a moment not far from where the rogues were hid.
+
+"I think you will agree," said Iberville, "that we must fight."
+
+"I have no other mind."
+
+"You will also be glad if we are not come upon, as last night; though,
+confess, the lady gave you a lease of life?"
+
+"If she comes to-night, I hope it will be when I have done with you,"
+answered Gering.
+
+Iberville laughed a little, and the laugh had fire in it--hatred, and the
+joy of battle.  "Shall it be here or yonder in the pines, where we were
+in train last night?"
+
+"Yonder."
+
+"So."  Then Iberville hummed ironically a song:
+
+              "Oh, bury me where I have fought and fallen,
+               Your scarf across my shoulder, lady mine."
+
+They passed on.  "The game is in our hands," said Bucklaw.  "I understand
+this thing.  That's a pair of gallant young sprigs, but the choice is
+your Frenchman, Radisson."
+
+"I'll pink his breast-bone full of holes if the other doesn't--
+curse him."
+
+A sweet laugh trickled from Bucklaw's lips like oil.  "That's neither
+here nor there.  I'd like to have him down Acapulco way, dear lad.  .  .
+And now, here's my plan all changed.  I'll have my young lady out to stop
+the duel, and, God's love, she'll come alone.  Once here she's ours, and
+they may cut each other's throats as they will, sweetheart."
+
+He crossed the yard, tried the door,--unlocked, as he had left it,--
+pushed it open, and went in, groping his way to the door of the dining-
+room.  He listened, and there was no sound.  Then he heard some one go
+in.  He listened again.  Whoever it was had sat down.  Very carefully he
+felt for the spring and opened the door.  Jessica was seated at the table
+with paper and an ink-horn before her.  She was writing.  Presently she
+stopped--the pen was bad.  She got up and went away to her room.
+Instantly Bucklaw laid his plan.  He entered as she disappeared, went to
+the table and looked at the paper on which she had been writing.  It bore
+but the words, "Dear Friend."  He caught up the quill and wrote hurriedly
+beneath them, this:
+
+"If you'd see two gentlemen fighting, go now where you stopped them last
+night.  The wrong one may be killed unless."
+
+With a quick flash of malice he signed, in half a dozen lightning-like
+strokes, with a sketch of his hook.  Then he turned, hurried into the
+little hall, and so outside, and posted himself beside a lilac bush,
+drawing down a bunch of the flowers to drink in their perfume.  Jessica,
+returning, went straight to the table.  Before she sat down she looked up
+to the mantel, but the swords were there.  She sighed, and a tear
+glistened on her eyelashes.  She brushed it away with her dainty
+fingertips and, as she sat down, saw the paper.  She turned pale, caught
+it up, read it with a little cry, and let it drop with a shudder of fear
+and dismay.  She looked round the room.  Everything was as she had left
+it.  She was dazed.  She stared at the paper again, then ran and opened
+the panel through which Bucklaw had passed, and found the outer door
+ajar.  With a soft, gasping moan she passed into the garden, went swiftly
+by the lilac bush and on towards the trees.  Bucklaw let her do so; it
+was his design that she should be some way from the house.  But, hidden
+by the bushes, he was running almost parallel with her.  On the other
+side of her was Radisson, also running.  She presently heard them and
+swerved, poor child, into the gin of the fowler!  But as the cloak was
+thrown over her head she gave a cry.
+
+The firs, where Iberville and Gering had just plucked out their swords,
+were not far, and both men heard.  Gering, who best knew the voice, said
+hurriedly: "It is Jessica!"
+
+Without a word Iberville leaped to the open, and came into it ahead of
+Gering.  They saw the kidnappers and ran.  Iberville was the first to
+find what Bucklaw was carrying.  "Mother of God," he called, "they're
+taking her off!"
+
+"Help!  help!" cried Gering, and they pushed on.  The two ruffians were
+running hard, but it had been an unequal race at the best, and Jessica
+lay unconscious in Bucklaw's arms, a dead weight.  Presently they plunged
+into the bushes and disappeared.  Iberville and Gering passed through the
+bushes also, but could neither see nor hear the quarry.  Gering was wild
+with excitement and lost his presence of mind.  Meanwhile Iberville went
+beating for a clue.  He guessed that he was dealing with good woodsmen,
+and that the kidnappers knew some secret way out of the garden.  It was
+so.  The Dutch governor had begun to build an old-fashioned wall with a
+narrow gateway, so fitted as to seem part of it.  Through this the two
+had vanished.
+
+Iberville was almost in despair.  "Go back," he suddenly said to Gering,
+"and rouse the house and the town.  I will get on the trail again if I
+can."
+
+Gering started away.  In this strange excitement their own foolish
+quarrel was forgotten, and the stranger took on himself to command; he
+was, at least, not inexperienced in adventure and the wiles of desperate
+men.  All at once he came upon the wall.  He ran along it, and presently
+his fingers felt the passage.  An instant and he was outside and making
+for the shore, in the sure knowledge that the ruffians would take to the
+water.  He thought of Bucklaw, and by some impossible instinct divined
+the presence of his hand.  Suddenly he saw something flash on the ground.
+He stooped and picked it up.  It was a shoe with a silver buckle.  He
+thrilled to the finger-tips as he thrust it in his bosom and pushed on.
+He was on the trail now.  In a few moments he came to the waterside.  He
+looked to where he had seen the Nell Gwynn in the morning, and there was
+never a light in view.  Then a twig snapped, and Bucklaw, the girl in his
+arms, came bundling out of the trees upon the bank.  He had sent Radisson
+on ahead to warn his boat's crew.
+
+He saw Iberville as soon as Iberville saw him.  He knew that the town
+would be roused by this time and the governor on fire for revenge.  But
+there was nothing for it but fight.  He did not fear the result.  Time
+was life to him, and he swung the girl half behind him with his hook-hand
+as Iberville came on, and, whipping out his hanger, caught the
+Frenchman's thrust.  Instantly he saw that his opposite was a swordsman,
+so he let the girl slip to the ground, and suddenly closing with
+Iberville, lunged desperately and expertly at him, straight for a mortal
+part.  But the Frenchman was too agile and adroit for him: he took the
+thrust in the flesh of his ribs and riposted like lightning.  The pirate
+staggered back, but pulled himself together instantly, lunged, and took
+his man in the flesh of his upper sword arm.  Iberville was bleeding from
+the wound in his side and slightly stiff from the slash of the night
+before, but every fibre of his hurt body was on the defensive.  Bucklaw
+knew it, and seemed to debate if the game were worth the candle.  The
+town was afoot, and he had earned a halter for his pains.  He was by no
+means certain that he could kill this champion and carry off the girl.
+Moreover, he did not want Iberville's life, for such devils have their
+likes and dislikes, and he had fancied the chivalrous youngster from the
+first.  But he doubted only for an instant.  What was such a lad's life
+compared with his revenge?  It was madness, as he knew, for a shot would
+guide the pursuit: none the less, did he draw a pistol from his belt and
+fire.  The bullet grazed the lad's temple, carrying away a bit of his
+hair.  Iberville staggered forwards, so weak was he from loss of blood,
+and, with a deep instinct of protection and preservation, fell at
+Jessica's feet.  There was a sound of footsteps and crackling of brush.
+Bucklaw stooped to pick up his prey, but a man burst on him from the
+trees.  He saw that the game was up and he half raised his knife, but
+that was only the mad rage of the instant.  His revenge did not comprise
+so unheard-of a crime.  He thought he had killed Iberville: that was
+enough.  He sprang away towards the spot where his comrades awaited him.
+Escape was his sole ambition now.  The new-comer ran forwards, and saw
+the boy and girl lying as they were dead.  A swift glance at Iberville,
+and he slung his musket shoulderwards and fired at the retreating figure.
+It was a chance shot, for the light was bad and Bucklaw was already
+indistinct.
+
+Now the man dropped on his knee and felt Iberville's heart.  "Alive!" he
+said.  "Alive, thank the mother of God!  Mon brave!  It is ever the same
+--the great father, the great son."
+
+As he withdrew his hand it brushed against the slipper.  He took it out,
+glanced at it, and turned to the cloaked figure.  He undid the cloak and
+saw Jessica's pale face.  He shook his head.  "Always the same," he said,
+"always the same: for a king, for a friend, for a woman!  That is the Le
+Moyne."
+
+But he was busy as he spoke.  With the native chivalry of the woodsman,
+he cared first for the girl.  Between her lips he thrust his drinking-
+horn and held her head against his shoulder.
+
+"My little ma'm'selle-ma'm'selle!" he said.  "Wake up.  It is nothing--
+you are safe.  Ah, the sweet lady!  Come, let me see the colour of your
+eyes.  Wake up--it is nothing."
+
+Presently the girl did open her eyes.  He put the drinking-horn again to
+her lips.  She shuddered and took a sip, and then, invigorated, suddenly
+drew away from him.  "There, there," he said; "it is all right.  Now for
+my poor Iberville."  He took Iberville's head to his knee and thrust the
+drinking-horn between his teeth, as he had done with Jessica, calling him
+in much the same fashion.  Iberville came to with a start.  For a moment
+he stared blindly at his rescuer, then a glad intelligence flashed into
+his eyes.
+
+"Perrot! dear Nick Perrot!" he cried.  "Oh, good--good," he added
+softly.  Then with sudden anxiety:
+
+"Where is she?  Where is she?"
+
+"I am safe, monsieur," Jessica said gently; "but you--you are wounded."
+She came over and dropped on her knees beside him.
+
+"A little," he said; "only a little.  You cared for her first?" he asked
+of Perrot.
+
+Perrot chuckled.  "These Le Moynes!" he said: under his breath.  Then
+aloud: "The lady first, monsieur."
+
+"So," answered Iberville.  "And Bucklaw--the devil, Bucklaw?"
+
+"If you mean the rogue who gave you these," said Perrot, touching the
+wounds, which he had already begun to bind, "I think he got away--the
+light was bad."
+
+Jessica would have torn her frock for a bandage, but Perrot said in his
+broken English: "No, pardon.  Not so.  The cloak la-bas."
+
+She ran and brought it to him.  As she did so Perrot glanced down at her
+feet, and then, with a touch of humour, said: "Pardon, but you have lost
+your slipper, ma'm'selle?"
+
+He foresaw the little comedy, which he could enjoy even in such painful
+circumstances.
+
+"It must have dropped off," said Jessica, blushing.  "But it does not
+matter."
+
+Iberville blushed too, but a smile also flitted across his lips.  "If you
+will but put your hand into my waistcoat here," he said to her, "you will
+find it."  Timidly she did as she was bid, drew forth the slipper, and
+put it on.
+
+"You see," said Iberville, still faint from loss of blood, "a Frenchman
+can fight and hunt too--hunt the slipper."
+
+Suddenly a look of pain crossed her face.
+
+"Mr. Gering, you--you did not kill him?" she asked.  "Oh no,
+mademoiselle," said Iberville; "you stopped the game again."
+
+Presently he told her what had happened, and how Gering was rousing the
+town.  Then he insisted upon getting on his feet, that they might make
+their way to the governor's house.  Stanchly he struggled on, his weight
+upon Perrot, till presently he leaned a hand also on Jessica's shoulder-
+she had insisted.  On the way, Perrot told how it was he chanced to be
+there.  A band of coureurs du bois, bound for Quebec, had come upon old
+Le Moyne and himself in the woods.  Le Moyne had gone on with these men,
+while Perrot pushed on to New York, arriving at the very moment of the
+kidnapping.  He heard the cry and made towards it.  He had met Gering,
+and the rest they knew.
+
+Certain things did not happen.  The governor of New York did not at once
+engage in an expedition to the Spaniards' country.  A brave pursuit was
+made, but Bucklaw went uncaptured.  Iberville and Gering did not make a
+third attempt to fight; Perrot prevented that.  Iberville left, however,
+with a knowledge of three things: that he was the first Frenchman from
+Quebec who had been, or was likely to be, popular in New York; that
+Jessica Leveret had shown a tender gratitude towards him--naive, candid--
+which set him dreaming gaily of the future; that Gering and he, in spite
+of outward courtesy, were still enemies; for Gering could not forget
+that, in the rescue of Jessica, Iberville had done the work while he
+merely played the crier.
+
+"We shall meet again, monsieur," said Iberville at last; "at least, I
+hope so."
+
+"I shall be glad," answered Gering mechanically.  "But 'tis like I shall
+come to you before you come to me," added Iberville, with meaning.
+Jessica was standing not far away, and Gering did not instantly reply.
+In the pause, Iberville said: "Au revoir!  A la bonne heure!" and walked
+away.  Presently he turned with a little ironical laugh and waved his
+hand at Gering; and laugh and gesture rankled in Gering for many a day.
+
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+Love, too, is a game, and needs playing
+To die without whining
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK TRAIL OF THE SWORD, V1, BY PARKER ***
+
+*********** This file should be named 6206.txt or 6206.zip ***********
+
+This eBook was produced by David Widger
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*

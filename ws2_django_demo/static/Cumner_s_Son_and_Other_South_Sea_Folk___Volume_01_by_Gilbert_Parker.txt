@@ -1,0 +1,2427 @@
+﻿The Project Gutenberg EBook Cumner & South Sea Folk, by G. Parker, v1
+#23 in our series by Gilbert Parker
+  Contents:
+    Cumner's Son
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**EBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These EBooks Were Prepared By Thousands of Volunteers*****
+
+
+Title: Cumner & South Sea Folk, v1
+
+Author: Gilbert Parker
+
+
+Release Date: July, 2004  [Etext #6195]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on September 19, 2002]
+
+Edition: 10
+
+Language: English
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK CUMNER & SOUTH SEA FOLK, v1 ***
+
+
+
+
+This eBook was produced by David Widger [widger@cecomet.net]
+
+
+
+
+
+CUMNER'S SON AND OTHER SOUTH SEA FOLK
+
+by Gilbert Parker
+
+Volume 1.
+
+
+
+
+CONTENTS
+
+Volume 1.
+CUMNER'S SON
+
+Volume 2.
+THE HIGH COURT OF BUDGERY-GAR
+AN EPIC IN YELLOW
+DIBBS, R.N.
+A LITTLE MASQUERADE
+DERELICT
+OLD ROSES
+MY WIFE'S LOVERS
+THE STRANGERS' HUT
+
+Volume 3.
+THE PLANTER'S WIFE
+BARBARA GOLDING
+THE LONE CORVETTE
+
+Volume 4.
+A SABLE SPARTAN
+A VULGAR FRACTION
+HOW PANGO WANGO WAS ANNEXED
+AN AMIABLE REVENGE
+THE BLIND BEGGAR AND THE LITTLE RED PEG
+A FRIEND OF THE COMMUNE
+
+Volume 5.
+A PAGAN OF THE SOUTH
+
+
+
+
+
+INTRODUCTION
+
+In a Foreword to Donovan Pasha, published in 1902, I used the following
+words:
+
+"It is now twelve years since I began giving to the public tales of life
+in lands well known to me.  The first of them were drawn from Australia
+and the islands of the southern Pacific, where I had lived and roamed in
+the middle and late eighties.  .  .  .  Those tales of the Far South were
+given out with some prodigality.  They did not appear in book form,
+however; for at the time I was sending out these antipodean sketches I
+was also writing--far from the scenes where they were laid--a series of
+Canadian tales, many of which appeared in the 'Independent' of New York,
+in the 'National Observer', edited by Mr. Henley, and in the 'Illustrated
+London News'.  On the suggestion of my friend Mr. Henley, the Canadian
+tales, Pierre and His People, were published first; with the result that
+the stories of the southern hemisphere were withheld from publication,
+though they have been privately printed and duly copyrighted.  Some day I
+may send them forth, but meanwhile I am content to keep them in my care."
+
+These stories made the collection published eventually under the title of
+Cumner's Son, in 1910.  They were thus kept for nearly twenty years
+without being given to the public in book form.  In 1910 I decided,
+however, that they should go out and find their place with my readers.
+The first story in the book, Cumner's Son, which represents about four
+times the length of an ordinary short story, was published in Harper's
+Weekly, midway between 1890 and 1900.  All the earlier stories belonged
+to 1890, 1891, 1892, and 1893.  The first of these to be published was
+'A Sable Spartan', 'An Amiable Revenge', 'A Vulgar Fraction', and 'How
+Pango Wango Was Annexed'.  They were written before the Pierre series,
+and were instantly accepted by Mr. Frederick Greenwood, that great
+journalistic figure of whom the British public still takes note, and for
+whom it has an admiring memory, because of his rare gifts as an editor
+and publicist, and by a political section of the public, because Mr.
+Greenwood recommended to Disraeli the purchase of the Suez Canal shares.
+Seventeen years after publishing these stories I had occasion to write to
+Frederick Greenwood, and in my letter I said: "I can never forget that
+you gave me a leg up in my first struggle for recognition in the literary
+world."  His reply was characteristic; it was in keeping with the modest,
+magnanimous nature of the man.  He said: "I cannot remember that there
+was any day when you required a leg up."
+
+While still contributing to the 'Anti-Jacobin', which had a short life
+and not a very merry one, I turned my attention to a weekly called 'The
+Speaker', to which I have referred elsewhere, edited by Mr. Wemyss Reid,
+afterwards Sir Wemyss Reid, and in which Mr. Quiller-Couch was then
+writing a striking short story nearly every week.  Up to that time I had
+only interviewed two editors.  One was Mr. Kinloch-Cooke, now Sir Clement
+Kinloch-Cooke, who at that time was editor of the 'English Illustrated
+Magazine', and a very good, courteous, and generous editor he was, and he
+had a very good magazine; the other was an editor whose name I do not
+care to mention, because his courtesy was not on the same expansive level
+as his vanity.
+
+One bitter winter's day in 1891 I went to Wemyss Reid to tell him,
+if he would hear me, that I had in my mind a series of short stories of
+Australia and the South Seas, and to ask him if he could give them a
+place in 'The Speaker'.  It was a Friday afternoon, and as I went into
+the smudgy little office I saw a gentleman with a small brown bag
+emerging from another room.
+
+At that moment I asked for Mr. Wemyss Reid.  The gentleman with the
+little brown bag stood and looked sharply at me, but with friendly if
+penetrating eyes.  "I am Wemyss Reid--you wish to see me?" he said.
+"Will you give me five minutes?" I asked.  "I am just going to the
+train, but I will spare you a minute," he replied.  He turned back into
+another smudgy little room, put his bag on the table, and said: "Well?"
+I told him quickly, eagerly, what I wished to do, and I said to him at
+last: "I apologise for seeking you personally, but I was most anxious
+that my work should be read by your own eyes, because I think I should be
+contented with your judgment, whether it was favourable or unfavourable."
+Taking up his bag again, he replied, "Send your stories along.  If I
+think they are what I want I will publish them.  I will read them
+myself."  He turned the handle of the door, and then came back to me and
+again looked me in the eyes.  "If I cannot use them--and there might be
+a hundred reasons why I could not, and none of them derogatory to your
+work--" he said, "do not be discouraged.  There are many doors.  Mine is
+only one.  Knock at the others.  Good luck to you."
+
+I never saw Wemyss Reid again, but he made a friend who never forgot him,
+and who mourned his death.  It was not that he accepted my stories; it
+was that he said what he did say to a young man who did not yet know what
+his literary fortune might be.  Well, I sent him a short story called,
+'An Epic in Yellow'.  Proofs came by return of post.  This story was
+followed by 'The High Court of Budgery-Gar', 'Old Roses', 'My Wife's
+Lovers', 'Derelict', 'Dibbs, R.N.', 'A Little Masquerade', and 'The
+Stranger's Hut'.  Most, if not all, of these appeared before the Pierre
+stories were written.
+
+They did not strike the imagination of the public in the same way as the
+Pierre series, but they made many friends.  They were mostly Australian,
+and represented the life which for nearly four years I knew and studied
+with that affection which only the young, open-eyed enthusiast, who
+makes his first journey in the world, can give.  In the same year, for
+'Macmillan's Magazine', I wrote 'Barbara Golding' and 'A Pagan of the
+South', which was originally published as 'The Woman in the Morgue'.
+'A Friend of the Commune' was also published in the 'English Illustrated
+Magazine', and 'The Blind Beggar and the Little Red Peg' found a place in
+the 'National Observer' after W. E. Henley had ceased to be its editor,
+and Mr. J. C. Vincent, also since dead, had taken his place.  'The Lone
+Corvette' was published in 'The Westminster Gazette' as late as 1893.
+
+Of certain of these stories, particularly of the Australian group,
+I have no doubt.  They were lifted out of the life of that continent with
+sympathy and care, and most of the incidents were those which had come
+under my own observation.  I published them at last in book form, because
+I felt that no definitive edition of my books ought to appear--and I had
+then a definitive edition in my mind--without these stories which
+represented an early phase in my work.  Whatever their degree of merit,
+they possess freshness and individuality of outlook.  Others could no
+doubt have written them better, but none could have written them with
+quite the same touch or turn or individuality; and, after all, what we
+want in the art of fiction is not a story alone, not an incident of life
+or soul simply as an incident, but the incident as seen with the eye--
+and that eye as truthful and direct as possible--of one individual
+personality.  George Meredith and Robert Louis Stevenson might each have
+chosen the same subject and the same story, and each have produced a
+masterpiece, and yet the world of difference between the way it was
+presented by each was the world of difference between the eyes that saw.
+So I am content to let these stories speak little or much, but still to
+speak for me.
+
+
+
+
+CUMNER'S SON
+
+I
+
+THE CHOOSING OF THE MESSENGER
+
+There was trouble at Mandakan.  You could not have guessed it from
+anything the eye could see.  In front of the Residency two soldiers
+marched up and down sleepily, mechanically, between two ten-pounders
+marking the limit of their patrol; and an orderly stood at an open door,
+lazily shifting his eyes from the sentinels to the black guns, which gave
+out soft, quivering waves of heat, as a wheel, spinning, throws off
+delicate spray.  A hundred yards away the sea spread out, languid and
+huge.  It was under-tinged with all the colours of a morning sunrise over
+Mount Bobar not far beyond, lifting up its somnolent and massive head
+into the Eastern sky.  "League-long rollers" came in as steady as columns
+of infantry, with white streamers flying along the line, and hovering a
+moment, split, and ran on the shore in a crumbling foam, like myriads of
+white mice hurrying up the sand.
+
+A little cloud of tobacco smoke came curling out of a window of the
+Residency.  It was sniffed up by the orderly, whose pipe was in barracks,
+and must lie there untouched until evening at least; for he had stood at
+this door since seven that morning, waiting orders; and he knew by the
+look on Colonel Cumner's face that he might be there till to-morrow.
+
+But the ordinary spectator could not have noticed any difference in
+the general look of things.  All was quiet, too, in the big native city.
+At the doorways the worker in brass and silver hammered away at his
+metal, a sleepy, musical assonance.  The naked seller of sweetmeats went
+by calling his wares in a gentle, unassertive voice; in dark doorways
+worn-eyed women and men gossiped in voices scarce above a whisper; and
+brown children fondled each other, laughing noiselessly, or lay asleep on
+rugs which would be costly elsewhere.  In the bazaars nothing was
+selling, and no man did anything but mumble or eat, save the few scholars
+who, cross-legged on their mats, read and laboured towards Nirvana.
+Priests in their yellow robes and with bare shoulders went by, oblivious
+of all things.
+
+Yet, too, the keen observer could have seen gathered into shaded corners
+here and there, a few sombre, low-voiced men talking covertly to each
+other.  They were not the ordinary gossipers; in the faces of some were
+the marks of furtive design, of sinister suggestion.  But it was all so
+deadly still.
+
+The gayest, cheeriest person in Mandakan was Colonel Cumner's son.
+Down at the opal beach, under a palm-tree, he sat, telling stories of his
+pranks at college to Boonda Broke, the half-breed son of a former Dakoon
+who had ruled the State of Mandakan when first the English came.  The
+saddest person in Mandakan was the present Dakoon, in his palace by the
+Fountain of the Sweet Waters, which was guarded by four sacred warriors
+in stone and four brown men armed with the naked kris.
+
+The Dakoon was dying, though not a score of people in the city knew it.
+He had drunk of the Fountain of Sweet Waters, also of the well that is by
+Bakbar; he had eaten of the sweetmeat called the Flower of Bambaba, his
+chosen priests had prayed, and his favourite wife had lain all day and
+all night at the door of his room, pouring out her soul; but nothing came
+of it.
+
+And elsewhere Boonda Broke was showing Cumner's Son how to throw a kris
+towards one object and make it hit another.  He gave an illustration by
+aiming at a palm-tree and sticking a passing dog behind the shoulder.
+The dog belonged to Cumner's Son, and the lad's face suddenly blazed with
+anger.  He ran to the dog, which had silently collapsed like a punctured
+bag of silk, drew out the kris, then swung towards Boonda Broke, whose
+cool, placid eyes met his without emotion.
+
+"You knew that was my dog," he said quickly in English, "and--and I tell
+you what, sir, I've had enough of you.  A man that'd hit a dog like that
+would hit a man the same way."
+
+He was standing with the crimson kris in his hand above the dog.  His
+passion was frank, vigorous, and natural.
+
+Boonda Broke smiled passively.
+
+"You mean, could hit a man the same way, honoured lord."
+
+"I mean what I said," answered the lad, and he turned on his heel; but
+presently he faced about again, as though with a wish to give his foe the
+benefit of any doubt.  Though Boonda Broke was smiling, the lad's face
+flushed again with anger, for the man's real character had been revealed
+to him on the instant, and he was yet in the indignant warmth of the new
+experience.  If he had known that Boonda Broke had cultivated his
+friendship for months, to worm out of him all the secrets of the
+Residency, there might have been a violent and immediate conclusion to
+the incident, for the lad was fiery, and he had no fear in his heart; he
+was combative, high-tempered, and daring.  Boonda Broke had learned no
+secrets of him, had been met by an unconscious but steady resistance, and
+at length his patience had given way in spite of himself.  He had white
+blood in his veins--fighting Irish blood--which sometimes overcame his
+smooth, Oriental secretiveness and cautious duplicity; and this was one
+of those occasions.  He had flung the knife at the dog with a wish in his
+heart that it was Cumner's Son instead.  As he stood looking after the
+English lad, he said between his teeth with a great hatred, though his
+face showed no change:
+
+"English dog, thou shalt be dead like thy brother there when I am Dakoon
+of Mandakan."
+
+At this moment he saw hurrying towards him one of those natives who, a
+little while before, had been in close and furtive talk in the Bazaar.
+
+Meanwhile the little cloud of smoke kept curling out of the Governor's
+door, and the orderly could catch the fitful murmur of talk that followed
+it.  Presently rifle shots rang out somewhere.  Instantly a tall, broad-
+shouldered figure, in white undress uniform, appeared in the doorway and
+spoke quickly to the orderly.  In a moment two troopers were galloping
+out of the Residency Square and into the city.  Before two minutes had
+passed one had ridden back to the orderly, who reported to the Colonel
+that the Dakoon had commanded the shooting of five men of the tribe of
+the outlaw hill-chief, Pango Dooni, against the rear wall of the Palace,
+where the Dakoon might look from his window and see the deed.
+
+The Colonel sat up eagerly in his chair, then brought his knuckles down
+smartly on the table.  He looked sharply at the three men who sat with
+him.
+
+"That clinches it," said he.  "One of those fellows was Pango Dooni's
+nephew, another was his wife's brother.  It's the only thing to do--some
+one must go to Pango Dooni, tell him the truth, ask him to come down and
+save the place, and sit up there in the Dakoon's place.  He'll stand by
+us, and by England."
+
+No one answered at first.  Every face was gloomy.  At last a grey-haired
+captain of artillery spoke his mind in broken sentences:
+
+"Never do--have to ride through a half-dozen sneaking tribes--Pango
+Dooni, rank robber--steal like a barrack cat--besides, no man could get
+there.  Better stay where we are and fight it out till help comes."
+
+"Help!" said Cumner bitterly.  "We might wait six months before a man-
+of-war put in.  The danger is a matter of hours.  A hundred men, and a
+score of niggers--what would that be against thirty thousand natives?"
+
+"Pango Dooni is as likely to butcher us as the Dakoon," said McDermot,
+the captain of artillery.  Every man in the garrison had killed at least
+one of Pango Dooni's men, and every man of them was known from the Kimar
+Gate to the Neck of Baroob, where Pango Dooni lived and ruled.
+
+The Colonel was not to be moved.  "I'd ride the ninety miles myself, if
+my place weren't here--no, don't think I doubt you, for I know you all!
+But consider the nest of murderers that'll be let loose here when the
+Dakoon dies.  Better a strong robber with a strong robber's honour to
+perch there in the Palace, than Boonda Broke and his cut-throats--"
+
+"Honour--honour?--Pango Dooni!" broke out McDermot the gunner
+scornfully.
+
+"I know the man," said the Governor gruffly; "I know the man, I tell you,
+and I'd take his word for ten thousand pounds, or a thousand head of
+cattle.  Is there any of you will ride to the Neck of Baroob for me?
+For one it must be, and no more--we can spare scarce that, God knows!"
+he added sadly.  "The women and children--"
+
+"I will go," said a voice behind them all; and Cumner's Son stepped
+forward.  "I will go, if I may ride the big sorrel from the Dakoon's
+stud."
+
+The Colonel swung round in his chair and stared mutely at the lad.  He
+was only eighteen years old, but of good stature, well-knit, and straight
+as a sapling.
+
+Seeing that no one answered him, but sat and stared incredulously, he
+laughed a little, frankly and boyishly.  "The kris of Boonda Broke is
+for the hearts of every one of us," said he.  "He may throw it soon--
+to-night--to-morrow.  No man can leave here--all are needed; but a boy
+can ride; he is light in the saddle, and he may pass where a man would be
+caught in a rain of bullets.  I have ridden the sorrel of the Dakoon
+often; he has pressed it on me; I will go to the master of his stud, and
+I will ride to the Neck of Baroob."
+
+"No, no," said one after the other, getting to his feet, "I will go."
+
+The Governor waved them down.  "The lad is right," said he, and he looked
+him closely and proudly in the eyes.  "By the mercy of God, you shall
+ride the ride," said he.  "Once when Pango Dooni was in the city, in
+disguise, aye, even in the Garden of the Dakoon, the night of the Dance
+of the Yellow Fire, I myself helped him to escape, for I stand for a
+fearless robber before a cowardly saint."  His grey moustache and
+eyebrows bristled with energy as he added: "The lad shall go.  He shall
+carry in his breast the bracelet with the red stone that Pango Dooni gave
+me.  On the stone is written the countersign that all hillsmen heed, and
+the tribe-call I know also."
+
+"The danger--the danger--and the lad so young!" said McDermot; but yet
+his eyes rested lovingly on the boy.
+
+The Colonel threw up his head in anger.  "If I, his father, can let him
+go, why should you prate like women?  The lad is my son, and he shall win
+his spurs--and more, and more, maybe," he added.
+
+He took from his pocket Pango Dooni's gift and gave it to the lad, and
+three times he whispered in his ear the tribe-call and the countersign
+that he might know them.  The lad repeated them three times, and, with
+his finger, traced the countersign upon the stone.
+
+That night he rode silently out of the Dakoon's palace yard by a quiet
+gateway, and came, by a roundabout, to a point near the Residency.
+
+He halted under a flame-tree, and a man came out of the darkness and laid
+a hand upon his knee.
+
+"Ride straight and swift from the Kimar Gate.  Pause by the Koongat
+Bridge an hour, rest three hours at the Bar of Balmud, and pause again
+where the roof of the Brown Hermit drums to the sorrel's hoofs.  Ride for
+the sake of the women and children and for your own honour.  Ride like a
+Cumner, lad."
+
+The last sound of the sorrel's hoofs upon the red dust beat in the
+Colonel's ears all night long, as he sat waiting for news from the
+Palace, the sentinels walking up and down, the orderly at the door, and
+Boonda Broke plotting in the town.
+
+
+
+
+II
+
+"REST AT THE KOONGAT BRIDGE AN HOUR"
+
+There was no moon, and but few stars were shining.  When Cumner's Son
+first set out from Mandakan he could scarcely see at all, and he kept his
+way through the native villages more by instinct than by sight.  As time
+passed he saw more clearly; he could make out the figures of natives
+lying under trees or rising from their mats to note the flying horseman.
+Lights flickered here and there in the houses and by the roadside.  A
+late traveller turned a cake in the ashes or stirred some rice in a
+calabash; an anxious mother put some sandalwood on the coals and added
+incense, that the gods might be good to the ailing child on the mat; and
+thrice, at forges in the village, he saw the smith languidly beating iron
+into shape, while dark figures sat on the floor near by, and smoked and
+murmured to each other.
+
+These last showed alertness at the sound of the flying sorrel's hoofs,
+and all at once a tall, keen-eyed horseman sprang to the broad doorway
+and strained his eyes into the night after Cumner's Son.  He waited a few
+moments; then, as if with a sudden thought, he ran to a horse tethered
+near by and vaulted into the saddle.  At a word his chestnut mare got
+away with telling stride in pursuit of the unknown rider, passing up the
+Gap of Mandakan like a ghost.
+
+Cumner's Son had a start by about half a mile, but Tang-a-Dahit rode a
+mare that had once belonged to Pango Dooni, and Pango Dooni had got her
+from Colonel Cumner the night he escaped from Mandakan.
+
+For this mare the hill-chief had returned no gift save the gold bracelet
+which Cumner's Son now carried in his belt.
+
+The mare leaned low on her bit, and travelled like a thirsty hound to
+water, the sorrel tugged at the snaffle, and went like a bullmoose
+hurrying to his herd,
+
+              "That long low gallop that can tire
+               The hounds' deep hate or hunter's fire."
+
+The pace was with the sorrel.  Cumner's Son had not looked behind after
+the first few miles, for then he had given up thought that he might be
+followed.  He sat in his saddle like a plainsman; he listened like a
+hillsman; he endured like an Arab water-carrier.  There was not an ounce
+of useless flesh on his body, and every limb, bone, and sinew had been
+stretched and hardened by riding with the Dakoon's horsemen, by
+travelling through the jungle for the tiger and the panther, by throwing
+the kris with Boonda Broke, fencing with McDermot, and by sabre practice
+with red-headed Sergeant Doolan in the barracks by the Residency Square.
+After twenty miles' ride he was dry as a bone, after thirty his skin was
+moist but not damp, and there was not a drop of sweat on the skin-leather
+of his fatigue cap.  When he got to Koongat Bridge he was like a racer
+after practice, ready for a fight from start to finish.  Yet he was not
+foolhardy.  He knew the danger that beset him, for he could not tell,
+in the crisis come to Mandakan, what designs might be abroad.  He now saw
+through Boonda Broke's friendship for him, and he only found peace for
+his mind upon the point by remembering that he had told no secrets, had
+given no information of any use to the foes of the Dakoon or the haters
+of the English.
+
+On this hot, long, silent ride he looked back carefully, but he could not
+see where he had been to blame; and, if he were, he hoped to strike a
+balance with his own conscience for having been friendly to Boonda Broke,
+and to justify himself in his father's eyes.  If he came through all
+right, then "the Governor"--as he called his father, with the friendly
+affection of a good comrade, and as all others in Mandakan called him
+because of his position--the Governor then would say that whatever harm
+he had done indirectly was now undone.
+
+He got down at the Koongat Bridge, and his fingers were still in the
+sorrel's mane when he heard the call of a bittern from the river bank.
+He did not loose his fingers, but stood still and listened intently, for
+there was scarcely a sound of the plain, the river, or jungle he did not
+know, and his ear was keen to balance 'twixt the false note and the true.
+He waited for the sound again.  From that first call he could not be sure
+which had startled him--the night was so still--the voice of a bird or
+the call between men lying in ambush.  He tried the trigger of his pistol
+softly, and prepared to mount.  As he did so, the call rang out across
+the water again, a little louder, a little longer.
+
+Now he was sure.  It was not from a bittern--it was a human voice,
+of whose tribe he knew not--Pango Dooni's, Boonda Broke's, the Dakoon's,
+or the segments of peoples belonging to none of these--highway robbers,
+cattle-stealers, or the men of the jungle, those creatures as wild and
+secret as the beasts of the bush and more cruel and more furtive.
+
+The fear of the ambushed thing is the worst fear of this world--the sword
+or the rifle-barrel you cannot see and the poisoned wooden spear which
+the men of the jungle throw gives a man ten deaths, instead of one.
+
+Cumner's Son mounted quickly, straining his eyes to see and keeping his
+pistol cocked.  When he heard the call a second time he had for a moment
+a thrill of fear, not in his body, but in his brain.  He had that fatal
+gift, imagination, which is more alive than flesh and bone, stronger than
+iron and steel.  In his mind he saw a hundred men rise up from ambush,
+surround him, and cut him down.  He saw himself firing a half-dozen
+shots, then drawing his sword and fighting till he fell; but he did fall
+in the end, and there was an end of it.  It seemed like years while these
+visions passed through his mind, but it was no longer than it took to
+gather the snaffle-rein close to the sorrel's neck, draw his sword,
+clinch it in his left hand with the rein, and gather the pistol snugly in
+his right.  He listened again.  As he touched the sorrel with his knee he
+thought he heard a sound ahead.
+
+The sorrel sprang forward, sniffed the air, and threw up his head.  His
+feet struck the resounding timbers of the bridge, and, as they did so, he
+shied; but Cumner's Son, looking down sharply, could see nothing to
+either the right or left--no movement anywhere save the dim trees on the
+banks waving in the light wind which had risen.  A crocodile slipped off
+a log into the water--he knew that sound; a rank odour came from the
+river bank--he knew the smell of the hippopotamus.
+
+These very things gave him new courage.  Since he came from Eton to
+Mandakan he had hunted often and well, and once he had helped to quarry
+the Little Men of the Jungle when they carried off the wife and daughter
+of a soldier of the Dakoon.  The smell and the sound of wild life roused
+all the hunter in him.  He had fear no longer; the primitive emotion of
+fighting or self-defence was alive in him.
+
+He had left the bridge behind by twice the horse's length, when, all at
+once, the call of the red bittern rang out the third time, louder than
+before; then again; and then the cry of a grey wolf came in response.
+
+His peril was upon him.  He put spurs to the sorrel.  As he did so, dark
+figures sprang up on all sides of him.  Without a word he drove the
+excited horse at his assailants.  Three caught his bridle-rein, and
+others snatched at him to draw him from his horse.
+
+"Hands off!" he cried, in the language of Mandakan, and levelled his
+pistol.
+
+"He is English!" said a voice.  "Cut him down!"
+
+"I am the Governor's son," said the lad.  "Let go."  "Cut him down!"
+snarled the voice again.
+
+He fired twice quickly.
+
+Then he remembered the tribe-call given his father by Pango Dooni.
+Rising in his saddle and firing again, he called it out in a loud voice.
+His plunging horse had broken away from two of the murderers; but one
+still held on, and he slashed the hand free with his sword.
+
+The natives were made furious by the call, and came on again, striking at
+him with their krises.  He shouted the tribe-call once more, but this
+time it was done involuntarily.  There was no response in front of him;
+but one came from behind.  There was clattering of hoofs on Koongat
+Bridge, and the password of the clan came back to the lad, even as a kris
+struck him in the leg and drew out again.  Once again he called, and
+suddenly a horseman appeared beside him, who clove through a native's
+head with a broadsword, and with a pistol fired at the fleeing figures;
+for Boonda Broke's men who were thus infesting the highway up to Koongat
+Bridge, and even beyond, up to the Bar of Balmud, hearing the newcomer
+shout the dreaded name of Pango Dooni, scattered for their lives, though
+they were yet twenty to two.  One stood his ground, and it would have
+gone ill for Cumner's Son, for this thief had him at fatal advantage, had
+it not been for the horseman who had followed the lad from the forge-fire
+to Koongat Bridge.  He stood up in his stirrups and cut down with his
+broadsword, so that the blade was driven through the head and shoulders
+of his foe as a woodsman splits a log half through, and grunts with the
+power of his stroke.
+
+Then he turned to the lad.
+
+"What stranger calls by the word of our tribe?" he asked.
+
+"I am Cumner's Son," was the answer, "and my father is brother-in-blood
+with Pango Dooni.  I ride to Pango Dooni for the women and children's
+sake."
+
+"Proof!  Proof!  If you be Cumner's Son, another word should be yours."
+
+The Colonel's Son took out the bracelet from his breast.  "It is safe hid
+here," said he, "and hid also under my tongue.  If you be from the Neck
+of Baroob you will know it when I speak it;" and he spoke reverently the
+sacred countersign.
+
+By a little fire kindled in the road, the bodies of their foe beside
+them, they vowed to each other, mingling their blood from dagger pricks
+in the arm.  Then they mounted again and rode towards the Neck of Baroob.
+
+In silence they rode awhile, and at last the hillsman said: "If fathers
+be brothers-in-blood, behold it is good that sons be also."
+
+By this the lad knew that he was now brother-in-blood to the son of Pango
+Dooni.
+
+
+
+
+III
+
+THE CODE OF THE HILLS
+
+"You travel near to Mandakan!" said the lad.  "Do you ride with a
+thousand men?"
+
+"For a thousand men there are ten thousand eyes to see; I travel alone
+and safe," answered Tang-a-Dahit.
+
+"To thrust your head in the tiger's jaw," said Cumner's Son.  "Did you
+ride to be in at the death of the men of your clan?"
+
+"A man will ride for a face that he loves, even to the Dreadful Gates,"
+answered Tang-a-Dahit.  "But what is this of the men of my clan?"
+
+Then the lad told him of those whose heads hung on the rear Palace wall,
+where the Dakoon lay dying, and why he rode to Pango Dooni.
+
+"It is fighting and fighting, naught but fighting," said Tang-a-Dahit
+after a pause; "and there is no peace.  It is fighting and fighting, for
+honour, and glory, and houses and cattle, but naught for love, and naught
+that there may be peace."
+
+Cumner's Son turned round in his saddle as if to read the face of the
+man, but it was too dark.
+
+"And naught that there maybe peace."  Those were the words of a hillsman
+who had followed him furiously in the night ready to kill, who had cloven
+the head of a man like a piece of soap, and had been riding even into
+Mandakan where a price was set on his head.
+
+For long they rode silently, and in that time Cumner's Son found new
+thoughts; and these thoughts made him love the brown hillsman as he had
+never loved any save his own father.
+
+"When there is peace in Mandakan," said he at last, "when Boonda Broke is
+snapped in two like a pencil, when Pango Dooni sits as Dakoon in the
+Palace of Mandakan--"
+
+"There is a maid in Mandakan," interrupted Tanga-Dahit, "and these two
+years she has lain upon her bed, and she may not be moved, for the bones
+of her body are as the soft stems of the lily, but her face is a perfect
+face, and her tongue has the wisdom of God."
+
+"You ride to her through the teeth of danger?"
+
+"She may not come to me, and I must go to her," answered the hillsman.
+
+There was silence again for a long time, for Cumner's Son was turning
+things over in his mind; and all at once he felt that each man's acts
+must be judged by the blood that is in him and the trail by which he has
+come.
+
+The sorrel and the chestnut mare travelled together as on one snaffle-
+bar, step by step, for they were foaled in the same stable.  Through
+stretches of reed-beds and wastes of osiers they passed, and again by a
+path through the jungle where the briar-vines caught at them like eager
+fingers, and a tiger crossed their track, disturbed in his night's rest.
+At length out of the dank distance they saw the first colour of dawn.
+
+"Ten miles," said Tang-a-Dahit, "and we shall come to the Bar of Balmud.
+Then we shall be in my own country.  See, the dawn comes up!  'Twixt here
+and the Bar of Balmud our danger lies.  A hundred men may ambush there,
+for Boonda Broke's thieves have scattered all the way from Mandakan to
+our borders."
+
+Cumner's Son looked round.  There were hills and defiles everywhere, and
+a thousand places where foes could hide.  The quickest way, but the most
+perilous, lay through the long defile between the hills, flanked by
+boulders and rank scrub.  Tang-a-Dahit pointed out the ways that they
+might go--by the path to the left along the hills, or through the green
+defile; and Cumner's Son instantly chose the latter way.
+
+"If the fight were fair," said the hillsman, "and it were man to man, the
+defile is the better way; but these be dogs of cowards who strike from
+behind rocks.  No one of them has a heart truer than Boonda Broke's, the
+master of the carrion.  We will go by the hills.  The way is harder but
+more open, and if we be prospered we will rest awhile at the Bar of
+Balmud, and at noon we will tether and eat in the Neck of Baroob."
+
+They made their way through the medlar trees and scrub to the plateau
+above, and, the height gained, they turned to look back.  The sun was up,
+and trailing rose and amber garments across the great Eastern arch.
+Their path lay towards it, for Pango Dooni hid in the hills, where the
+sun hung a roof of gold above his stronghold.
+
+"Forty to one!" said Tang-a-Dahit suddenly.  "Now indeed we ride for our
+lives!"
+
+Looking down the track of the hillsman's glance Cumner's Son saw a bunch
+of horsemen galloping up the slope.  Boonda Broke's men!
+
+The sorrel and the mare were fagged, the horses of their foes were fresh;
+and forty to one were odds that no man would care to take.  It might be
+that some of Pango Dooni's men lay between them and the Bar of Balmud,
+but the chance was faint.
+
+"By the hand of Heaven," said the hillsman, "if we reach to the Bar of
+Balmud, these dogs shall eat their own heads for dinner!"
+
+They set their horses in the way, and gave the sorrel and mare the bit
+and spur.  The beasts leaned again to their work as though they had just
+come from a feeding-stall and knew their riders' needs.  The men rode
+light and free, and talked low to their horses as friend talks to friend.
+Five miles or more they went so, and then the mare stumbled.  She got to
+her feet again, but her head dropped low, her nostrils gaped red and
+swollen, and the sorrel hung back with her, for a beast, like a man, will
+travel farther two by two than one by one.  At another point where they
+had a long view behind they looked back.  Their pursuers were gaining.
+Tang-a-Dahit spurred his horse on.
+
+"There is one chance," said he, "and only one.  See where the point juts
+out beyond the great medlar tree.  If, by the mercy of God, we can but
+make it!"
+
+The horses gallantly replied to call and spur.  They rounded a curve
+which made a sort of apse to the side of the valley, and presently they
+were hid from their pursuers.  Looking back from the thicket they saw the
+plainsmen riding hard.  All at once Tang-a-Dahit stopped.
+
+"Give me the sorrel," said he.  "Quick--dismount!" Cumner's Son did as
+he was bid.  Going a little to one side, the hillsman pushed through a
+thick hedge of bushes, rolled away a rock, and disclosed an opening which
+led down a steep and rough-hewn way to a great misty valley beneath,
+where was never a bridle-path or causeway over the brawling streams and
+boulders.
+
+"I will ride on.  The mare is done, but the sorrel can make the Bar of
+Balmud."
+
+Cumner's Son opened his mouth to question, but stopped, for the eyes of
+the hillsman flared up, and Tang-a-Dahit said:
+
+"My arm in blood has touched thy arm, and thou art in my hills and not in
+thine own country.  Thy life is my life, and thy good is my good.  Speak
+not, but act.  By the high wall of the valley where no man bides there is
+a path which leads to the Bar of Balmud; but leave it not, whether it go
+up or down or be easy or hard.  If thy feet be steady, thine eye true,
+and thy heart strong, thou shalt come by the Bar of Balmud among my
+people."
+
+Then he caught the hand of Cumner's Son in his own and kissed him between
+the eyes after the manner of a kinsman, and, urging him into the hole,
+rolled the great stone into its place again.  Mounting the sorrel he rode
+swiftly out into the open, rounded the green point full in view of his
+pursuers, and was hid from them in an instant.  Then, dismounting, he
+swiftly crept back through the long grass into the thicket again, mounted
+the mare, and drove her at laboured gallop also around the curve, so that
+it seemed to the plainsmen following that both men had gone that way.  He
+mounted the sorrel again, and loosing a long sash from his waist drew it
+through the mare's bit.  The mare, lightened of the weight, followed
+well.  When the plainsmen came to the cape of green, they paused not by
+the secret place, for it seemed to them that two had ridden past and not
+one.
+
+The Son of Pango Dooni had drawn pursuit after himself, for it is the law
+of the hills that a hillsman shall give his life or all that he has for a
+brother-in-blood.
+
+When Cumner's Son had gone a little way he understood it all!  And he
+would have turned back, but he knew that the hillsman had ridden far
+beyond his reach.  So he ran as swiftly as he could; he climbed where it
+might seem not even a chamois could find a hold; his eyes scarcely seeing
+the long, misty valley, where the haze lay like a vapour from another
+world.  There was no sound anywhere save the brawling water or the lonely
+cry of the flute-bird.  Here was the last refuge of the hillsmen if they
+should ever be driven from the Neck of Baroob.  They could close up every
+entrance, and live unscathed; for here was land for tilling, and wood,
+and wild fruit, and food for cattle.
+
+Cumner's Son was supple and swift, and scarce an hour had passed ere he
+came to a steep place on the other side, with rough niches cut in the
+rocks, by which a strong man might lift himself up to safety.  He stood a
+moment and ate some coffee-beans and drank some cold water from a stream
+at the foot of the crag, and then began his ascent.  Once or twice he
+trembled, for he was worn and tired; but he remembered the last words of
+Tang-a-Dahit, and his fingers tightened their hold.  At last, with a
+strain and a gasp, he drew himself up, and found himself on a shelf of
+rock with all the great valley spread out beneath him.  A moment only he
+looked, resting himself, and then he searched for a way into the hills;
+for everywhere there was a close palisade of rocks and saplings.  At last
+he found an opening scarce bigger than might let a cat through; but he
+laboured hard, and at last drew himself out and looked down the path
+which led into the Bar of Balmud--the great natural escarpment of giant
+rocks and monoliths and medlar trees, where lay Pango Dooni's men.
+
+He ran with all his might, and presently he was inside the huge defence.
+There was no living being to be seen; only the rock-strewn plain and the
+woods beyond.
+
+He called aloud, but nothing answered; he called again the tribe-call of
+Pango Dooni's men, and a hundred armed men sprang up.
+
+"I am a brother-in-blood of Pango Dooni's Son," said he.  "Tang-a-Dahit
+rides for his life to the Bar of Balmud.  Ride forth if ye would save
+him."
+
+"The lad speaks with the tongue of a friend," said a scowling hillsman,
+advancing, "yet how know we but he lies?"
+
+"Even by this," said Cumner's Son, and he spoke the sacred countersign
+and showed again the bracelet of Pango Dooni, and told what had happened.
+Even as he spoke the hillsmen gave the word, and two score men ran down
+behind the rocks, mounted, and were instantly away by the road that led
+to the Koongat Bridge.
+
+The tall hillsman turned to the lad.
+
+"You are beaten by travel," said he.  "Come, eat and drink, and rest."
+
+"I have sworn to breakfast where Pango Dooni bides, and there only will
+I rest and eat," answered the lad.
+
+"The son of Pango Dooni knows the lion's cub from the tame dog's whelp.
+You shall keep your word.  Though the sun ride fast towards noon, faster
+shall we ride in the Neck of Baroob," said the hillsman.
+
+It was half-way towards noon when the hoof-beats drummed over the Brown
+Hermit's cave, and they rested not there; but it was noon and no more
+when they rode through Pango Dooni's gates and into the square where he
+stood.
+
+The tall hillsman dropped to the ground, and Cumner's Son made to do the
+same.  Yet he staggered, and would have fallen, but the hillsman ran an
+arm around his shoulder.  The lad put by the arm, and drew him self up.
+He was most pale.  Pango Dooni stood looking at him, without a word, and
+Cumner's Son doffed his cap.  There was no blood in his lips, and his
+face was white and drawn.
+
+"Since last night what time the bugle blows in the Palace yard, I have
+ridden," said he.
+
+At the sound of his voice the great chief started.  "The voice I know,
+but not the face," said he.
+
+"I am Cumner's Son," replied the lad, and once more he spoke the sacred
+countersign.
+
+
+
+
+IV
+
+BY THE OLD WELL OF JAHAR
+
+To Cumner's Son when all was told, Pango Dooni said: "If my son be dead
+where those jackals swarm, it is well he died for his friend.  If he be
+living, then it is also well.  If he be saved, we will march to Mandakan,
+with all our men, he and I, and it shall be as Cumner wills, if I stay in
+Mandakan or if I return to my hills."
+
+"My father said in the council-room, 'Better the strong robber than the
+weak coward,' and my father never lied," said the lad dauntlessly.  The
+strong, tall chief, with the dark face and fierce eyes, roused in him the
+regard of youth for strong manhood.
+
+"A hundred years ago they stole from my fathers the State of Mandakan,"
+answered the chief, "and all that is here and all that is there is mine.
+If I drive the kine of thieves from the plains to my hills, the cattle
+were mine ere I drove them.  If I harry the rich in the midst of the
+Dakoon's men, it is gaining my own over naked swords.  If I save your
+tribe and Cumner's men from the half-bred jackal Boonda Broke, and hoist
+your flag on the Palace wall, it is only I who should do it."
+
+Then he took the lad inside the house, with the great wooden pillars and
+the high gates, and the dark windows all barred up and down with iron,
+and he led him to a court-yard where was a pool of clear water.  He made
+him bathe in it, and dark-skinned natives brought him bread dipped in
+wine, and when he had eaten they laid him on skins and rubbed him dry,
+and rolled him in soft linen, and he drank the coffee they gave him, and
+they sat by and fanned him until he fell asleep.
+
+                    .......................
+
+The red birds on the window-sill sang through his sleep into his dreams.
+In his dreams he thought he was in the Dakoon's Palace at Mandakan with a
+thousand men before him, and three men came forward and gave him a sword.
+And a bird came flying through the great chambers and hung over him,
+singing in a voice that he understood, and he spoke to the three and to
+the thousand, in the words of the bird, and said:
+
+"It is fighting, and fighting for honour and glory and houses and kine,
+but naught for love, and naught that there may be peace."
+
+And the men said in reply: "It is all for love and it is all for peace,"
+and they still held out the sword to him.  So he took it and buckled it
+to his side, and the bird, flying away out of the great window of the
+chamber, sang: "Peace!  Peace!  Peace!" And Pango Dooni's Son standing
+by, with a shining face, said, "Peace!  Peace!" and the great Cumner
+said, "Peace!" and a woman's voice, not louder than a bee's, but clear
+above all others, said, "Peace!"
+
+                    ......................
+
+He awoke and knew it was a dream; and there beside him stood Pango Dooni,
+in his dress of scarlet and gold and brown, his broadsword buckled on, a
+kris at his belt, and a rich jewel in his cap.
+
+"Ten of my captains and three of my kinsmen are come to break bread with
+Cumner's Son," said he.  "They would hear the tale of our kinsmen who
+died against the Palace wall, by the will of the sick Dakoon."
+
+The lad sprang to his feet fresh and well, the linen and skins falling
+away from his lithe, clean body and limbs, and he took from the slaves
+his clothes.  The eye of the chief ran up and down his form, from his
+keen blue eyes to his small strong ankle.
+
+"It is the body of a perfect man," said he.  "In the days when our State
+was powerful and great, when men and not dogs ruled at Mandakan, no man
+might be Dakoon save him who was clear of mote or beam; of true bone and
+body, like a high-bred yearling got from a perfect stud.  But two such
+are there that I have seen in Mandakan to-day, and they are thyself and
+mine own son."
+
+The lad laughed.  "I have eaten good meat," said he, "and I have no muddy
+blood."
+
+When they came to the dining-hall, the lad at first was abashed, for
+twenty men stood up to meet him, and each held out his hand and spoke the
+vow of a brother-in-blood, for the ride he had made and his honest face
+together acted on them.  Moreover, whom the head of their clan honoured
+they also willed to honour.  They were tall, barbaric-looking men, and
+some had a truculent look, but most were of a daring open manner, and
+careless in speech and gay at heart.
+
+Cumner's Son told them of his ride and of Tang-a-Dahit, and, at last, of
+the men of their tribe who died by the Palace wall.  With one accord they
+rose in their places and swore over bread and a drop of blood of their
+chief that they would not sheathe their swords again till a thousand of
+Boonda Broke's and the Dakoon's men lay where their own kinsmen had
+fallen.  If it chanced that Tang-a-Dahit was dead, then they would never
+rest until Boonda Broke and all his clan were blotted out.  Only Pango
+Dooni himself was silent, for he was thinking much of what should be done
+at Mandakan.
+
+They came out upon the plateau where the fortress stood, and five hundred
+mounted men marched past, with naked swords and bare krises in their
+belts, and then wheeled suddenly and stood still, and shot their swords
+up into the air the full length of the arm, and called the battle-call of
+their tribe.  The chief looked on unmoved, save once when a tall trooper
+rode near him.  He suddenly called this man forth.
+
+"Where hast thou been, brother?" he asked.
+
+"Three days was I beyond the Bar of Balmud, searching for the dog who
+robbed my mother; three days did I ride to keep my word with a foe, who
+gave me his horse when we were both unarmed and spent, and with broken
+weapons could fight no more; and two days did I ride to be by a woman's
+side when her great sickness should come upon her.  This is all, my lord,
+since I went forth, save this jewel which I plucked from the cap of a
+gentleman from the Palace.  It was toll he paid even at the gates of
+Mandakan."
+
+"Didst thou do all that thou didst promise?"
+
+"All, my lord."
+
+"Even to the woman?"  The chief's eye burned upon the man.
+
+"A strong male child is come into the world to serve my lord," said the
+trooper, and he bowed his head.  "The jewel is thine and not mine,
+brother," said the chief softly, and the fierceness of his eyes abated;
+"but I will take the child."
+
+The trooper drew back among his fellows, and the columns rode towards the
+farther end of the plateau.  Then all at once the horses plunged into
+wild gallop, and the hillsmen came thundering down towards the chief and
+Cumner's Son, with swords waving and cutting to right and left, calling
+aloud, their teeth showing, death and valour in their eyes.  The chief
+glanced at Cumner's Son.  The horses were not twenty feet from the lad,
+but he did not stir a muscle.  They were not ten feet from him, and
+swords flashed before his eyes, but still he did not stir a hair's
+breadth.  In response to a cry the horses stopped in full career, not
+more than three feet from him.  Reaching out he could have stroked the
+flaming nostril of the stallion nearest him.
+
+Pango Dooni took from his side a short gold-handled sword and handed it
+to him.
+
+"A hundred years ago," said he, "it hung in the belt of the Dakoon of
+Mandakan; it will hang as well in thine."  Then he added, for he saw a
+strange look in the lad's eyes: "The father of my father's father wore it
+in the Palace, and it has come from his breed to me, and it shall go from
+me to thee, and from thee to thy breed, if thou wilt honour me."
+
+The lad stuck it in his belt with pride, and taking from his pocket a
+silver-mounted pistol, said:
+
+"This was the gift of a fighting chief to a fighting chief when they met
+in a beleaguered town, with spoil, and blood, and misery, and sick women
+and children round them; and it goes to a strong man, if he will take the
+gift of a lad."
+
+At that moment there was a cry from beyond the troopers, and it was
+answered from among them by a kinsman of Pango Dooni, and presently, the
+troopers parting, down the line came Tang-a-Dahit, with bandaged head and
+arm.
+
+In greeting, Pango Dooni raised the pistol which Cumner's Son had given
+him and fired it into the air.  Straightway five hundred men did the
+same.
+
+Dismounting, Tang-a-Dahit stood before his father.  "Have the Dakoon's
+vermin fastened on the young bull at last?" asked Pango Dooni, his eyes
+glowering.  "They crawled and fastened, but they have not fed," answered
+Tang-a-Dahit in a strong voice, for his wounds had not sunk deep.  "By
+the Old Well of Jahar, which has one side to the mountain wall, and one
+to the cliff edge, I halted and took my stand.  The mare and the sorrel
+of Cumner's Son I put inside the house that covers the well, and I lifted
+two stones from the floor and set them against the entrance.  A beggar
+lay dead beside the well, and his dog licked his body.  I killed the cur,
+for, following its master, it would have peace, and peace is more than
+life.  Then, with the pole of the waterpail, I threw the dead dog across
+the entrance upon the paving stones, for these vermin of plainsmen will
+not pass where a dead dog lies, as my father knows well.  They came not
+by the entrance, but they swarmed elsewhere, as ants swarm upon a
+sandhill, upon the roofs, and at the little window where the lamp burns.
+
+"I drove them from the window and killed them through the doorway, but
+they were forty to one.  In the end the pest would have carried me to
+death, as a jackal carries the broken meats to his den, if our hillsmen
+had not come.  For an hour I fought, and five of them I killed and seven
+wounded, and then at the shouts of our hillsmen they fled at last.  Nine
+of them fell by the hands of our people.  Thrice was I wounded, but my
+wounds are no deeper than the scratches of a tiger's cub."
+
+"Hadst thou fought for thyself the deed were good," said Pango Dooni,
+"but thy blood was shed for another, and that is the pride of good men.
+We have true men here, but thou art a true chief and this shalt thou
+wear."
+
+He took the rich belt from his waist, and fastened it round the waist of
+his son.
+
+"Cumner's Son carries the sword that hung in the belt.  We are for war,
+and the sword should be out of the belt.  When we are at peace again ye
+shall put the sword in the belt once more, and hang it upon the wall of
+the Palace at Mandakan, even as ye who are brothers shall never part."
+
+Two hours Tang-a-Dahit rested upon skins by the bathing pool, and an hour
+did the slaves knead him and rub him with oil, and give him food and
+drink; and while yet the sun was but half-way down the sky, they poured
+through the Neck of Baroob, over five hundred fighting men, on horses
+that would kneel and hide like dogs, and spring like deer, and that knew
+each tone of their masters' voices.  By the Bar of Balmud they gathered
+another fifty hillsmen, and again half-way beyond the Old Well of Jahar
+they met two score more, who had hunted Boonda Broke's men, and these
+moved into column.  So that when they came to Koongat Bridge, in the
+country infested by the men of the Dakoon, seven hundred stalwart and
+fearless men rode behind Pango Dooni.  From the Neck of Baroob to Koongat
+Bridge no man stayed them, but they galloped on silently, swiftly,
+passing through the night like a cloud, upon which the dwellers by the
+wayside gazed in wonder and in fear.
+
+At Koongat Bridge they rested for two hours, and drank coffee, and broke
+bread, and Cumner's Son slept by the side of Tang-a-Dahit, as brothers
+sleep by their mother's bed.  And Pango Dooni sat on the ground near them
+and pondered, and no man broke his meditation.  When the two hours were
+gone, they mounted again and rode on through the dark villages towards
+Mandakan.
+
+It was just at the close of the hour before dawn that the squad of
+troopers who rode a dozen rods before the columns, heard a cry from the
+dark ahead.  "Halt-in the name of the Dakoon!"
+
+
+
+
+V
+
+CHOOSE YE WHOM YE WILL SERVE
+
+The company drew rein.  All they could see in the darkness was a single
+mounted figure in the middle of the road.  The horseman rode nearer.
+
+"Who are you?" asked the leader of the company.
+
+"I keep the road for the Dakoon, for it is said that Cumner's Son has
+ridden to the Neck of Baroob to bring Pango Dooni down."
+
+By this time the chief and his men had ridden up.  The horseman
+recognised the robber chief, and raised his voice.
+
+"Two hundred of us rode out to face Pango Dooni in this road.  We had not
+come a mile from the Palace when we fell into an ambush, even two
+thousand men led by Boonda Broke, who would steal the roof and bed of the
+Dakoon before his death.  For an hour we fought but every man was cut
+down save me."
+
+"And you?" asked Pango Dooni.
+
+"I come to hold the road against Pango Dooni, as the Dakoon bade me."
+
+Pango Dooni laughed.  "Your words are large," said he.  "What could you,
+one man, do against Pango Dooni and his hillsman?"
+
+"I could answer the Dakoon here or elsewhere, that I kept the road till
+the hill-wolves dragged me down."
+
+"We be the wolves from the hills," answered Pango Dooni.  "You would
+scarce serve a scrap of flesh for one hundred, and we are seven."
+
+"The wolves must rend me first," answered the man, and he spat upon the
+ground at Pango Dooni's feet.
+
+A dozen men started forward, but the chief called them back.
+
+"You are no coward, but a fool," said he to the horseman.  "Which is it
+better: to die, or to turn with us and save Cumner and the English, and
+serve Pango Dooni in the Dakoon's Palace?"
+
+"No man knows that he must die till the stroke falls, and I come to fight
+and not to serve a robber mountaineer."
+
+Pango Dooni's eyes blazed with anger.  "There shall be no fighting, but a
+yelping cur shall be hung to a tree," said he.
+
+He was about to send his men upon the stubborn horseman when the fellow
+said:
+
+"If you be a man you will give me a man to fight.  We were two hundred.
+If it chance that one of a company shall do as the Dakoon hath said, then
+is all the company absolved; and beyond the mists we can meet the Dakoon
+with open eyes and unafraid when he saith, 'Did ye keep your faith?'"
+
+"By the word of a hillsman, but thou shalt have thy will," said the
+chief.  "We are seven hundred men--choose whom to fight."
+
+"The oldest or the youngest," answered the man.  "Pango Dooni or Cumner's
+Son."
+
+Before the chief had time to speak, Cumner's Son struck the man with the
+flat of his sword across the breast.
+
+The man did not lift his arm, but looked at the lad steadily for a
+moment.  "Let us speak together before we fight," said he, and to show
+his good faith he threw down his sword.
+
+"Speak," said Cumner's Son, and laid his sword across the pommel of his
+saddle.
+
+"Does a man when he dies speak his heart to the ears of a whole tribe?"
+
+"Then choose another ear than mine," said Cumner's Son.  "In war I have
+no secrets from my friends."
+
+A look of satisfaction came into Pango Dooni's face.  "Speak with the man
+alone," said he, and he drew back.
+
+Cumner's Son drew a little to one side with the man, who spoke quickly
+and low in English.
+
+"I have spoken the truth," said he.  "I am Cushnan Di"--he drew himself
+up--"and once I had a city of my own and five thousand men, but a plague
+and then a war came, and the Dakoon entered upon my city.  I left my
+people and hid, and changed myself that no one should know me, and I came
+to Mandakan.  It was noised abroad that I was dead.  Little by little I
+grew in favour with the Dakoon, and little by little I gathered strong
+men about me-two hundred in all at last.  It was my purpose, when the day
+seemed ripe, to seize upon the Palace as the Dakoon had seized upon
+my little city.  I knew from my father, whose father built a new portion
+of the Palace, of a secret way by the Aqueduct of the Failing Fountain,
+even into the Palace itself.  An army could ride through and appear in
+the Palace yard like the mist-shapes from the lost legions.  When I had a
+thousand men I would perform this thing, I thought.
+
+"But day by day the Dakoon drew me to him, and the thing seemed hard to
+do, even now before I had the men.  Then his sickness came, and I could
+not strike an ailing man.  When I saw how he was beset by traitors, in my
+heart I swore that he should not suffer by my hands.  I heard of your
+riding to the Neck of Baroob--the men of Boonda Broke brought word.  So I
+told the Dakoon, and I told him also that Boonda Broke was ready to steal
+into his Palace even before he died.  He started up, and new life seemed
+given him.  Calling his servants, he clothed himself, and he came forth
+and ordered out his troops.  He bade me take my men to keep the road
+against Pango Dooni.  Then he ranged his men before the Palace, and
+scattered them at points in the city to resist Boonda Broke.
+
+"So I rode forth, but I came first to my daughter's bedside.  She lies in
+a little house not a stone's throw from the Palace, and near to the
+Aqueduct of the Falling Fountain.  Once she was beautiful and tall and
+straight as a bamboo stem, but now she is in body no more than a piece of
+silken thread.  Yet her face is like the evening sky after a rain.  She
+is much alone, and only in the early mornings may I see her.  She is
+cared for by an old woman of our people, and there she bides, and thinks
+strange thoughts, and speaks words of wisdom.
+
+"When I told her what the Dakoon bade me do, and what I had sworn to
+perform when the Dakoon was dead, she said:
+
+"'But no.  Go forth as the Dakoon hath bidden.  Stand in the road and
+oppose the hillsmen.  If Cumner's Son be with them, thou shalt tell him
+all.  If he speak for the hillsmen and say that all shall be well with
+thee, and thy city be restored when Pango Dooni sits in the Palace of the
+Dakoon, then shalt thou join with them, that there may be peace in the
+land, for Pango Dooni and the son of Pango Dooni be brave strong men.
+But if he will not promise for the hillsmen, then shalt thou keep the
+secret of the Palace, and abide the will of God."'
+
+"Dost thou know Pango Dooni's son?" asked the lad, for he was sure that
+this man's daughter was she of whom Tang-a-Dahit had spoken.
+
+"Once when I was in my own city and in my Palace I saw him.  Then my
+daughter was beautiful, and her body was like a swaying wand of the
+boolda tree.  But my city passed, and she was broken like a trailing
+vine, and the young man came no more."
+
+"But if he came again now?"
+
+"He would not come."
+
+"But if he had come while she lay there like a trailing vine, and
+listened to her voice, and thought upon her words and loved her still.
+If for her sake he came secretly, daring death, wouldst thou stand--"
+
+The man's eyes lighted.  "If there were such truth in any man," he
+interrupted, "I would fight, follow him, and serve him, and my city
+should be his city, and the knowledge of my heart be open to his eye."
+
+Cumner's Son turned and called to Pango Dooni and his son, and they came
+forward.  Swiftly he told them all.  When he had done so the man sprang
+from his horse, and taking off the thin necklet of beaten gold he wore
+round his throat, without a word he offered it to Tang-a-Dahit, and Tang-
+a-Dahit kissed him on the cheek and gave him the thick, loose chain of
+gold he wore.
+
+"For this was it you risked your life going to Mandakan," said Pango
+Dooni, angrily, to his son; "for a maid with a body like a withered
+gourd."  Then all at once, with a new look in his face, he continued
+softly: "Thou hast the soul of a woman, but thy deeds are the deeds
+of a man.  As thy mother was in heart so art thou."
+
+                    ......................
+
+Day was breaking over Mandakan, and all the city was a tender pink.
+Tower and minaret were like inverted cups of ruddy gold, and the streets
+all velvet dust, as Pango Dooni, guided by Cushnan Di, halted at the wood
+of wild peaches, and a great thicket near to the Aqueduct of the Failing
+Fountain, and looked out towards the Palace of the Dakoon.  It was the
+time of peach blossoms, and all through the city the pink and white
+petals fell like the gay crystals of a dissolving sunrise.  Yet there
+rose from the midst of it a long, rumbling, intermittent murmur, and here
+and there marched columns of men in good order, while again disorderly
+bands ran hither and hither with krises waving in the sun, and the red
+turban of war wound round their heads.
+
+They could not see the front of the Palace, nor yet the Residency Square,
+but, even as they looked, a cannonade began, and the smoke of the guns
+curled through the showering peach-trees.  Hoarse shoutings and cries
+came rolling over the pink roofs, and Cumner's Son could hear through all
+the bugle-call of the artillery.
+
+A moment later Cushnan Di was leading them through a copse of pawpaw
+trees to a secluded garden by the Aqueduct, overgrown with vines and
+ancient rose trees, and cherry shrubs.  After an hour's labour with
+spades, while pickets guarded all approach, an opening was disclosed
+beneath the great flag-stones of a ruined building.  Here was a wide
+natural corridor overhung with stalactites, and it led on into an
+artificial passage which inclined gradually upwards till it came into a
+mound above the level by which they entered.  Against this mound was
+backed a little temple in the rear of the Palace.  A dozen men had
+remained behind to cover up the entrance again.  When these heard Pango
+Dooni and the others in the Palace yard they were to ride straight for a
+gate which should be opened to them.
+
+There was delay in opening the stone door which led into the temple, but
+at last they forced their way.  The place was empty, and they rode
+through the Palace yard, pouring out like a stream of spectral horsemen
+from the altar of the temple.  Not a word was spoken as Pango Dooni and
+his company galloped towards the front of the Palace.  Hundreds of the
+Dakoon's soldiers and terrified people who had taken refuge in the great
+court-yard, ran screaming into corners, or threw themselves in terror
+upon the ground.  The walls were lined with soldiers, but not one raised
+his hand to strike--so sudden was the coming of the dreaded hillsman.
+They knew him by the black flag and the yellow sunburst upon it.
+
+Presently Pango Dooni gave the wild battle-call of his tribe, and every
+one of his seven hundred answered him as they rode impetuously to the
+Palace front.  Two thousand soldiers of the Dakoon, under command of his
+nephew, Gis-yo-Bahim, were gathered there.  They were making ready to
+march out and defend the Palace.  When they saw the flag and heard the
+battle-cry there was a movement backward, as though this handful of men
+were an overwhelming army coming at them.  Scattered and disorderly
+groups of men swayed here and there, and just before the entrance of the
+Palace was a wailing group, by which stood two priests with their yellow
+robes and bare shoulders, speaking to them.  From the walls the soldiers
+paused from resisting the swarming herds without.
+
+"The Dakoon is dead!" cried Tang-a-Dahit.
+
+As if in response came the wailing death-cry of the women of the Palace
+through the lattice windows, and it was taken up by the discomfited crowd
+before the Palace door.
+
+"The Lord of all the Earth, the great Dakoon, is dead."
+
+Pango Dooni rode straight upon the group, who fled at his approach, and,
+driving the priests indoors, he called aloud:
+
+"The Dakoon is living.  Fear not!"
+
+For a moment there was no reply, and he waved his men into place before
+the Palace, and was about to ride down upon the native army, but Cumner's
+Son whispered to him, and an instant after the lad was riding alone upon
+the dark legions.  He reined in his horse not ten feet away from the
+irregular columns.
+
+"You know me," said he.  "I am Cumner's Son.  I rode into the hills at
+the Governor's word to bring a strong man to rule you.  Why do ye stand
+here idle?  My father, your friend, fights with a hundred men at
+the Residency.  Choose ye between Boonda Broke, the mongrel, and Pango
+Dooni, the great hillsman.  If ye choose Boonda Broke, then shall your
+city be levelled to the sea, and ye shall lose your name as a people.
+Choose!"
+
+One or two voices cried out; then from the people, and presently from the
+whole dark battalions, came the cry: "Long live Pango Dooni!"
+
+Pango Dooni rode down with Tang-a-Dahit and Cushnan Di.  He bade all but
+five hundred mounted men to lay down their arms.  Then he put over them a
+guard of near a hundred of his own horsemen.  Gathering the men from the
+rampart he did the same with these, reserving only one hundred to remain
+upon the walls under guard of ten hillsmen.  Then, taking his own six
+hundred men and five hundred of the Dakoon's horsemen, he bade the gates
+to be opened, and with Cushnan Di marched out upon the town, leaving
+Tanga-Dahit and Cumner's Son in command at the Palace.
+
+At least four thousand besiegers lay before the walls, and, far beyond,
+they could see the attack upon the Residency.
+
+The gates of the Palace closed on the last of Pango Dooni's men, and with
+a wild cry they rode like a monstrous wave upon the rebel mob.  There was
+no preparation to resist the onset.  The rush was like a storm out of the
+tropics, and dread of Pango Dooni's name alone was as death among them.
+
+The hillsmen clove the besiegers through like a piece of pasteboard, and
+turning, rode back again through the broken ranks, their battle-call
+ringing high above the clash of steel.  Again they turned at the Palace
+wall, and, gathering impetus, they rode at the detached and battered
+segments of the miserable horde, and once more cut them down, then
+furiously galloped towards the Residency.
+
+They could hear one gun firing intermittently, and the roars of Boonda
+Broke's men.  They did not call or cry till within a few hundred yards of
+the Residency Square.  Then their battle-call broke forth, and Boonda
+Broke turned to see seven hundred bearing down on his ten thousand, the
+black flag with the yellow sunburst over them.
+
+Cumner, the Governor, and McDermot heard the cry of the hillsmen, too,
+and took heart.
+
+Boonda Broke tried to divide his force, so that half of them should face
+the hillsmen, and half the Residency; but there was not time enough; and
+his men fought as they were attacked, those in front against Pango Dooni,
+those behind against Cumner.  The hillsmen rode upon the frenzied rebels,
+and were swallowed up by the great mass of them, so that they seemed
+lost.  But slowly, heavily, and with ferocious hatred, they drove their
+hard path on.  A head and shoulders dropped out of sight here and there;
+but the hillsmen were not counting their losses that day, and when Pango
+Dooni at last came near to Boonda Broke the men he had lost seemed found
+again, for it was like water to the thirsty the sight of this man.
+
+But suddenly there was a rush from the Residency Square, and thirty men,
+under the command of Cumner, rode in with sabres drawn.
+
+There was a sudden swaying movement of the shrieking mass between Boonda
+Broke and Pango Dooni, and in the confusion and displacement Boonda Broke
+had disappeared.
+
+Panic and flight came after, and the hillsmen and the little garrison
+were masters of the field.
+
+"I have paid the debt of the mare," said Pango Dooni, laughing.
+
+"No debt is paid till I see the face of my son," answered Cumner
+anxiously.
+
+Pango Dooni pointed with his sword.  "In the Palace yard," said he.
+
+"In the Palace yard, alive?" asked Cumner.  Pango Dooni smiled.  "Let us
+go and see."
+
+Cumner wiped the sweat and dust and blood from his face, and turned to
+McDermot.
+
+"Was I right when I sent the lad?" said he proudly.  "The women and
+children are safe."
+
+
+
+
+VI
+
+CONCERNING THE DAUGHTER OF CUSHNAN DI
+
+The British flag flew half-mast from the Palace dome, and two others flew
+behind it; one the black and yellow banner of the hillsmen, the other the
+red and white pennant of the dead Dakoon.  In the Palace yard a thousand
+men stood at attention, and at their head was Cushnan Di with fifty
+hillsmen.  At the Residency another thousand men encamped, with a hundred
+hillsmen and eighty English, under the command of Tang-a-Dahit and
+McDermot.  By the Fountain of the Sweet Waters, which is over against the
+Tomb where the Dakoon should sleep, another thousand men were patrolled,
+with a hundred hillsmen, commanded by a kinsman of Pango Dooni.  Hovering
+near were gloomy, wistful crowds of people, who drew close to the mystery
+of the House of Death, as though the soul of a Dakoon were of more moment
+than those of the thousand men who had fallen that day.  Along the line
+of the Bazaar ranged another thousand men, armed only with krises, under
+the command of the heir of the late Dakoon, and with these were a hundred
+and fifty mounted hillsmen, watchful and deliberate.  These were also
+under the command of a kinsman of Pango Dooni.
+
+It was at this very point that the danger lay, for the nephew of the
+Dakoon, Gis-yo-Bahim, was a weak but treacherous man, ill-fitted to rule;
+a coward, yet ambitious; distrusted by the people, yet the heir to the
+throne.  Cumner and Pango Dooni had placed him at this point for no other
+reason than to give him his chance for a blow, if he dared to strike it,
+at the most advantageous place in the city.  The furtive hangers-on, cut-
+throats, mendicants, followers of Boonda Broke, and haters of the
+English, lurked in the Bazaars, and Gis-yo-Bahim should be tempted for
+the first and the last time.  Crushed now, he could never rise again.
+Pango Dooni had carefully picked the hillsmen whom he had sent to the
+Bazaar, and their captain was the most fearless and the wariest fighter
+from the Neck of Baroob, save Pango Dooni himself.
+
+Boonda Broke was abroad still.  He had escaped from the slaughter before
+the Residency and was hidden somewhere in the city.  There were yet in
+Mandakan ten thousand men who would follow him that would promise the
+most, and Boonda Broke would promise the doors of Heaven as a gift to the
+city, and the treasures of Solomon to the people, if it might serve his
+purposes.  But all was quiet save where the mourners followed their dead
+to the great funeral pyres, which were set on three little hills just
+outside the city.  These wailed as they passed by.  The smoke of the
+burnt powder had been carried away by a gentle wind, and in its place was
+the pervasive perfume of the peach and cherry trees, and the aroma of the
+gugan wood which was like cut sandal in the sun after a rain.  In the
+homes of a few rich folk there was feasting also, for it mattered little
+to them whether Boonda Broke or Pango Dooni ruled in Mandakan, so that
+their wealth was left to them.  But hundreds of tinkling little bells
+broke the stillness.  These were carried by brown bare-footed boys, who
+ran lightly up and down the streets, calling softly: "Corn and tears and
+wine for the dead!"  It was the custom for mourners to place in the hands
+of the dead a bottle of tears and wine, and a seed of corn, as it is
+written in the Proverbs of Dol:
+
+"When thou journeyest into the Shadows, take not sweetmeats with thee,
+but a seed of corn and a bottle of tears and wine; that thou mayest have
+a garden in the land whither thou goest."
+
+It was yet hardly night when the pyres were lighted on the little hills
+and a warm glow was thrown over all the city, made warmer by roseate-hued
+homes and the ruddy stones and velvety dust of the streets.  At midnight
+the Dakoon was to be brought to the Tomb with the Blue Dome.  Now in the
+Palace yard his body lay under a canopy, the flags of Mandakan and
+England over his breast, twenty of his own naked body-guard stood round,
+and four of his high chiefs stood at his head and four at his feet, and
+little lads ran softly past, crying: "Corn and tears and wine for the
+dead!"  And behind all these again were placed the dark battalions and
+the hillsmen.  It went abroad through the city that Pango Dooni and
+Cumner paid great homage to the dead Dakoon, and the dread of the
+hillsmen grew less.
+
+But in one house there had been no fear, for there, by the Aqueduct of
+the Failing Fountain, lived Cushnan Di, a fallen chief, and his daughter
+with the body like a trailing vine; for one knew the sorrow of
+dispossession and defeat and the arm of a leader of men, and the other
+knew Tang-a-Dahit and the soul that was in him.
+
+This night, while yet there was an hour before the body of the dead
+Dakoon should go to the Tomb with the Blue Dome, the daughter of Cushnan
+Di lay watching for her door to open; for she knew what had happened in
+the city, and there was one whom her spirit longed for.  An old woman sat
+beside her with hands clasped about her knees.
+
+"Dost thou hear nothing?" said a voice from the bed.  "Nothing but the
+stir of the mandrake trees, beloved."
+
+"Nay, but dost thou not hear a step?"
+
+"Naught, child of the heaven-flowers, but a dog's foot in the moss."
+
+"Thou art sure that my father is safe?"
+
+"The Prince is safe, angel of the high clouds.  He led the hillsmen by
+the secret way into the Palace yard."  There was silence for a moment,
+and then the girl's voice said again: "Hush!  but there was a footstep--
+I heard a breaking twig."
+
+Her face lighted, and the head slightly turned towards the door.  But the
+body did not stir.  It lay moveless, save where the bosom rose and fell
+softly, quivering under the white robe.  A great wolf-dog raised its head
+at the foot of the bed and pointed its ears, looking towards the door.
+
+The face of the girl was beautiful.  A noble peace was upon it, and the
+eyes were like lamps of dusky fire, as though they held all the strength
+of the nerveless body.  The love burning in them was not the love of a
+maid for a man, but that which comes after, through pain and trouble and
+wisdom.  It was the look that lasts after death, the look shot forward
+from the Hereafter upon a living face which has looked into the great
+mystery, but has not passed behind the curtains.
+
+There was a knock upon the door, and, in response to a summons, Tang-a-
+Dahit stepped inside.  A beautiful smile settled upon the girl's face,
+and her eyes brooded tenderly upon the young hillsman.
+
+"I am here, Mami," said he.
+
+"Friend of my heart," she answered.  "It is so long!"
+
+Then he told her how, through Cumner's Son, he had been turned from his
+visit two days before, and of the journey down, and of the fighting, and
+of all that had chanced.
+
+She smiled, and assented with her eyes--her father had told her.  "My
+father knows that thou dost come to me, and he is not angry," she said.
+
+Then she asked him what was to be the end of all, and he shook his head.
+"The young are not taken into counsel," he answered, "neither I nor
+Cumner's Son."
+
+All at once her eyes brightened as though a current of light had been
+suddenly sent through them.  "Cumner's Son," said she--"Cumner's Son, and
+thou--the future of Mandakan is all with ye; neither with Cumner, nor
+with Pango Dooni, nor with Cushnan Di.  To the old is given counsel, and
+device, and wisdom, and holding; but to the young is given hope, and
+vision, and action, and building, and peace."
+
+"Cumner's Son is without," said he.  "May I fetch him to thee?"
+
+She looked grave, and shrank a little, then answered yes.
+
+"So strong, so brave, so young!" she said, almost under her breath, as
+the young man entered.  Cumner's Son stood abashed at first to see this
+angelic head, so full of light and life, like nothing he had ever seen,
+and the nerveless, moveless body, like a flower with no roots.
+
+"Thou art brave," said she, "and thy heart is without fear, for thou hast
+no evil in thee.  Great things shall come to thee, and to thee," she
+added, turning to Tang-a-Dahit, "but by different ways."
+
+Tang-a-Dahit looked at her as one would look at the face of a saint; and
+his fingers, tired yet with the swinging of the sword, stroked the white
+coverlet of her couch gently and abstractedly.  Once or twice Cumner's
+Son tried to speak, but failed; and at last all he could say was: "Thou
+art good--thou art good!" and then he turned and stole quietly from the
+room.
+
+At midnight they carried the Dakoon to the resting-place of his fathers.
+A thousand torches gleamed from the Palace gates through the Street of
+Divers Pities, and along the Path by the Bazaar to the Tomb with the Blue
+Dome.  A hundred hillsmen rode before, and a hundred behind, and between
+were two thousand soldiers of Mandakan on foot and fifty of the late
+Dakoon's body-guard mounted and brilliant in scarlet and gold.  Behind
+the gun-carriage, which bore the body, walked the nephew of the great
+Dakoon, then came a clear space, and then Pango Dooni, and Cumner, and
+behind these twenty men of the artillery, at whose head rode McDermot and
+Cumner's Son.
+
+As they passed the Path by the Bazaar every eye among the hillsmen and
+among the handful of British was alert.  Suddenly a savage murmuring
+among the natives in the Bazaar broke into a loud snarl, and it seemed as
+if a storm was about to break; but as suddenly, at a call from Cumner,
+the hillsmen, the British, and a thousand native soldiers, faced the
+Bazaar in perfect silence, their lances, swords, and rifles in a pose of
+menace.  The whole procession stood still for a moment.  In the pause the
+crowds in the Bazaar drew back, then came a loud voice calling on them to
+rescue the dead Dakoon from murderers and infidels; and a wave of dark
+bodies moved forward, but suddenly cowered before the malicious stillness
+of the hillsmen and the British, and the wave retreated.
+
+Cumner's Son had recognised the voice, and his eye followed its direction
+with a perfect certainty.  Even as he saw the figure of Boonda Broke
+disguised as a native soldier the half-breed's arm was raised, and a kris
+flew from his hands, aimed at the heart of Pango Dooni.  But as the kris
+flew the youth spurred his horse out of the ranks and down upon the
+murderer, who sprang back into the Bazaar.  The lad fearlessly rode
+straight into the Bazaar, and galloped down upon the fugitive, who
+suddenly swung round to meet him with naked kris; but, as he did so, a
+dog ran across his path, tripped him up, and he half fell.  Before he
+could recover himself a pistol was at his head.  "March!" said the lad;
+and even as ten men of the artillery rode through the crowd to rescue
+their Colonel's son, he marched the murderer on.  But a sudden frenzy
+possessed Boonda Broke.  He turned like lightning on the lad, and raised
+his kris to throw; but a bullet was quicker, and he leaped into the air
+and fell dead without a cry, the kris dropping from his hand.
+
+As Cumner's Son came forth into the path the hills men and artillery
+cheered him, the native troops took it up, and it was answered by the
+people in all the thoroughfare.
+
+Pango Dooni had also seen the kris thrown at himself, but he could not
+escape it, though he half swung round.  It struck him in the shoulder,
+and quivered where it struck, but he drew it out and threw it down.  A
+hillsman bound up the wound, and he rode on to the Tomb.
+
+The Dakoon was placed in his gorgeous house of death, and every man
+cried: "Sleep, lord of the earth!"  Then Cumner stood up in his saddle,
+and cried aloud:
+
+"To-morrow, when the sun stands over the gold dome of the Palace, ye
+shall come to hear your Dakoon speak in the hall of the Heavenly Hours."
+
+No man knew from Cumner's speech who was to be Dakoon, yet every man in
+Mandakan said in the quiet of his home that night:
+
+"To-morrow Pango Dooni will be Dakoon.  We will be as the stubble of the
+field before him.  But Pango Dooni is a strong man."
+
+
+
+
+VII
+
+THE RED PLAGUE
+
+              "He promised he'd bring me a basket of posies,
+                  A garland of lilies, a garland of roses,
+               A little straw hat to set off the blue ribbons
+                  That tie up my bonnie brown hair."
+
+This was the song McDermot sang to himself as he walked up the great
+court-yard of the Palace, past the lattice windows, behind which the
+silent women of the late Dakoon's household still sat, passive and grief-
+stricken.  How knew they what the new Dakoon would do--send them off into
+the hills, or kill them?  McDermot was in a famous humour, for he had
+just come from Pango Dooni, the possessor of a great secret, and he had
+been paid high honour.  He looked round on the court-yard complacently,
+and with an air of familiarity and possession which seemed hardly
+justified by his position.  He noted how the lattices stirred as he
+passed through this inner court-yard where few strangers were ever
+allowed to pass, and he cocked his head vaingloriously.  He smiled at the
+lizards hanging on the foundation stones, he paused to dip his finger in
+the basin of a fountain, he eyed good-humouredly the beggars--old
+pensioners of the late Dakoon--seated in the shade with outstretched
+hands.  One of them drew his attention, a slim, cadaverous-looking wretch
+who still was superior to his fellows, and who sat apart from them,
+evidently by their wish as much as by his own.
+
+McDermot was still humming the song to himself as he neared the group;
+but he stopped short, as he heard the isolated beggar repeat after him in
+English:
+
+         "He promised he'd bring me a bunch of blue ribbons,
+          To tie up my bonnie brown hair."
+
+He was startled.  At first he thought it might be an Englishman in
+disguise, but the brown of the beggar's face was real, and there was no
+mistaking the high narrow forehead, the slim fingers, and the sloe-black
+eyes.  Yet he seemed not a native of Mandakan.  McDermot was about to ask
+him who he was, when there was a rattle of horse's hoofs, and Cumner's
+Son galloped excitedly up the court-yard.
+
+"Captain, captain," said he, "the Red Plague is on the city!"
+
+McDermot staggered back in consternation.  "No, no," cried he, "it is not
+so, sir!"
+
+"The man, the first, lies at the entrance of the Path by the Bazaar.  No
+one will pass near him, and all the city goes mad with fear.  What's to
+be done?  What's to be done?  Is there no help for it?" the lad cried in
+despair.  "I'm going to Pango Dooni.  Where is he?  In the Palace?"
+
+McDermot shook his head mournfully, for he knew the history of this
+plague, the horror of its ravages, the tribes it had destroyed.
+
+The beggar leaned back against the cool wall and laughed.  McDermot
+turned on him in his fury, and would have kicked him, but Cumner's Son,
+struck by some astute intelligence in the man's look, said:
+
+"What do you know of the Red Plague?"
+
+Again the beggar laughed.  "Once I saved the city of Nangoon from the
+plague, but they forgot me, and when I complained and in my anger went
+mad at the door of the Palace, the Rajah drove me from the country.  That
+was in India, where I learned to speak English; and here am I at the door
+of a Palace again!"
+
+"Can you save the city from the plague?" asked Cumner's Son, coming
+closer and eagerly questioning.  "Is the man dead?" asked the beggar.
+
+"Not when I saw him--he had just been taken."
+
+"Good.  The city may be saved if--" he looked at Cumner's Son, "if thou
+wilt save him with me.  If he be healed there is no danger; it is the
+odour of death from the Red Plague which carries death abroad."
+
+"Why do you ask this?" asked McDermot, nodding towards Cumner's Son.
+
+The beggar shrugged his shoulders.  "That he may not do with me as did
+the Rajah of Nangoon."
+
+"He is not Dakoon," said McDermot.
+
+"Will the young man promise me?"
+
+"Promise what?" asked Cumner's Son.
+
+"A mat to pray on, a house, a servant, and a loaf of bread, a bowl of
+goat's milk, and a silver najil every day till I die."
+
+"I am not Dakoon," said the lad, "but I promise for the Dakoon--he will
+do this thing to save the city."
+
+"And if thou shouldst break thy promise?"
+
+"I keep my promises," said the lad stoutly.
+
+"But if not, wilt thou give thy life to redeem it?"
+
+"Yes."
+
+The beggar laughed again and rose.  "Come," said he.
+
+"Don't go--it's absurd!" said McDermot, laying a hand on the young man's
+arm.  "The plague cannot be cured."
+
+"Yes, I will go," answered Cumner's Son.  "I believe he speaks the truth.
+Go you to Pango Dooni and tell him all."
+
+He spurred his horse and trotted away, the beggar running beside him.
+They passed out of the court-yard, and through the Gate by the Fountain
+of Sweet Waters.
+
+They had not gone far when they saw Cumner, the Governor, and six men of
+the artillery riding towards them.  The Governor stopped, and asked him
+where he was going.
+
+The young man told him all.
+
+The Colonel turned pale.  "You would do this thing!" said he dumfounded.
+"Suppose this rascal," nodding towards the beggar, "speaks the truth; and
+suppose that, after all, the sick man should die and--"
+
+"Then the lad and myself would be the first to follow him," interrupted
+the beggar, "and all the multitude would come after, from the babe on the
+mat to the old man by the Palace gates.  But if the sick man lives--"
+
+The Governor looked at his son partly in admiration, partly in pain, and
+maybe a little of anger.
+
+"Is there no one else?  I tell you I--"
+
+"There is no one else; the lad or death for the city!  I can believe the
+young; the old have deceived me," interposed the beggar again.
+
+"Time passes," said Cumner's Son anxiously.  "The man may die.  You say
+yes to my going, sir?" he asked his father.
+
+The Governor frowned, and the skin of his cheeks tightened.
+
+"Go-go, and good luck to you, boy."  He made as if to ride on, but
+stopped short, flung out his hand, and grasped the hand of his son.
+"God be with you, lad," said he; then his jaws closed tightly, and
+he rode on.  It was easier for the lad than for him.
+
+When he told the story to Pango Dooni the chief was silent for a moment;
+then he said:
+
+"Until we know whether it be death or life, whether Cumner's Son save the
+city or lose his life for its sake, we will not call the people together
+in the Hall of the Heavenly Hours.  I will send the heralds abroad, if it
+be thy pleasure, Cumner."
+
+At noon--the hour when the people had been bidden to cry, "Live, Prince
+of the Everlasting Glory!"--they were moving restlessly, fearfully
+through the Bazaar and the highways, and watching from a distance a
+little white house, with blue curtains, where lay the man who was sick
+with the Red Plague, and where watched beside his bed Cumner's Son and
+the beggar of Nangoon.  No one came near.
+
+From the time the sick man had been brought into the house, the beggar
+had worked with him, giving him tinctures which he boiled with sweetmeat
+called the Flower of Bambaba, while Cumner's Son rubbed an ointment into
+his body.  Now and again the young man went to the window and looked out
+at the lines of people hundreds of yards away, and the empty spaces where
+the only life that showed was a gay-plumaged bird that drifted across the
+sunlight, or a monkey that sat in the dust eating a nut.  All at once the
+awe and danger of his position fell upon him.  Imagination grew high in
+him in a moment--that beginning of fear and sorrow and heart-burning;
+yet, too, the beginning of hope and wisdom and achievement.  For the
+first time in his life that knowledge overcame him which masters us all
+sometimes.  He had a desire to fly the place; he felt like running from
+the house, shrieking as he went.  A sweat broke out on his forehead, his
+lips clung to his teeth, his mouth was dry, his breast seemed to
+contract, and breathing hurt him.
+
+"What a fool I was!  What a fool I was to come here!" he said.
+
+He buried his head in his arms as he leaned against the wall, and his
+legs trembled.  From that moment he passed from headlong, daring, lovable
+youth, to manhood; understanding, fearful, conscientious, and morally
+strong.  Just as abject as was his sudden fear, so triumphant was his
+reassertion of himself.
+
+"It was the only way," he said to himself, suddenly wresting his head
+from his protecting arms.  "There's a chance of life, anyhow, chance for
+all of us."  He turned away to the sick man's bed, to see the beggar
+watching him with cold, passive eyes and a curious, half-sneering smile.
+He braced himself and met the passive, scrutinising looks firmly.  The
+beggar said nothing, but motioned to him to lift the sick man upright,
+while he poured some tincture down his throat, and bound the head and
+neck about with saturated linen.
+
+There came a knocking at the door.  The beggar frowned, but Cumner's Son
+turned eagerly.  He had only been in this room ten hours, but it seemed
+like years in which he had lived alone-alone.  But he met firmly the
+passive, inquisitorial eyes of the healer of the plague, and he turned,
+dropped another bar across the door, and bade the intruder to depart.
+
+"It is I, Tang-a-Dahit.  Open!" came a loud, anxious voice.
+
+"You may not come in."
+
+"I am thy brother-in-blood, and my life is thine."
+
+"Then keep it safe for those who prize it.  Go back to the Palace."
+
+"I am not needed there.  My place is with thee."
+
+"Go, then, to the little house by the Aqueduct."  There was silence for
+a moment, and then Tang-a-Dahit said:
+
+"Wilt thou not let me enter?"
+
+The sudden wailing of the stricken man drowned Tang-a-Dahit's words, and
+without a word Cumner's Son turned again to the victim of the Red Plague.
+
+All day the people watched from afar, and all day long soldiers and
+hillsmen drew a wide cordon of quarantine round the house.  Terror seized
+the people when the sun went down, and to the watchers the suspense grew.
+Ceaseless, alert, silent, they had watched and waited, and at last the
+beggar knelt with his eyes fixed on the sleeper, and did not stir.  A
+little way off from him stood Cumner's Son-patient, pale, worn, older by
+ten years than he was three days before.
+
+In the city dismay and misery ruled.  Boonda Broke and the dead Dakoon
+were forgotten.  The people were in the presence of a monster which could
+sweep them from their homes as a hail-storm scatters the hanging nests of
+wild bees.  In a thousand homes little red lights of propitiation were
+shining, and the sweet boolda wood was burning at a thousand shrines.
+Midnight came, then the long lethargic hours after; then that moment when
+all cattle of the field and beasts of the forest wake and stand upon
+their feet, and lie down again, and the cocks crow, and the birds flutter
+their wings, and all resign themselves to sleep once more.  It was in
+this hour that the sick man opened his eyes and raised his head, as
+though the mysterious influence of primitive life were rousing him.
+He said nothing and did nothing, but lay back and drew in a long, good
+breath of air, and afterwards fell asleep.
+
+The beggar got to his feet.  "The man is safe," said he.
+
+"I will go and tell them," said Cumner's Son gladly, and he made as if to
+open the door.
+
+"Not till dawn," commanded the beggar.  "Let them suffer for their sins.
+We hold the knowledge of life and death in our hands."
+
+"But my father, and Tang-a-Dahit, and Pango Dooni."
+
+"Are they without sin?" asked the beggar scornfully.  "At dawn,
+only at dawn!"
+
+So they sat and waited till dawn.  And when the sun was well risen, the
+beggar threw wide open the door of the house, and called aloud to the
+horsemen far off, and Cumner's Son waved with his hand; and McDermot came
+galloping to them.  He jumped from his horse and wrung the boy's hand,
+then that of the beggar, then talked in broken sentences, which were
+spattered by the tears in his throat.  He told Cumner's Son that his face
+was as that of one who had lain in a grave, and he called aloud in a
+blustering voice, and beckoned for troopers to come.  The whole line
+moved down on them, horsemen and soldiers and people.
+
+The city was saved from the Red Plague, and the people, gone mad with
+joy, would have carried Cumner's Son to the Palace on their shoulders,
+but he walked beside the beggar to his father's house, hillsmen in front
+and English soldiers behind; and wasted and ghostly, from riding and
+fighting and watching, he threw himself upon the bed in his own room, and
+passed, as an eyelid blinks, into a deep sleep.
+
+But the beggar sat down on a mat with a loaf of bread, a bowl of goat's
+milk, and a long cigar which McDermot gave him, and he received idly all
+who came, even to the sick man, who ere the day was done was brought to
+the Residency, and, out of danger and in his right mind, lay in the shade
+of a banyan tree, thinking of nothing save the joy of living.
+
+
+
+
+VIII
+
+THE CHOOSING OF THE DAKOON
+
+It was noon again.  In the Hall of the Heavenly Hours all the chiefs and
+great people of the land were gathered, and in the Palace yard without
+were thousands of the people of the Bazaars and the one-storied houses.
+The Bazaars were almost empty, the streets deserted.  Yet silken banners
+of gorgeous colours flew above the pink terraces, and the call of the
+silver horn of Mandakan, which was made first when Tubal Cain was young,
+rang through the long vacant avenues.  A few hundred native troops and a
+handful of hillsmen rode up and down, and at the Residency fifty men kept
+guard under command of Sergeant Doolan of the artillery--his superior
+officers and the rest of his comrades were at the Palace.
+
+In the shade of a banyan tree sat the recovered victim of the Red Plague
+and the beggar of Nangoon, playing a game of chuck-farthing, taught them
+by Sergeant Doolan, a bowl of milk and a calabash of rice beside them,
+and cigarettes in their mouths.  The beggar had a new turban and robe,
+and he sat on a mat which came from the Palace.
+
+He had gone to the Palace that morning as Colonel Cumner had commanded,
+that he might receive the thanks of the Dakoon for the people of
+Mandakan; but he had tired of the great place, and had come back to play
+at chuck-farthing.  Already he had won everything the other possessed,
+and was now playing for his dinner.  He was still chuckling over his
+victory when an orderly and two troopers arrived with a riderless horse,
+bearing the command of Colonel Cumner for the beggar to appear at once at
+the Palace.  The beggar looked doubtfully at the orderly a moment, then
+rose with an air of lassitude and languidly mounted the horse.  Before he
+had got half-way to the Palace he suddenly slid from the horse and said:
+
+"Why should I go?  The son of the great Cumner promised for the Dakoon.
+He tells the truth.  Light of my soul, but truth is the greatest of all!
+I go to play chuck-farthing."
+
+So saying, he turned and ran lazily back to the Residency and sat down
+beneath the banyan tree.  The orderly had no commands to bring him by
+force, so he returned to the Palace, and entered it as the English
+Governor was ending his speech to the people.  "We were in danger," said
+Cumner, "and the exalted chief, Pango Dooni, came to save us.  He
+shielded us from evil and death and the dagger of the mongrel chief,
+Boonda Broke.  Children of heavenly Mandakan, Pango Dooni has lived at
+variance with us, but now he is our friend.  A strong man should rule in
+the Palace of Mandakan as my brother and the friend of my people.  I
+speak for Pango Dooni.  For whom do you speak?"
+
+As he had said, so said all the people in the Hall of the Heavenly Hours,
+and it was taken up with shouts by the people in the Palace yard.  Pango
+Dooni should be Dakoon!
+
+Pango Dooni came forward and said: "If as ye say I have saved ye, then
+will ye do after my desire, if it be right.  I am too long at variance
+with this Palace to sit comfortably here.  Sometime, out of my bitter
+memories, I should smite ye.  Nay, let the young, who have no wrongs to
+satisfy, let the young who have dreams and visions and hopes, rule; not
+the old lion of the hills, who loves too well himself and his rugged ease
+of body and soul.  But if ye owe me any debt, and if ye mean me thanks,
+then will ye make my son Dakoon.  For he is braver than I, and between ye
+there is no feud.  Then will I be your friend, and because my son shall
+be Dakoon I will harry ye no more, but bide in my hills, free and
+friendly, and ready with sword and lance to stand by the faith and fealty
+that I promise.  If this be your will, and the will of the great Cumner,
+speak."
+
+Cumner bowed his head in assent, and the people called in a loud voice
+for Tang-a-Dahit.
+
+The young man stepped forth, and baring his head, said:
+
+"It is meet that the race be to the swift, to those who have proven their
+faith and their swords; who have the gift for ruling, and the talent of
+the sword to sustain it.  For me, if ye will hear me, I will go another
+way.  I will not rule.  My father hath passed on this honour to me, but I
+yield it up to one who hath saved ye from a double death, even to the
+great Cumner's Son.  He rode, as ye know, through peril to Pango Dooni,
+bearing the call for help, and he hath helped to save the whole land from
+the Red Plague.  But for him Mandakan would be only a place of graves.
+Speak, children of heavenly Mandakan, whom will ye choose?"  When
+Cumner's Son stood forth he was pale and astounded before the cries of
+greeting that were carried out through the Palace yard, through the
+highways, and even to the banyan tree where sat the beggar of Nangoon.
+
+"I have done nothing, I have done nothing," said he sincerely.  "It was
+Pango Dooni, it was the beggar of Nangoon.  I am not fit to rule."
+
+He turned to his father, but saw no help in his eyes for refusal.  The
+lad read the whole story of his father's face, and he turned again to the
+people.
+
+"If ye will have it so, then, by the grace of God, I will do right by
+this our land," said he.
+
+A half-hour later he stood before them, wearing the costly robe of yellow
+feathers and gold and perfect silk of the Dakoon of Mandakan.
+
+"The beggar of Nangoon who saved our city, bid him come near," he said;
+but the orderly stepped forward and told his story of how the beggar had
+returned to his banyan tree.
+
+"Then tell the beggar of Nangoon," said he, "that if he will not visit
+me, I will visit him; and all that I promised for the Dakoon of Mandakan
+I will fulfil.  Let Cushnan Di stand forth," he added, and the old man
+came near.  "The city which was yours is yours, again, and all that was
+taken from it shall be restored," said he.
+
+Then he called him by his real name, and the people were amazed.
+
+Cushnan Di, as he had been known to them, said quietly:
+
+"If my Lord will give me place near him as general of his armies and
+keeper of the gates, I will not ask that my city be restored, and I will
+live near to the Palace--"
+
+"Nay, but in the Palace," interrupted Cumner's Son, "and thy daughter
+also, who hath the wisdom of heaven, that there be always truth shining
+in these high places."
+
+An hour later the Dakoon passed through the Path by the Bazaar.
+
+"Whither goes the Dakoon?" asked a native chief of McDermot.
+
+"To visit a dirty beggar in the Residency Square, and afterwards to the
+little house of Cushnan Di," was the reply.
+
+
+
+
+IX
+
+THE PROPHET OF PEACE
+
+The years went by.
+
+In the cool of a summer evening a long procession of people passed
+through the avenues of blossoming peach and cherry trees in Mandakan,
+singing a high chant or song.  It was sacred, yet it was not solemn;
+peaceful, yet not sombre; rather gentle, aspiring, and clear.  The people
+were not of the city alone, but they had been gathered from all parts of
+the land--many thousands, who were now come on a pilgrimage to Mandakan.
+
+At the head of the procession was a tall, lithe figure, whose face shone,
+and whose look was at once that of authority and love.  Three years'
+labour had given him these followers and many others.  His dreams were
+coming true.
+
+"Fighting, fighting, naught but fighting for honour and glory and homes
+and kine, but naught for love, and naught that there may be peace."--This
+was no longer true; for the sword of the young Dakoon was ever lifted for
+love and for peace.
+
+The great procession stopped near a little house by the Aqueduct of the
+Failing Fountain, and spread round it, and the leader stepped forward to
+the door of the little house and entered.  A silence fell upon the crowd,
+for they were to look upon the face of a dying girl, who chose to dwell
+in her little home rather than in a palace.
+
+She was carried forth on a litter, and set down, and the long procession
+passed by her as she lay.  She smiled at all an ineffable smile of peace,
+and her eyes had in them the light of a good day drawing to its close.
+Only once did she speak, and that was when all had passed, and a fine
+troop of horsemen came riding up.
+
+This was the Dakoon of Mandakan and his retinue.  When he dismounted and
+came to her, and bent over her, he said something in a low tone for her
+ear alone, and she smiled at him, and whispered the one word "Peace!"
+
+Then the Dakoon, who once was known only as Cumner's Son, turned and
+embraced the prophet Sandoni, as he was now called, though once he had
+been called Tang-a-Dahit the hillsman.
+
+"What message shall I bear thy father?" asked the Dakoon, after they had
+talked a while.
+
+Sandoni told him, and then the Dakoon said:
+
+"Thy father and mine, who are gone to settle a wild tribe of the hills in
+a peaceful city, send thee a message."  And he held up his arm, where a
+bracelet shone.
+
+The Prophet read thereon the Sacred Countersign of the hillsmen.
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+Ate some coffee-beans and drank some cold water
+His courtesy was not on the same expansive level as his vanity
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK CUMNER & SOUTH SEA FOLK, v1 ***
+
+******** This file should be named 6195.txt or 6195.zip ********
+
+This eBook was produced by David Widger
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart [hart@pobox.com]
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*

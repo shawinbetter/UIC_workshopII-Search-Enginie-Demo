@@ -1,0 +1,2650 @@
+﻿The Project Gutenberg Etext of Wilhelm Meisters Lehrjahre--Buch 6
+by Johann Wolfgang von Goethe
+
+#18 in our series by Johann Wolfgang von Goethe
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfόgung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg.aol.de erreichbar.
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Wilhelm Meisters Lehrjahre--Buch 6
+by Johann Wolfgang von Goethe
+
+September, 2000  [Etext #2340]
+
+
+The Project Gutenberg Etext of Wilhelm Meisters Lehrjahre--Buch 6
+******This file should be named 2340-8.txt or 2340-8.zip******
+
+
+This etext was prepared by Michael Pullen, globaltraveler5565@yahoo.com.
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+This etext was prepared by Michael Pullen,
+globaltraveler5565@yahoo.com.
+
+
+
+
+
+Wilhelm Meisters Lehrjahre--Buch 6
+
+Johann Wolfgang von Goethe
+
+
+
+
+
+
+Sechstes Buch
+
+Bekenntnisse einer schφnen Seele
+
+Bis in mein achtes Jahr war ich ein ganz gesundes Kind, weiί mich aber
+von dieser Zeit so wenig zu erinnern als von dem Tage meiner Geburt.
+Mit dem Anfange des achten Jahres bekam ich einen Blutsturz, und in
+dem Augenblick war meine Seele ganz Empfindung und Gedδchtnis.  Die
+kleinsten Umstδnde dieses Zufalls stehn mir noch vor Augen, als hδtte
+er sich gestern ereignet.
+
+Wδhrend des neunmonatlichen Krankenlagers, das ich mit Geduld aushielt,
+ward, so wie mich dόnkt, der Grund zu meiner ganzen Denkart gelegt,
+indem meinem Geiste die ersten Hόlfsmittel gereicht wurden, sich nach
+seiner eigenen Art zu entwickeln.
+
+Ich litt und liebte, das war die eigentliche Gestalt meines Herzens.
+In dem heftigsten Husten und abmattenden Fieber war ich stille wie
+eine Schnecke, die sich in ihr Haus zieht; sobald ich ein wenig Luft
+hatte, wollte ich etwas Angenehmes fόhlen, und da mir aller όbrige
+Genuί versagt war, suchte ich mich durch Augen und Ohren schadlos zu
+halten.  Man brachte mir Puppenwerk und Bilderbόcher, und wer Sitz an
+meinem Bette haben wollte, muίte mir etwas erzδhlen.
+
+Von meiner Mutter hφrte ich die biblischen Geschichten gern an; der
+Vater unterhielt mich mit Gegenstδnden der Natur.  Er besaί ein
+artiges Kabinett.  Davon brachte er gelegentlich eine Schublade nach
+der andern herunter, zeigte mir die Dinge und erklδrte sie mir nach
+der Wahrheit.  Getrocknete Pflanzen und Insekten und manche Arten von
+anatomischen Prδparaten, Menschenhaut, Knochen, Mumien und dergleichen
+kamen auf das Krankenbette der Kleinen; Vφgel und Tiere, die er auf
+der Jagd erlegte, wurden mir vorgezeigt, ehe sie nach der Kόche gingen;
+und damit doch auch der Fόrst der Welt eine Stimme in dieser
+Versammlung behielte, erzδhlte mir die Tante Liebesgeschichten und
+Feenmδrchen.  Alles ward angenommen, und alles faίte Wurzel.  Ich
+hatte Stunden, in denen ich mich lebhaft mit dem unsichtbaren Wesen
+unterhielt; ich weiί noch einige Verse, die ich der Mutter damals in
+die Feder diktierte.
+
+Oft erzδhlte ich dem Vater wieder, was ich von ihm gelernt hatte.  Ich
+nahm nicht leicht eine Arzenei, ohne zu fragen: "Wo wachsen die Dinge,
+aus denen sie gemacht ist? wie sehen sie aus? wie heiίen sie?"  Aber
+die Erzδhlungen meiner Tante waren auch nicht auf einen Stein gefallen.
+Ich dachte mich in schφne Kleider und begegnete den allerliebsten
+Prinzen, die nicht ruhen noch rasten konnten, bis sie wuίten, wer die
+unbekannte Schφne war.  Ein δhnliches Abenteuer mit einem reizenden
+kleinen Engel, der in weiίem Gewand und goldnen Flόgeln sich sehr um
+mich bemόhte, setzte ich so lange fort, daί meine Einbildungskraft
+sein Bild fast bis zur Erscheinung erhφhte.
+
+Nach Jahresfrist war ich ziemlich wiederhergestellt; aber es war mir
+aus der Kindheit nichts Wildes όbriggeblieben.  Ich konnte nicht
+einmal mit Puppen spielen, ich verlangte nach Wesen, die meine Liebe
+erwiderten.  Hunde, Katzen und Vφgel, dergleichen mein Vater von allen
+Arten ernδhrte, vergnόgten mich sehr; aber was hδtte ich nicht gegeben,
+ein Geschφpf zu besitzen, das in einem der Mδrchen meiner Tante eine
+sehr wichtige Rolle spielte.  Es war ein Schδfchen, das von einem
+Bauermδdchen in dem Walde aufgefangen und ernδhrt worden war, aber in
+diesem artigen Tiere stak ein verwόnschter Prinz, der sich endlich
+wieder als schφner Jόngling zeigte und seine Wohltδterin durch seine
+Hand belohnte.  So ein Schδfchen hδtte ich gar zu gerne besessen!
+
+Nun wollte sich aber keines finden, und da alles neben mir so ganz
+natόrlich zuging, muίte mir nach und nach die Hoffnung auf einen so
+kφstlichen Besitz fast vergehen.  Unterdessen trφstete ich mich, indem
+ich solche Bόcher las, in denen wunderbare Begebenheiten beschrieben
+wurden.  Unter allen war mir der "Christliche deutsche Herkules" der
+liebste; die andδchtige Liebesgeschichte war ganz nach meinem Sinne.
+Begegnete seiner Valiska irgend etwas, und es begegneten ihr grausame
+Dinge, so betete er erst, eh er ihr zu Hόlfe eilte, und die Gebete
+standen ausfόhrlich im Buche.  Wie wohl gefiel mir das!  Mein Hang zu
+dem Unsichtbaren, den ich immer auf eine dunkle Weise fόhlte, ward
+dadurch nur vermehrt; denn ein fόr allemal sollte Gott auch mein
+Vertrauter sein.
+
+Als ich weiter heranwuchs, las ich, der Himmel weiί was, alles
+durcheinander; aber die "Rφmische Oktavia" behielt vor allen den Preis.
+Die Verfolgungen der ersten Christen, in einen Roman gekleidet,
+erregten bei mir das lebhafteste Interesse.
+
+Nun fing die Mutter an, όber das stete Lesen zu schmδlen; der Vater
+nahm ihr zuliebe mir einen Tag die Bόcher aus der Hand und gab sie mir
+den andern wieder.  Sie war klug genug zu bemerken, daί hier nichts
+auszurichten war, und drang nur darauf, daί auch die Bibel ebenso
+fleiίig gelesen wurde.  Auch dazu lieί ich mich nicht treiben, und ich
+las die heiligen Bόcher mit vielem Anteil.  Dabei war meine Mutter
+immer sorgfδltig, daί keine verfόhrerischen Bόcher in meine Hδnde
+kδmen, und ich selbst wόrde jede schδndliche Schrift aus der Hand
+geworfen haben; denn meine Prinzen und Prinzessinnen waren alle
+δuίerst tugendhaft, und ich wuίte όbrigens von der natόrlichen
+Geschichte des menschlichen Geschlechts mehr, als ich merken lieί, und
+hatte es meistens aus der Bibel gelernt.  Bedenkliche Stellen hielt
+ich mit Worten und Dingen, die mir vor Augen kamen, zusammen und
+brachte bei meiner Wiίbegierde und Kombinationsgabe die Wahrheit
+glόcklich heraus.  Hδtte ich von Hexen gehφrt, so hδtte ich auch mit
+der Hexerei bekannt werden mόssen.
+
+Meiner Mutter und dieser Wiίbegierde hatte ich es zu danken, daί ich
+bei dem heftigen Hang zu Bόchern doch kochen lernte; aber dabei war
+etwas zu sehen.  Ein Huhn, ein Ferkel aufzuschneiden war fόr mich ein
+Fest.  Dem Vater brachte ich die Eingeweide, und er redete mit mir
+darόber wie mit einem jungen Studenten und pflegte mich oft mit
+inniger Freude seinen miίratenen Sohn zu nennen.
+
+Nun war das zwφlfte Jahr zurόckgelegt.  Ich lernte Franzφsisch, Tanzen
+und Zeichnen und erhielt den gewφhnlichen Religionsunterricht.  Bei
+dem letzten wurden manche Empfindungen und Gedanken rege, aber nichts,
+was sich auf meinen Zustand bezogen hδtte.  Ich hφrte gern von Gott
+reden, ich war stolz darauf, besser als meinesgleichen von ihm reden
+zu kφnnen; ich las nun mit Eifer manche Bόcher, die mich in den Stand
+setzten, von Religion zu schwatzen, aber nie fiel es mir ein zu denken,
+wie es denn mit mir stehe, ob meine Seele auch so gestaltet sei, ob
+sie einem Spiegel gleiche, von dem die ewige Sonne widerglδnzen kφnnte;
+das hatte ich ein fόr allemal schon vorausgesetzt.
+
+Franzφsisch lernte ich mit vieler Begierde.  Mein Sprachmeister war
+ein wackerer Mann.  Er war nicht ein leichtsinniger Empiriker, nicht
+ein trocknet Grammatiker; er hatte Wissenschaften, er hatte die Welt
+gesehen.  Zugleich mit dem Sprachunterrichte sδttigte er meine
+Wiίbegierde auf mancherlei Weise.  Ich liebte ihn so sehr, daί ich
+seine Ankunft immer mit Herzklopfen erwartete.  Das Zeichnen fiel mir
+nicht schwer, und ich wόrde es weiter gebracht haben, wenn mein
+Meister Kopf und Kenntnisse gehabt hδtte; er hatte aber nur Hδnde und
+όbung.
+
+Tanzen war anfangs nur meine geringste Freude; mein Kφrper war zu
+empfindlich, und ich lernte nur in der Gesellschaft meiner Schwester.
+Durch den Einfall unsers Tanzmeisters, allen seinen Schόlern und
+Schόlerinnen einen Ball zu geben, ward aber die Lust zu dieser όbung
+ganz anders belebt.
+
+Unter vielen Knaben und Mδdchen zeichneten sich zwei Sφhne des
+Hofmarschalls aus: der jόngste so alt wie ich, der andere zwei Jahre
+δlter, Kinder von einer solchen Schφnheit, daί sie nach dem
+allgemeinen Gestδndnis alles όbertrafen, was man je von schφnen
+Kindern gesehen hatte.  Auch ich hatte sie kaum erblickt, so sah ich
+niemand mehr vom ganzen Haufen.  In dem Augenblicke tanzte ich mit
+Aufmerksamkeit und wόnschte schφn zu tanzen.  Wie es kam, daί auch
+diese Knaben unter allen andern mich vorzόglich bemerkten?--Genug, in
+der ersten Stunde waren wir die besten Freunde, und die kleine
+Lustbarkeit ging noch nicht zu Ende, so hatten wir schon ausgemacht,
+wo wir uns nδchstens wiedersehen wollten.  Eine groίe Freude fόr mich!
+Aber ganz entzόckt war ich, als beide den andern Morgen, jeder in
+einem galanten Billett, das mit einem Blumenstrauί begleitet war, sich
+nach meinem Befinden erkundigten.  So fόhlte ich nie mehr, wie ich da
+fόhlte!  Artigkeiten wurden mit Artigkeiten, Briefchen mit Briefchen
+erwidert.  Kirche und Promenaden wurden von nun an zu Rendezvous;
+unsre jungen Bekannten luden uns schon jederzeit zusammen ein, wir
+aber waren schlau genug, die Sache dergestalt zu verdecken, daί die
+Eltern nicht mehr davon einsahen, als wir fόr gut hielten.
+
+Nun hatte ich auf einmal zwei Liebhaber bekommen.  Ich war fόr keinen
+entschieden; sie gefielen mir beide, und wir standen aufs beste
+zusammen.  Auf einmal ward der δltere sehr krank; ich war selbst schon
+oft sehr krank gewesen und wuίte den Leidenden durch όbersendung
+mancher Artigkeiten und fόr einen Kranken schicklicher Leckerbissen zu
+erfreuen, daί seine Eltern die Aufmerksamkeit dankbar erkannten, der
+Bitte des lieben Sohns Gehφr gaben und mich samt meinen Schwestern,
+sobald er nur das Bette verlassen hatte, zu ihm einluden.  Die
+Zδrtlichkeit, womit er mich empfing, war nicht kindisch, und von dem
+Tage an war ich fόr ihn entschieden.  Er warnte mich gleich, vor
+seinem Bruder geheim zu sein; allein das Feuer war nicht mehr zu
+verbergen, und die Eifersucht des Jόngern machte den Roman vollkommen.
+Er spielte uns tausend Streiche; mit Lust vernichtete er unsre
+Freunde und vermehrte dadurch die Leidenschaft, die er zu zerstφren
+suchte.
+
+Nun hatte ich denn wirklich das gewόnschte Schδfchen gefunden, und
+diese Leidenschaft hatte, wie sonst eine Krankheit, die Wirkung auf
+mich, daί sie mich still machte und mich von der schwδrmenden Freude
+zurόckzog.  Ich war einsam und gerόhrt, und Gott fiel mir wieder ein.
+Er blieb mein Vertrauter, und ich weiί wohl, mit welchen Trδnen ich
+fόr den Knaben, der fortkrδnkelte, zu beten anhielt.
+
+Soviel Kindisches in dem Vorgang war, soviel trug er zur Bildung
+meines Herzens bei.  Unserm franzφsischen Sprachmeister muίten wir
+tδglich statt der sonst gewφhnlichen όbersetzung Briefe von unsrer
+eignen Erfindung schreiben.  Ich brachte meine Liebesgeschichte unter
+dem Namen Phyllis und Damon zu Markte.  Der Alte sah bald durch, und
+um mich treuherzig zu machen, lobte er meine Arbeit gar sehr.  Ich
+wurde immer kόhner, ging offenherzig heraus und war bis ins Detail der
+Wahrheit getreu.  Ich weiί nicht mehr, bei welcher Stelle er einst
+Gelegenheit nahm zu sagen: "Wie das artig, wie das natόrlich ist!
+Aber die gute Phyllis mag sich in acht nehmen, es kann bald ernsthaft
+werden."
+
+Mich verdroί, daί er die Sache nicht schon fόr ernsthaft hielt, und
+fragte ihn pikiert, was er unter ernsthaft verstehe?  Er lieί sich
+nicht zweimal fragen und erklδrte sich so deutlich, daί ich meinen
+Schrecken kaum verbergen konnte.  Doch da sich gleich darauf bei mir
+der Verdruί einstellte und ich ihm όbelnahm, daί er solche Gedanken
+hegen kφnne, faίte ich mich, wollte meine Schφne rechtfertigen und
+sagte mit feuerroten Wangen: "Aber, mein Herr, Phyllis ist ein
+ehrbares Mδdchen!"
+
+Nun war er boshaft genug, mich mit meiner ehrbaren Heldin aufzuziehen
+und, indem wir Franzφsisch sprachen, mit dem "honnete" zu spielen, um
+die Ehrbarkeit der Phyllis durch alle Bedeutungen durchzufόhren.  Ich
+fόhlte das Lδcherliche und war δuίerst verwirrt.  Er, der mich nicht
+furchtsam machen wollte, brach ab, brachte aber das Gesprδch bei
+andern Gelegenheiten wieder auf die Bahn.  Schauspiele und kleine
+Geschichten, die ich bei ihm las und όbersetzte, gaben ihm oft Anlaί
+zu zeigen, was fόr ein schwacher Schutz die sogenannte Tugend gegen
+die Aufforderungen eines Affekts sei.  Ich widersprach nicht mehr,
+δrgerte mich aber immer heimlich, und seine Anmerkungen wurden mir zur
+Last.
+
+Mit meinem guten Damon kam ich auch nach und nach aus aller Verbindung.
+Die Schikanen des Jόngern hatten unsern Umgang zerrissen.  Nicht
+lange Zeit darauf starben beide blόhende Jόnglinge.  Es tat mir weh,
+aber bald waren sie vergessen.
+
+Phyllis wuchs nun schnell heran, war ganz gesund und fing an, die Welt
+zu sehen.  Der Erbprinz vermδhlte sich und trat bald darauf nach dem
+Tode seines Vaters die Regierung an.  Hof und Stadt waren in lebhafter
+Bewegung.  Nun hatte meine Neugierde mancherlei Nahrung.  Nun gab es
+Komφdien, Bδlle und was sich daran anschlieίt, und ob uns gleich die
+Eltern soviel als mφglich zurόckhielten, so muίte man doch bei Hof, wo
+ich eingefόhrt war, erscheinen.  Die Fremden strφmten herbei, in allen
+Hδusern war groίe Welt, an uns selbst waren einige Kavaliere empfohlen
+und andre introduziert, und bei meinem Oheim waren alle Nationen
+anzutreffen.
+
+Mein ehrlicher Mentor fuhr fort, mich auf eine bescheidene und doch
+treffende Weise zu warnen, und ich nahm es ihm immer heimlich όbel.
+Ich war keinesweges von der Wahrheit seiner Behauptung όberzeugt, und
+vielleicht hatte ich auch damals recht, vielleicht hatte er unrecht,
+die Frauen unter allen Umstδnden fόr so schwach zu halten; aber er
+redete zugleich so zudringlich, daί mir einst bange wurde, er mφchte
+recht haben, da ich denn sehr lebhaft zu ihm sagte: "Weil die Gefahr
+so groί und das menschliche Herz so schwach ist, so will ich Gott
+bitten, daί er mich bewahre."
+
+Die naive Antwort schien ihn zu freuen, er lobte meinen Vorsatz; aber
+es war bei mir nichts weniger als ernstlich gemeint; diesmal war es
+nur ein leeres Wort: denn die Empfindungen fόr den Unsichtbaren waren
+bei mir fast ganz verloschen.  Der groίe Schwarm, mit dem ich umgeben
+war, zerstreute mich und riί mich wie ein starker Strom mit fort.  Es
+waren die leersten Jahre meines Lebens.  Tagelang von nichts zu reden,
+keinen gesunden Gedanken zu haben und nur zu schwδrmen, das war meine
+Sache.  Nicht einmal der geliebten Bόcher wurde gedacht.  Die Leute,
+mit denen ich umgeben war, hatten keine Ahnung von Wissenschaften; es
+waren deutsche Hofleute, und diese Klasse hatte damals nicht die
+mindeste Kultur.
+
+Ein solcher Umgang, sollte man denken, hδtte mich an den Rand des
+Verderbens fόhren mόssen.  Ich lebte in sinnlicher Munterkeit nur so
+hin, ich sammelte mich nicht, ich betete nicht, ich dachte nicht an
+mich noch an Gott; aber ich sah es als eine Fόhrung an, daί mir keiner
+von den vielen schφnen, reichen und wohlgekleideten Mδnnern gefiel.
+Sie waren liederlich und versteckten es nicht, das schreckte mich
+zurόck; ihr Gesprδch zierten sie mit Zweideutigkeiten, das beleidigte
+mich, und ich hielt mich kalt gegen sie; ihre Unart όberstieg manchmal
+allen Glauben, und ich erlaubte mir, grob zu sein.
+
+όberdies hatte mir mein Alter einmal vertraulich erφffnet, daί mit den
+meisten dieser leidigen Bursche nicht allein die Tugend, sondern auch
+die Gesundheit eines Mδdchens in Gefahr sei.  Nun graute mir erst vor
+ihnen, und ich war schon besorgt, wenn mir einer auf irgendeine Weise
+zu nahe kam.  Ich hόtete mich vor Glδsern und Tassen wie vor dem
+Stuhle, von dem einer aufgestanden war.  Auf diese Weise war ich
+moralisch und physisch sehr isoliert, und alle die Artigkeiten, die
+sie mir sagten, nahm ich stolz fόr schuldigen Weihrauch auf.
+
+Unter den Fremden, die sich damals bei uns aufhielten, zeichnete sich
+ein junger Mann besonders aus, den wir im Scherz Narziί nannten.  Er
+hatte sich in der diplomatischen Laufbahn guten Ruf erworben und
+hoffte bei verschiedenen Verδnderungen, die an unserm neuen Hofe
+vorgingen, vorteilhaft plaziert zu werden.  Er ward mit meinem Vater
+bald bekannt, und seine Kenntnisse und sein Betragen φffneten ihm den
+Weg in eine geschlossene Gesellschaft der wόrdigsten Mδnner.  Mein
+Vater sprach viel zu seinem Lobe, und seine schφne Gestalt hδtte noch
+mehr Eindruck gemacht, wenn sein ganzes Wesen nicht eine Art von
+Selbstgefδlligkeit gezeigt hδtte.  Ich hatte ihn gesehen, dachte gut
+von ihm, aber wir hatten uns nie gesprochen.
+
+Auf einem groίen Balle, auf dem er sich auch befand, tanzten wir eine
+Menuett zusammen; auch das ging ohne nδhere Bekanntschaft ab.  Als die
+heftigen Tδnze angingen, die ich meinem Vater zuliebe, der fόr meine
+Gesundheit besorgt war, zu vermeiden pflegte, begab ich mich in ein
+Nebenzimmer und unterhielt mich mit δltern Freundinnen, die sich zum
+Spiele gesetzt hatten.
+
+
+
+
+VI. Buch--2
+
+
+
+
+Narziί, der eine Weile mit herumgesprungen war, kam auch einmal in
+das Zimmer, in dem ich mich befand, und fing, nachdem er sich von
+einem Nasenbluten, das ihn beim Tanzen όberfiel, erholt hatte, mit mir
+όber mancherlei zu sprechen an.  Binnen einer halben Stunde war der
+Diskurs so interessant, ob sich gleich keine Spur von Zδrtlichkeit
+dreinmischte, daί wir nun beide das Tanzen nicht mehr vertragen
+konnten.  Wir wurden bald von den andern darόber geneckt, ohne daί wir
+uns dadurch irremachen lieίen.  Den andern Abend konnten wir unser
+Gesprδch wieder anknόpfen und schonten unsre Gesundheit sehr.
+
+Nun war die Bekanntschaft gemacht.  Narziί wartete mir und meinen
+Schwestern auf, und nun fing ich erst wieder an gewahr zu werden, was
+ich alles wuίte, worόber ich gedacht, was ich empfunden hatte und
+worόber ich mich im Gesprδche auszudrόcken verstand.  Mein neuer
+Freund, der von jeher in der besten Gesellschaft gewesen war, hatte
+auίer dem historischen und politischen Fache, das er ganz όbersah,
+sehr ausgebreitete literarische Kenntnisse, und ihm blieb nichts Neues,
+besonders was in Frankreich herauskam, unbekannt.  Er brachte und
+sendete mir manch angenehmes Buch, doch das muίte geheimer als ein
+verbotenes Liebesverstδndnis gehalten werden.  Man hatte die gelehrten
+Weiber lδcherlich gemacht, und man wollte auch die unterrichteten
+nicht leiden, wahrscheinlich weil man fόr unhφflich hielt, so viel
+unwissende Mδnner beschδmen zu lassen.  Selbst mein Vater, dem diese
+neue Gelegenheit, meinen Geist auszubilden, sehr erwόnscht war,
+verlangte ausdrόcklich, daί dieses literarische Kommerz ein Geheimnis
+bleiben sollte.
+
+So wδhrte unser Umgang beinahe Jahr und Tag, und ich konnte nicht
+sagen, daί Narziί auf irgendeine Weise Liebe oder Zδrtlichkeit gegen
+mich geδuίert hδtte.  Er blieb artig und verbindlich, aber zeigte
+keinen Affekt; vielmehr schien der Reiz meiner jόngsten Schwester, die
+damals auίerordentlich schφn war, ihn nicht gleichgόltig zu lassen.
+Er gab ihr im Scherze allerlei freundliche Namen aus fremden Sprachen,
+deren mehrere er sehr gut sprach und deren eigentόmliche Redensarten
+er gern ins deutsche Gesprδch mischte.  Sie erwiderte seine
+Artigkeiten nicht sonderlich; sie war von einem andern Fδdchen
+gebunden, und da sie όberhaupt sehr rasch und er empfindlich war, so
+wurden sie nicht selten όber Kleinigkeiten uneins.  Mit der Mutter und
+den Tanten wuίte er sich gut zu halten, und so war er nach und nach
+ein Glied der Familie geworden.
+
+Wer weiί, wie lange wir noch auf diese Weise fortgelebt hδtten, wδren
+durch einen sonderbaren Zufall unsere Verhδltnisse nicht auf einmal
+verδndert worden.  Ich ward mit meinen Schwestern in ein gewisses Haus
+gebeten, wohin ich nicht gerne ging.  Die Gesellschaft war zu gemischt,
+und es fanden sich dort oft Menschen, wo nicht vom rohsten, doch vom
+plattsten Schlage mit ein.  Diesmal war Narziί auch mit geladen, und
+um seinetwillen war ich geneigt hinzugehen: denn ich war doch gewiί,
+jemanden zu finden, mit dem ich mich auf meine Weise unterhalten
+konnte.  Schon bei Tafel hatten wir manches auszustehen, denn einige
+Mδnner hatten stark getrunken; nach Tische sollten und muίten Pfδnder
+gespielt werden.  Es ging dabei sehr rauschend und lebhaft zu.  Narziί
+hatte ein Pfand zu lφsen; man gab ihm auf, der ganzen Gesellschaft
+etwas ins Ohr zu sagen, das jedermann angenehm wδre.  Er mochte sich
+bei meiner Nachbarin, der Frau eines Hauptmanns, zu lange verweilen.
+Auf einmal gab ihm dieser eine Ohrfeige, daί mir, die ich gleich daran
+saί, der Puder in die Augen flog.  Als ich die Augen ausgewischt und
+mich vom Schrecken einigermaίen erholt hatte, sah ich beide Mδnner mit
+bloίen Degen.  Narziί blutete, und der andere, auίer sich von Wein,
+Zorn und Eifersucht, konnte kaum von der ganzen όbrigen Gesellschaft
+zurόckgehalten werden.  Ich nahm Narzissen beim Arm und fόhrte ihn zur
+Tόre hinaus, eine Treppe hinauf in ein ander Zimmer, und weil ich
+meinen Freund vor seinem tollen Gegner nicht sicher glaubte, riegelte
+ich die Tόre sogleich zu.
+
+Wir hielten beide die Wunde nicht fόr ernsthaft, denn wir sahen nur
+einen leichten Hieb όber die Hand; bald aber wurden wir einen Strom
+von Blut, der den Rόcken hinunterfloί, gewahr, und es zeigte sich eine
+groίe Wunde auf dem Kopfe.  Nun ward mir bange.  Ich eilte auf den
+Vorplatz, um nach Hόlfe zu schicken, konnte aber niemand ansichtig
+werden, denn alles war unten geblieben, den rasenden Menschen zu
+bδndigen.  Endlich kam eine Tochter des Hauses heraufgesprungen, und
+ihre Munterkeit δngstigte mich nicht wenig, da sie sich όber den
+tollen Spektakel und όber die verfluchte Komφdie fast zu Tode lachen
+wollte.  Ich bat sie dringend, mir einen Wundarzt zu schaffen, und sie,
+nach ihrer wilden Art, sprang gleich die Treppe hinunter, selbst
+einen zu holen.
+
+Ich ging wieder zu meinem Verwundeten, band ihm mein Schnupftuch um
+die Hand und ein Handtuch, das an der Tόre hing, um den Kopf.  Er
+blutete noch immer heftig: der Verwundete erblaίte und schien in
+Ohnmacht zu sinken.  Niemand war in der Nδhe, der mir hδtte beistehen
+kφnnen; ich nahm ihn sehr ungezwungen in den Arm und suchte ihn durch
+Streicheln und Schmeicheln aufzumuntern.  Es schien die Wirkung eines
+geistigen Heilmittels zu tun; er blieb bei sich, aber saί totenbleich
+da.
+
+Nun kam endlich die tδtige Hausfrau, und wie erschrak sie, als sie den
+Freund in dieser Gestalt in meinen Armen liegen und uns alle beide mit
+Blut όberstrφmt sah: denn niemand hatte sich vorgestellt, daί Narziί
+verwundet sei; alle meinten, ich habe ihn glόcklich hinausgebracht.
+
+Nun war Wein, wohlriechendes Wasser, und was nur erquicken und
+erfrischen konnte, im όberfluί da, nun kam auch der Wundarzt, und ich
+hδtte wohl abtreten kφnnen; allein Narziί hielt mich fest bei der Hand,
+und ich wδre, ohne gehalten zu werden, stehengeblieben.  Ich fuhr
+wδhrend des Verbandes fort, ihn mit Wein anzustreichen, und achtete es
+wenig, daί die ganze Gesellschaft nunmehr umherstand.  Der Wundarzt
+hatte geendigt, der Verwundete nahm einen stummen, verbindlichen
+Abschied von mir und wurde nach Hause getragen.
+
+Nun fόhrte mich die Hausfrau in ihr Schlafzimmer; sie muίte mich ganz
+auskleiden, und ich darf nicht verschweigen, daί ich, da man sein Blut
+von meinem Kφrper abwusch, zum erstenmal zufδllig im Spiegel gewahr
+wurde, daί ich mich auch ohne Hόlle fόr schφn halten durfte.  Ich
+konnte keines meiner Kleidungsstόcke wieder anziehn, und da die
+Personen im Hause alle kleiner oder stδrker waren als ich, so kam ich
+in einer seltsamen Verkleidung zum grφίten Erstaunen meiner Eltern
+nach Hause.  Sie waren όber mein Schrecken, όber die Wunden des
+Freundes, όber den Unsinn des Hauptmanns, όber den ganzen Vorfall
+δuίerst verdrieίlich.  Wenig fehlte, so hδtte mein Vater selbst,
+seinen Freund auf der Stelle zu rδchen, den Hauptmann herausgefordert.
+Er schalt die anwesenden Herren, daί sie ein solches meuchlerisches
+Beginnen nicht auf der Stelle geahndet; denn es war nur zu offenbar,
+daί der Hauptmann sogleich, nachdem er geschlagen, den Degen gezogen
+und Narzissen von hinten verwundet habe; der Hieb όber die Hand war
+erst gefόhrt worden, als Narziί selbst zum Degen griff.  Ich war
+unbeschreiblich alteriert und affiziert, oder wie soll ich es
+ausdrόcken; der Affekt, der im tiefsten Grunde des Herzens ruhte, war
+auf einmal losgebrochen wie eine Flamme, welche Luft bekφmmt.  Und
+wenn Lust und Freude sehr geschickt sind, die Liebe zuerst zu erzeugen
+und im stillen zu nδhren, so wird sie, die von Natur herzhaft ist,
+durch den Schrecken am leichtesten angetrieben, sich zu entscheiden
+und zu erklδren.  Man gab dem Tφchterchen Arznei ein und legte es zu
+Bette.  Mit dem frόhesten Morgen eilte mein Vater zu dem verwundeten
+Freund, der an einem starken Wundfieber recht krank darniederlag.
+
+Mein Vater sagte mir wenig von dem, was er mit ihm geredet hatte, und
+suchte mich wegen der Folgen, die dieser Vorfall haben kφnnte, zu
+beruhigen.  Es war die Rede, ob man sich mit einer Abbitte begnόgen
+kφnne, ob die Sache gerichtlich werden mόsse, und was dergleichen mehr
+war.  Ich kannte meinen Vater zu wohl, als daί ich ihm geglaubt hδtte,
+daί er diese Sache ohne Zweikampf geendigt zu sehen wόnschte; allein
+ich blieb still, denn ich hatte von meinem Vater frόh gelernt, daί
+Weiber in solche Hδndel sich nicht zu mischen hδtten. όbrigens schien
+es nicht, als wenn zwischen den beiden Freunden etwas vorgefallen wδre,
+das mich betroffen hδtte; doch bald vertraute mein Vater den Inhalt
+seiner weitern Unterredung meiner Mutter.  Narziί, sagte er, sei
+δuίerst gerόhrt von meinem geleisteten Beistand, habe ihn umarmt, sich
+fόr meinen ewigen Schuldner erklδrt, bezeigt, er verlange kein Glόck,
+wenn er es nicht mit mir teilen sollte; er habe sich die Erlaubnis
+ausgebeten, ihn als Vater ansehn zu dόrfen.  Mama sagte mir das alles
+treulich wieder, hδngte aber die wohlmeinende Erinnerung daran, auf so
+etwas, das in der ersten Bewegung gesagt worden, dόrfe man so sehr
+nicht achten.  "Ja freilich", antwortete ich mit angenommener Kδlte
+und fόhlte der Himmel weiί was und wieviel dabei.
+
+Narziί blieb zwei Monate krank, konnte wegen der Wunde an der rechten
+Hand nicht einmal schreiben, bezeigte mir aber inzwischen sein
+Andenken durch die verbindlichste Aufmerksamkeit.  Alle diese mehr als
+gewφhnlichen Hφflichkeiten hielt ich mit dem, was ich von der Mutter
+erfahren hatte, zusammen, und bestδndig war mein Kopf voller Grillen.
+Die ganze Stadt unterhielt sich von der Begebenheit.  Man sprach mit
+mir davon in einem besondern Tone, man zog Folgerungen daraus, die,
+sosehr ich sie abzulehnen suchte, mir immer sehr nahegingen.  Was
+vorher Tδndelei und Gewohnheit gewesen war, ward nun Ernst und Neigung.
+Die Unruhe, in der ich lebte, war um so heftiger, je sorgfδltiger
+ich sie vor allen Menschen zu verbergen suchte.  Der Gedanke, ihn zu
+verlieren, erschreckte mich, und die Mφglichkeit einer nδhern
+Verbindung machte mich zittern.  Der Gedanke des Ehestandes hat fόr
+ein halbkluges Mδdchen gewiί etwas Schreckhaftes.
+
+Durch diese heftigen Erschόtterungen ward ich wieder an mich selbst
+erinnert.  Die bunten Bilder eines zerstreuten Lebens, die mir sonst
+Tag und Nacht vor den Augen schwebten, waren auf einmal weggeblasen.
+Meine Seele fing wieder an, sich zu regen; allein die sehr
+unterbrochene Bekanntschaft mit dem unsichtbaren Freunde war so leicht
+nicht wiederhergestellt.  Wir blieben noch immer in ziemlicher
+Entfernung; es war wieder etwas, aber gegen sonst ein groίer
+Unterschied.
+
+Ein Zweikampf, worin der Hauptmann stark verwundet wurde, war vorόber,
+ohne daί ich etwas davon erfahren hatte, und die φffentliche Meinung
+war in jedem Sinne auf der Seite meines Geliebten, der endlich wieder
+auf dem Schauplatze erschien.  Vor allen Dingen lieί er sich mit
+verbundnem Haupt und eingewickelter Hand in unser Haus tragen.  Wie
+klopfte mir das Herz bei diesem Besuche!  Die ganze Familie war
+gegenwδrtig; es blieb auf beiden Seiten nur bei allgemeinen
+Danksagungen und Hφflichkeiten; doch fand er Gelegenheit, mir einige
+geheime Zeichen seiner Zδrtlichkeit zu geben, wodurch meine Unruhe nur
+zu sehr vermehrt ward.  Nachdem er sich vφllig wieder erholt, besuchte
+er uns den ganzen Winter auf ebendem Fuί wie ehemals, und bei allen
+leisen Zeichen von Empfindung und Liebe, die er mir gab, blieb alles
+unerφrtert.
+
+Auf diese Weise ward ich in steter όbung gehalten.  Ich konnte mich
+keinem Menschen vertrauen, und von Gott war ich zu weit entfernt.  Ich
+hatte diesen wδhrend vier wilder Jahre ganz vergessen; nun dachte ich
+dann und wann wieder an ihn, aber die Bekanntschaft war erkaltet; es
+waren nur Zeremonienvisiten, die ich ihm machte, und da ich όberdies,
+wenn ich vor ihm erschien, immer schφne Kleider anlegte, meine Tugend,
+Ehrbarkeit und Vorzόge, die ich vor andern zu haben glaubte, ihm mit
+Zufriedenheit vorwies, so schien er mich in dem Schmucke gar nicht zu
+bemerken.
+
+Ein Hφfling wόrde, wenn sein Fόrst, von dem er sein Glόck erwartet,
+sich so gegen ihn betrόge, sehr beunruhigt werden; mir aber war nicht
+όbel dabei zumute.  Ich hatte, was ich brauchte, Gesundheit und
+Bequemlichkeit; wollte sich Gott mein Andenken gefallen lassen, so war
+es gut; wo nicht, so glaubte ich doch meine Schuldigkeit getan zu
+haben.
+
+So dachte ich freilich damals nicht von mir; aber es war doch die
+wahrhafte Gestalt meiner Seele.  Meine Gesinnungen zu δndern und zu
+reinigen, waren aber auch schon Anstalten gemacht.
+
+Der Frόhling kam heran, und Narziί besuchte mich unangemeldet zu einer
+Zeit, da ich ganz allein zu Hause war.  Nun erschien er als Liebhaber
+und fragte mich, ob ich ihm mein Herz und, wenn er eine ehrenvolle,
+wohlbesoldete Stelle erhielte, auch dereinst meine Hand schenken
+wollte.
+
+Man hatte ihn zwar in unsre Dienste genommen; allein anfangs hielt man
+ihn, weil man sich vor seinem Ehrgeiz fόrchtete, mehr zurόck, als daί
+man ihn schnell emporgehoben hδtte, und lieί ihn, weil er eignes
+Vermφgen hatte, bei einer kleinen Besoldung.
+
+Bei aller meiner Neigung zu ihm wuίte ich, daί er der Mann nicht war,
+mit dem man ganz gerade handeln konnte.  Ich nahm mich daher zusammen
+und verwies ihn an meinen Vater, an dessen Einwilligung er nicht zu
+zweifeln schien und mit mir erst auf der Stelle einig sein wollte.
+Endlich sagte ich ja, indem ich die Beistimmung meiner Eltern zur
+notwendigen Bedingung machte.  Er sprach alsdann mit beiden fφrmlich;
+sie zeigten ihre Zufriedenheit, man gab sich das Wort auf den bald zu
+hoffenden Fall, daί man ihn weiter avancieren werde.  Schwestern und
+Tanten wurden davon benachrichtigt und ihnen das Geheimnis auf das
+strengste anbefohlen.
+
+Nun war aus einem Liebhaber ein Brδutigam geworden.  Die
+Verschiedenheit zwischen beiden zeigte sich sehr groί.  Kφnnte jemand
+die Liebhaber aller wohldenkenden Mδdchen in Brδutigame verwandeln, so
+wδre es eine groίe Wohltat fόr unser Geschlecht, selbst wenn auf
+dieses Verhδltnis keine Ehe erfolgen sollte.  Die Liebe zwischen
+beiden Personen nimmt dadurch nicht ab, aber sie wird vernόnftiger.
+Unzδhlige kleine Torheiten, alle Koketterien und Launen fallen gleich
+hinweg. δuίert uns der Brδutigam, daί wir ihm in einer Morgenhaube
+besser als in dem schφnsten Aufsatze gefallen, dann wird einem
+wohldenkenden Mδdchen gewiί die Frisur gleichgόltig, und es ist nichts
+natόrlicher, als daί er auch solid denkt und lieber sich eine Hausfrau
+als der Welt eine Putzdocke zu bilden wόnscht.  Und so geht es durch
+alle Fδcher durch.
+
+Hat ein solches Mδdchen dabei das Glόck, daί ihr Brδutigam Verstand
+und Kenntnisse besitzt, so lernt sie mehr, als hohe Schulen und fremde
+Lδnder geben kφnnen.  Sie nimmt nicht nur alle Bildung gern an, die er
+ihr gibt, sondern sie sucht sich auch auf diesem Wege so immer
+weiterzubringen.  Die Liebe macht vieles Unmφgliche mφglich, und
+endlich geht die dem weiblichen Geschlecht so nφtige und anstδndige
+Unterwerfung sogleich an; der Brδutigam herrscht nicht wie der Ehemann;
+er bittet nur, und seine Geliebte sucht ihm abzumerken, was er
+wόnscht, um es noch eher zu vollbringen, als er bittet.
+
+So hat mich die Erfahrung gelehrt, was ich nicht um vieles missen
+mφchte.  Ich war glόcklich, wahrhaft glόcklich, wie man es in der Welt
+sein kann, das heiίt auf kurze Zeit.
+
+Ein Sommer ging unter diesen stillen Freuden hin.  Narziί gab mir
+nicht die mindeste Gelegenheit zu Beschwerden; er ward mir immer
+lieber, meine ganze Seele hing an ihm, das wuίte er wohl und wuίte es
+zu schδtzen.  Inzwischen entspann sich aus anscheinenden Kleinigkeiten
+etwas, das unserm Verhδltnisse nach und nach schδdlich wurde.
+
+Narziί ging als Brδutigam mit mir um, und nie wagte er es, das von mir
+zu begehren, was uns noch verboten war.  Allein όber die Grenzen der
+Tugend und Sittsamkeit waren wir sehr verschiedener Meinung.  Ich
+wollte sichergehen und erlaubte durchaus keine Freiheit, als welche
+allenfalls die ganze Welt hδtte wissen dόrfen.  Er, an Nδschereien
+gewφhnt, fand diese Diδt sehr streng; hier setzte es nun bestδndigen
+Widerspruch; er lobte mein Verhalten und suchte meinen Entschluί zu
+untergraben.
+
+Mir fiel das "ernsthaft" meines alten Sprachmeisters wieder ein und
+zugleich das Hόlfsmittel, das ich damals dagegen angegeben hatte.
+
+Mit Gott war ich wieder ein wenig bekannter geworden.  Er hatte mir so
+einen lieben Brδutigam gegeben, und dafόr wuίte ich ihm Dank.  Die
+irdische Liebe selbst konzentrierte meinen Geist und setzte ihn in
+Bewegung, und meine Beschδftigung mit Gott widersprach ihr nicht.
+Ganz natόrlich klagte ich ihm, was mich bange machte, und bemerkte
+nicht, daί ich selbst das, was mich bange machte, wόnschte und
+begehrte.  Ich kam mir sehr stark vor und betete nicht etwa: "Bewahre
+mich vor Versuchung!" όber die Versuchung war ich meinen Gedanken nach
+weit hinaus.  In diesem losen Flitterschmuck eigner Tugend erschien
+ich dreist vor Gott; er stieί mich nicht weg; auf die geringste
+Bewegung zu ihm hinterlieί er einen sanften Eindruck in meiner Seele,
+und dieser Eindruck bewegte mich, ihn immer wieder aufzusuchen.
+
+
+
+
+VI. Buch--3
+
+
+
+
+Die ganze Welt war mir auίer Narzissen tot, nichts hatte auίer ihm
+einen Reiz fόr mich.  Selbst meine Liebe zum Putz hatte nur den Zweck,
+ihm zu gefallen; wuίte ich, daί er mich nicht sah, so konnte ich keine
+Sorgfalt darauf wenden.  Ich tanzte gern; wenn er aber nicht dabei war,
+so schien mir, als wenn ich die Bewegung nicht vertragen kφnnte.  Auf
+ein brillantes Fest, bei dem er nicht zugegen war, konnte ich mir
+weder etwas Neues anschaffen noch das Alte der Mode gemδί aufstutzen.
+Einer war mir so lieb als der andere, doch mφchte ich lieber sagen:
+einer so lδstig als der andere.  Ich glaubte meinen Abend recht gut
+zugebracht zu haben, wenn ich mir mit δltern Personen ein Spiel
+ausmachen konnte, wozu ich sonst nicht die mindeste Lust hatte, und
+wenn ein alter, guter Freund mich etwa scherzhaft darόber aufzog,
+lδchelte ich vielleicht das erstemal den ganzen Abend.  So ging es mit
+Promenaden und allen gesellschaftlichen Vergnόgungen, die sich nur
+denken lassen:
+
+
+Ich hatt ihn einzig mir erkoren; Ich schien mir nur fόr ihn geboren,
+Begehrte nichts als seine Gunst.
+
+
+So war ich oft in der Gesellschaft einsam, und die vφllige Einsamkeit
+war mir meistens lieber.  Allein mein geschδftiger Geist konnte weder
+schlafen noch trδumen; ich fόhlte und dachte und erlangte nach und
+nach eine Fertigkeit, von meinen Empfindungen und Gedanken mit Gott zu
+reden.  Da entwickelten sich Empfindungen anderer Art in meiner Seele,
+die jenen nicht widersprachen.  Denn meine Liebe zu Narziί war dem
+ganzen Schφpfungsplane gemδί und stieί nirgend gegen meine Pflichten
+an.  Sie widersprachen sich nicht und waren doch unendlich verschieden.
+Narziί war das einzige Bild, das mir vorschwebte, auf das sich meine
+ganze Liebe bezog; aber das andere Gefόhl bezog sich auf kein Bild und
+war unaussprechlich angenehm.  Ich habe es nicht mehr und kann es mir
+nicht mehr geben.
+
+Mein Geliebter, der sonst alle meine Geheimnisse wuίte, erfuhr nichts
+hiervon.  Ich merkte bald, daί er anders dachte; er gab mir φfters
+Schriften, die alles, was man Zusammenhang mit dem Unsichtbaren heiίen
+kann, mit leichten und schweren Waffen bestritten.  Ich las die Bόcher,
+weil sie von ihm kamen, und wuίte am Ende kein Wort von allem dem,
+was darin gestanden hatte.
+
+όber Wissenschaften und Kenntnisse ging es auch nicht ohne Widerspruch
+ab; er machte es wie alle Mδnner, spottete όber gelehrte Frauen und
+bildete unaufhφrlich an mir. όber alle Gegenstδnde, die
+Rechtsgelehrsamkeit ausgenommen, pflegte er mit mir zu sprechen, und
+indem er mir Schriften von allerlei Art bestδndig zubrachte,
+wiederholte er oft die bedenkliche Lehre: daί ein Frauenzimmer sein
+Wissen heimlicher halten mόsse als der Kalvinist seinen Glauben im
+katholischen Lande; und indem ich wirklich auf eine ganz natόrliche
+Weise vor der Welt mich nicht klόger und unterrichteter als sonst zu
+zeigen pflegte, war er der erste, der gelegentlich der Eitelkeit nicht
+widerstehen konnte, von meinen Vorzόgen zu sprechen.
+
+Ein berόhmter und damals wegen seines Einflusses, seiner Talente und
+seines Geistes sehr geschδtzter Weltmann fand an unserm Hofe groίen
+Beifall.  Er zeichnete Narzissen besonders aus und hatte ihn bestδndig
+um sich.  Sie stritten auch όber die Tugend der Frauen.  Narziί
+vertraute mir weitlδufig ihre Unterredung; ich blieb mit meinen
+Anmerkungen nicht dahinten, und mein Freund verlangte von mir einen
+schriftlichen Aufsatz.  Ich schrieb ziemlich gelδufig Franzφsisch: ich
+hatte bei meinem Alten einen guten Grund gelegt.  Die Korrespondenz
+mit meinem Freunde war in dieser Sprache gefόhrt, und eine feinere
+Bildung konnte man όberhaupt damals nur aus franzφsischen Bόchern
+nehmen.  Mein Aufsatz hatte dem Grafen gefallen; ich muίte einige
+kleine Lieder hergeben, die ich vor kurzem gedichtet hatte.  Genug,
+Narziί schien sich auf seine Geliebte ohne Rόckhalt etwas zugute zu
+tun, und die Geschichte endigte zu seiner groίen Zufriedenheit mit
+einer geistreichen Epistel in franzφsischen Versen, die ihm der Graf
+bei seiner Abreise zusandte, worin ihres freundschaftlichen Streites
+gedacht war und mein Freund am Ende glόcklich gepriesen wurde, daί er,
+nach so manchen Zweifeln und Irrtόmern, in den Armen einer reizenden
+und tugendhaften Gattin, was Tugend sei, am sichersten erfahren wόrde.
+
+Dieses Gedicht ward mir vor allen und dann aber auch fast jedermann
+gezeigt, und jeder dachte dabei, was er wollte.  So ging es in
+mehreren Fδllen, und so muίten alle Fremden, die er schδtzte, in
+unserm Hause bekannt werden.
+
+Eine grδfliche Familie hielt sich wegen unsres geschickten Arztes eine
+Zeitlang hier auf.  Auch in diesem Hause war Narziί wie ein Sohn
+gehalten; er fόhrte mich daselbst ein, man fand bei diesen wόrdigen
+Personen eine angenehme Unterhaltung fόr Geist und Herz, und selbst
+die gewφhnlichen Zeitvertreibe der Gesellschaft schienen in diesem
+Hause nicht so leer wie anderwδrts.  Jedermann wuίte, wie wir zusammen
+standen; man behandelte uns, wie es die Umstδnde mit sich brachten,
+und lieί das Hauptverhδltnis unberόhrt.  Ich erwδhne dieser einen
+Bekanntschaft, weil sie in der Folge meines Lebens manchen Einfluί auf
+mich hatte.
+
+Nun war fast ein Jahr unserer Verbindung verstrichen, und mit ihm war
+auch unser Frόhling dahin.  Der Sommer kam, und alles wurde
+ernsthafter und heiίer.
+
+Durch einige unerwartete Todesfδlle waren δmter erledigt, auf die
+Narziί Anspruch machen konnte.  Der Augenblick war nahe, in dem sich
+mein ganzes Schicksal entscheiden sollte, und indes Narziί und alle
+Freunde sich bei Hofe die mφglichste Mόhe gaben, gewisse Eindrόcke,
+die ihm ungόnstig waren, zu vertilgen und ihm den erwόnschten Platz zu
+verschaffen, wendete ich mich mit meinem Anliegen zu dem unsichtbaren
+Freunde.  Ich ward so freundlich aufgenommen, daί ich gern wiederkam.
+Ganz frei gestand ich meinen Wunsch, Narziί mφchte zu der Stelle
+gelangen; allein meine Bitte war nicht ungestόm, und ich forderte
+nicht, daί es um meines Gebets willen geschehen sollte.
+
+Die Stelle ward durch einen viel geringern Konkurrenten besetzt.  Ich
+erschrak heftig όber die Zeitung und eilte in mein Zimmer, das ich
+fest hinter mir zumachte.  Der erste Schmerz lφste sich in Trδnen auf;
+der nδchste Gedanke war: Es ist aber doch nicht von ungefδhr geschehen,
+und sogleich folgte die Entschlieίung, es mir recht wohl gefallen zu
+lassen, weil auch dieses anscheinende όbel zu meinem wahren Besten
+gereichen wόrde.  Nun drangen die sanftesten Empfindungen, die alle
+Wolken des Kummers zerteilten, herbei; ich fόhlte, daί sich mit dieser
+Hόlfe alles ausstehen lieί.  Ich ging heiter zu Tische, zum Erstaunen
+meiner Hausgenossen.
+
+Narziί hatte weniger Kraft als ich, und ich muίte ihn trφsten.  Auch
+in seiner Familie begegneten ihm Widerwδrtigkeiten, die ihn sehr
+drόckten, und bei dem wahren Vertrauen, das unter uns statthatte,
+vertraute er mir alles.  Seine Negoziationen, in fremde Dienste zu
+gehen, waren auch nicht glόcklicher; alles fόhlte ich tief um seinet-
+und meinetwillen, und alles trug ich zuletzt an den Ort, wo mein
+Anliegen so wohl aufgenommen wurde.
+
+Je sanfter diese Erfahrungen waren, desto φfter suchte ich sie zu
+erneuern und den Trost immer da, wo ich ihn so oft gefunden hatte;
+allein ich fand ihn nicht immer: es war mir wie einem, der sich an der
+Sonne wδrmen will und dem etwas im Wege steht, das Schatten macht.
+"Was ist das?" fragte ich mich selbst.  Ich spόrte der Sache eifrig
+nach und bemerkte deutlich, daί alles von der Beschaffenheit meiner
+Seele abhing; wenn die nicht ganz in der geradesten Richtung zu Gott
+gekehrt war, so blieb ich kalt; ich fόhlte seine Rόckwirkung nicht und
+konnte seine Antwort nicht vernehmen.  Nun war die zweite Frage: Was
+verhindert diese Richtung?  Hier war ich in einem weiten Feld und
+verwickelte mich in eine Untersuchung, die beinahe das ganze zweite
+Jahr meiner Liebesgeschichte fortdauerte.  Ich hδtte sie frόher
+endigen kφnnen, denn ich kam bald auf die Spur; aber ich wollte es
+nicht gestehen und suchte tausend Ausflόchte.
+
+Ich fand sehr bald, daί die gerade Richtung meiner Seele durch
+tφrichte Zerstreuung und Beschδftigung mit unwόrdigen Sachen gestφrt
+werde; das Wie und Wo war mir bald klar genug.  Nun aber wie
+herauskommen in einer Welt, wo alles gleichgόltig oder toll ist?  Gern
+hδtte ich die Sache an ihren Ort gestellt sein lassen und hδtte auf
+Geratewohl hingelebt wie andere Leute auch, die ich ganz wohlauf sah;
+allein ich durfte nicht: mein Inneres widersprach mir zu oft.  Wollte
+ich mich der Gesellschaft entziehen und meine Verhδltnisse verδndern,
+so konnte ich nicht.  Ich war nun einmal in einen Kreis hineingesperrt;
+gewisse Verbindungen konnte ich nicht loswerden, und in der mir so
+angelegenen Sache drδngten und hδuften sich die Fatalitδten.  Ich
+legte mich oft mit Trδnen zu Bette und stand nach einer schlaflosen
+Nacht auch wieder so auf; ich bedurfte einer krδftigen Unterstόtzung,
+und die verlieh mir Gott nicht, wenn ich mit der Schellenkappe
+herumlief.
+
+Nun ging es an ein Abwiegen aller und jeder Handlungen; Tanzen und
+Spielen wurden am ersten in Untersuchung genommen.  Nie ist etwas fόr
+oder gegen diese Dinge geredet, gedacht oder geschrieben worden, das
+ich nicht aufsuchte, besprach, las, erwog, vermehrte, verwarf und mich
+unerhφrt herumplagte.  Unterlieί ich diese Dinge, so war ich gewiί,
+Narzissen zu beleidigen; denn er fόrchtete sich δuίerst vor dem
+Lδcherlichen, das uns der Anschein δngstlicher Gewissenhaftigkeit vor
+der Welt gibt.  Weil ich nun das, was ich fόr Torheit, fόr schδdliche
+Torheit hielt, nicht einmal aus Geschmack, sondern bloί um
+seinetwillen tat, so wurde mir alles entsetzlich schwer.
+
+Ohne unangenehme Weitlδufigkeiten und Wiederholungen wόrde ich die
+Bemόhungen nicht darstellen kφnnen, welche ich anwendete, um jene
+Handlungen, die mich nun einmal zerstreuten und meinen innern Frieden
+stφrten, so zu verrichten, daί dabei mein Herz fόr die Einwirkungen
+des unsichtbaren Wesens offenblieben und wie schmerzlich ich empfinden
+muίte, daί der Streit auf diese Weise nicht beigelegt werden kφnne.
+Denn sobald ich mich in das Gewand der Torheit kleidete, blieb es
+nicht bloί bei der Maske, sondern die Narrheit durchdrang mich
+sogleich durch und durch.
+
+Darf ich hier das Gesetz einer bloί historischen Darstellung
+όberschreiten und einige Betrachtungen όber dasjenige machen, was in
+mir vorging?  Was konnte das sein, das meinen Geschmack und meine
+Sinnesart so δnderte, daί ich im zweiundzwanzigsten Jahre, ja frόher,
+kein Vergnόgen an Dingen fand, die Leute von diesem Alter unschuldig
+belustigen kφnnen?  Warum waren sie mir nicht unschuldig?  Ich darf
+wohl antworten: eben weil sie mir nicht unschuldig waren, weil ich
+nicht wie andre meinesgleichen unbekannt mit meiner Seele war.  Nein,
+ich wuίte aus Erfahrungen, die ich ungesucht erlangt hatte, daί es
+hφhere Empfindungen gebe, die uns ein Vergnόgen wahrhaftig gewδhrten,
+das man vergebens bei Lustbarkeiten sucht, und daί in diesen hφhern
+Freuden zugleich ein geheimer Schatz zur Stδrkung im Unglόck
+aufbewahrt sei.
+
+Aber die geselligen Vergnόgungen und Zerstreuungen der Jugend muίten
+doch notwendig einen starken Reiz fόr mich haben, weil es mir nicht
+mφglich war, sie zu tun, als tδte ich sie nicht.  Wie manches kφnnte
+ich jetzt mit groίer Kδlte tun, wenn ich nur wollte, was mich damals
+irremachte, ja Meister όber mich zu werden drohte.  Hier konnte kein
+Mittelweg gehalten werden: ich muίte entweder die reizenden
+Vergnόgungen oder die erquickenden innerlichen Empfindungen entbehren.
+
+Aber schon war der Streit in meiner Seele ohne mein eigentliches
+Bewuίtsein entschieden.  Wenn auch etwas in mir war, das sich nach den
+sinnlichen Freuden hinsehnte, so konnte ich sie doch nicht mehr
+genieίen.  Wer den Wein noch so sehr liebt, dem wird alle Lust zum
+Trinken vergehen, wenn er sich bei vollen Fδssern in einem Keller
+befδnde, in welchem die verdorbene Luft ihn zu ersticken drohte.
+Reine Luft ist mehr als Wein, das fόhlte ich nur zu lebhaft, und es
+hδtte gleich von Anfang an wenig όberlegung bei mir gekostet, das Gute
+dem Reizenden vorzuziehen, wenn mich die Furcht, Narzissens Gunst zu
+verlieren, nicht abgehalten hδtte.  Aber da ich endlich nach
+tausendfδltigem Streit, nach immer wiederholter Betrachtung auch
+scharfe Blicke auf das Band warf, das mich an ihm festhielt, entdeckte
+ich, daί es nur schwach war, daί es sich zerreiίen lasse.  Ich
+erkannte auf einmal, daί es nur eine Glasglocke sei, die mich in den
+luftleeren Raum sperrte; nur noch so viel Kraft, sie entzweizuschlagen,
+und du bist gerettet!
+
+Gedacht, gewagt.  Ich zog die Maske ab und handelte jedesmal, wie
+mir's ums Herz war.  Narzissen hatte ich immer zδrtlich lieb; aber das
+Thermometer, das vorher im heiίen Wasser gestanden, hing nun an der
+natόrlichen Luft; es konnte nicht hφher steigen, als die Atmosphδre
+warm war.
+
+Unglόcklicherweise erkδltete sie sich sehr.  Narziί fing an, sich
+zurόckzuziehen und fremd zu tun; das stand ihm frei; aber mein
+Thermometer fiel, so wie er sich zurόckzog.  Meine Familie bemerkte es,
+man befragte mich, man wollte sich verwundern.  Ich erklδrte mit
+mδnnlichem Trotz, daί ich mich bisher genug aufgeopfert habe, daί ich
+bereit sei, noch ferner und bis ans Ende meines Lebens alle
+Widerwδrtigkeiten mit ihm zu teilen; daί ich aber fόr meine Handlungen
+vφllige Freiheit verlange, daί mein Tun und Lassen von meiner
+όberzeugung abhδngen mόsse; daί ich zwar niemals eigensinnig auf
+meiner Meinung beharren, vielmehr jede Grόnde gerne anhφren wolle,
+aber da es mein eignes Glόck betreffe, mόsse die Entscheidung von mir
+abhδngen, und keine Art von Zwang wόrde ich dulden.  Sowenig das
+Rδsonnement des grφίten Arztes mich bewegen wόrde, eine sonst
+vielleicht ganz gesunde und von vielen sehr geliebte Speise zu mir zu
+nehmen, sobald mir meine Erfahrung bewiesen daί sie mir jederzeit
+schδdlich sei, wie ich den Gebrauch des Kaffees zum Beispiel anfόhren
+kφnnte, sowenig und noch viel weniger wόrde ich mir irgend eine
+Handlung, die mich verwirrte, als fόr mich moralisch zutrδglich
+aufdemonstrieren lassen.
+
+Da ich mich so lange im stillen vorbereitet hatte, so waren mir die
+Debatten hierόber eher angenehm als verdrieίlich.  Ich machte meinem
+Herzen Luft und fόhlte den ganzen Wert meines Entschlusses.  Ich wich
+nicht ein Haar breit, und wem ich nicht kindlichen Respekt schuldig
+war, der wurde derb abgefertigt.  In meinem Hause siegte ich bald.
+Meine Mutter hatte von Jugend auf δhnliche Gesinnungen, nur waren sie
+bei ihr nicht zur Reife gediehen; keine Not hatte sie gedrδngt und den
+Mut, ihre όberzeugung durchzusetzen, erhφht.  Sie freute sich, durch
+mich ihre stillen Wόnsche erfόllt zu sehen.  Die jόngere Schwester
+schien sich an mich anzuschlieίen; die zweite war aufmerksam und still.
+Die Tante hatte am meisten einzuwenden.  Die Grόnde, die sie
+vorbrachte, schienen ihr unwiderleglich und waren es auch, weil sie
+ganz gemein waren.  Ich war endlich genφtigt, ihr zu zeigen, daί sie
+in keinem Sinne eine Stimme in dieser Sache habe, und sie lieί nur
+selten merken, daί sie auf ihrem Sinne verharre.  Auch war sie die
+einzige, die diese Begebenheit von nahem ansah und ganz ohne
+Empfindung blieb.  Ich tue ihr nicht zuviel, wenn ich sage, daί sie
+kein Gemόt und die eingeschrδnktesten Begriffe hatte.
+
+Der Vater benahm sich ganz seiner Denkart gemδί.  Er sprach weniges,
+aber φfter mit mir όber die Sache, und seine Grόnde waren verstδndig
+und als seine Grόnde unwiderleglich; nur das tiefe Gefόhl meines
+Rechts gab mir Stδrke, gegen ihn zu disputieren.  Aber bald
+verδnderten sich die Szenen; ich muίte an sein Herz Anspruch machen.
+Gedrδngt von seinem Verstande, brach ich in die affektvollsten
+Vorstellungen aus.  Ich lieί meiner Zunge und meinen Trδnen freien
+Lauf.  Ich zeigte ihm, wie sehr ich Narzissen liebte und welchen Zwang
+ich mir seit zwei Jahren angetan hatte, wie gewiί ich sei, daί ich
+recht handle, daί ich bereit sei, diese Gewiίheit mit dem Verlust des
+geliebten Brδutigams und anscheinenden Glόcks, ja wenn es nφtig wδre,
+mit Hab und Gut zu versiegeln; daί ich lieber mein Vaterland, Eltern
+und Freunde verlassen und mein Brot in der Fremde verdienen als gegen
+meine Einsichten handeln wolle.  Er verbarg seine Rόhrung, schwieg
+einige Zeit stille und erklδrte sich endlich φffentlich fόr mich.
+
+Narziί vermied seit jener Zeit unser Haus, und nun gab mein Vater die
+wφchentliche Gesellschaft auf, in der sich dieser befand.  Die Sache
+machte Aufsehn bei Hofe und in der Stadt.  Man sprach darόber wie
+gewφhnlich in solchen Fδllen, an denen das Publikum heftigen Teil zu
+nehmen pflegt, weil es verwφhnt ist, auf die Entschlieίungen schwacher
+Gemόter einigen Einfluί zu haben.  Ich kannte die Welt genug und wuίte,
+daί man oft von ebenden Personen όber das getadelt wird, wozu man
+sich durch sie hat bereden lassen, und auch ohne das wόrden mir bei
+meiner innern Verfassung alle solche vorόbergehende Meinungen weniger
+als nichts gewesen sein.
+
+
+
+
+VI. Buch--4
+
+
+
+
+Dagegen versagte ich mir nicht, meiner Neigung zu Narzissen
+nachzuhδngen.  Er war mir unsichtbar geworden, und mein Herz hatte
+sich nicht gegen ihn geδndert.  Ich liebte ihn zδrtlich, gleichsam auf
+das neue und viel gesetzter als vorher.  Wollte er meine όberzeugung
+nicht stφren, so war ich die Seine; ohne diese Bedingung hδtte ich ein
+Kφnigreich mit ihm ausgeschlagen.  Mehrere Monate lang trug ich diese
+Empfindungen und Gedanken mit mir herum, und da ich mich endlich still
+und stark genug fόhlte, um ruhig und gesetzt zu Werke zu gehen, so
+schrieb ich ihm ein hφfliches, nicht zδrtliches Billett und fragte ihn,
+warum er nicht mehr zu mir komme.
+
+Da ich seine Art kannte, sich selbst in geringern Dingen nicht gern zu
+erklδren, sondern stillschweigend zu tun, was ihm gut deuchte, so
+drang ich gegenwδrtig mit Vorsatz in ihn.  Ich erhielt eine lange und,
+wie mir schien, abgeschmackte Antwort in einem weitlδufigen Stil und
+unbedeutenden Phrasen: daί er ohne bessere Stellen sich nicht
+einrichten und mir seine Hand anbieten kφnne, daί ich am besten wisse,
+wie hinderlich es ihm bisher gegangen, daί er glaube, ein so lang
+fortgesetzter fruchtloser Umgang kφnne meiner Renommee schaden, ich
+wόrde ihm erlauben, sich in der bisherigen Entfernung zu halten;
+sobald er imstande wδre, mich glόcklich zu machen, wόrde ihm das Wort,
+das er mir gegeben, heilig sein.
+
+Ich antwortete ihm auf der Stelle: da die Sache aller Welt bekannt sei,
+mφge es zu spδt sein, meine Renommee zu menagieren, und fόr diese
+wδren mir mein Gewissen und meine Unschuld die sichersten Bόrgen; ihm
+aber gδbe ich hiermit sein Wort ohne Bedenken zurόck und wόnschte, daί
+er dabei sein Glόck finden mφchte.  In ebender Stunde erhielt ich eine
+kurze Antwort, die im wesentlichen mit der ersten vφllig gleichlautend
+war.  Er blieb dabei, daί er nach erhaltener Stelle bei mir anfragen
+wόrde, ob ich sein Glόck mit ihm teilen wollte.
+
+Mir hieί das nun soviel als nichts gesagt.  Ich erklδrte meinen
+Verwandten und Bekannten, die Sache sei abgetan, und sie war es auch
+wirklich.  Denn als er neun Monate hernach auf das erwόnschteste
+befφrdert wurde, lieί er mir seine Hand nochmals antragen, freilich
+mit der Bedingung, daί ich als Gattin eines Mannes, der ein Haus
+machen mόίte, meine Gesinnungen wόrde zu δndern haben.  Ich dankte
+hφflich und eilte mit Herz und Sinn von dieser Geschichte weg, wie man
+sich aus dem Schauspielhause heraussehnt, wenn der Vorhang gefallen
+ist.  Und da er kurze Zeit darauf, wie es ihm nun sehr leicht war,
+eine reiche und ansehnliche Partie gefunden hatte und ich ihn nach
+seiner Art glόcklich wuίte, so war meine Beruhigung ganz vollkommen.
+
+Ich darf nicht mit Stillschweigen όbergehen, daί einigemal, noch eh er
+eine Bedienung erhielt, auch nachher, ansehnliche Heiratsantrδge an
+mich getan wurden, die ich aber ganz ohne Bedenken ausschlug, sosehr
+Vater und Mutter mehr Nachgiebigkeit von meiner Seite gewόnscht hδtten.
+
+
+Nun schien mir nach einem stόrmischen Mδrz und April das schφnste
+Maiwetter beschert zu sein.  Ich genoί bei einer guten Gesundheit eine
+unbeschreibliche Gemόtsruhe; ich mochte mich umsehen, wie ich wollte,
+so hatte ich bei meinem Verluste noch gewonnen.  Jung und voll
+Empfindung, wie ich war, deuchte mir die Schφpfung tausendmal schφner
+als vorher, da ich Gesellschaften und Spiele haben muίte, damit mir
+die Weile in dem schφnen Garten nicht zu lang wurde.  Da ich mich
+einmal meiner Frφmmigkeit nicht schδmte, so hatte ich Herz, meine
+Liebe zu Kόnsten und Wissenschaften nicht zu verbergen.  Ich zeichnete,
+malte, las und fand Menschen genug, die mich unterstόtzten; statt der
+groίen Welt, die ich verlassen hatte, oder vielmehr die mich verlieί,
+bildete sich eine kleinere um mich her, die weit reicher und
+unterhaltender war.  Ich hatte eine Neigung zum gesellschaftlichen
+Leben, und ich leugne nicht, daί mir, als ich meine δltern
+Bekanntschaften aufgab, vor der Einsamkeit grauete.  Nun fand ich mich
+hinlδnglich, ja vielleicht zu sehr entschδdigt.  Meine Bekanntschaften
+wurden erst recht weitlδufig, nicht nur mit Einheimischen, deren
+Gesinnungen mit den meinigen όbereinstimmten, sondern auch mit Fremden.
+Meine Geschichte war ruchtbar geworden, und es waren viele Menschen
+neugierig, das Mδdchen zu sehen, die Gott mehr schδtzte als ihren
+Brδutigam.  Es war damals όberhaupt eine gewisse religiφse Stimmung in
+Deutschland bemerkbar.  In mehreren fόrstlichen und grδflichen Hδusern
+war eine Sorge fόr das Heil der Seele lebendig.  Es fehlte nicht an
+Edelleuten, die gleiche Aufmerksamkeit hegten, und in den geringern
+Stδnden war durchaus diese Gesinnung verbreitet.
+
+Die grδfliche Familie, deren ich oben erwδhnt, zog mich nun nδher an
+sich.  Sie hatte sich indessen verstδrkt, indem sich einige Verwandte
+in die Stadt gewendet hatten.  Diese schδtzbaren Personen suchten
+meinen Umgang wie ich den ihrigen.  Sie hatten groίe Verwandtschaft,
+und ich lernte in diesem Hause einen groίen Teil der Fόrsten, Grafen
+und Herren des Reichs kennen.  Meine Gesinnungen waren niemanden ein
+Geheimnis, und man mochte sie ehren oder auch nur schonen, so erlangte
+ich doch meinen Zweck und blieb ohne Anfechtung.
+
+Noch auf eine andere Weise sollte ich wieder in die Welt gefόhrt
+werden.  Zu eben der Zeit verweilte ein Stiefbruder meines Vaters, der
+uns sonst nur im Vorbeigehn besucht hatte, lδnger bei uns.  Er hatte
+die Dienste seines Hofes, wo er geehrt und von Einfluί war, nur
+deswegen verlassen, weil nicht alles nach seinem Sinne ging.  Sein
+Verstand war richtig und sein Charakter streng, und er war darin
+meinem Vater sehr δhnlich; nur hatte dieser dabei einen gewissen Grad
+von Weichheit, wodurch ihm leichter ward, in Geschδften nachzugeben
+und etwas gegen seine όberzeugung nicht zu tun, aber geschehen zu
+lassen und den Unwillen darόber alsdann entweder in der Stille fόr
+sich oder vertraulich mit seiner Familie zu verkochen.  Mein Oheim war
+um vieles jόnger, und seine Selbstδndigkeit ward durch seine δuίern
+Umstδnde nicht wenig bestδtigt.  Er hatte eine sehr reiche Mutter
+gehabt und hatte von ihren nahen und fernen Verwandten noch ein groίes
+Vermφgen zu hoffen; er bedurfte keines fremden Zuschusses, anstatt daί
+mein Vater bei seinem mδίigen Vermφgen durch Besoldung an den Dienst
+fest geknόpft war.
+
+Noch unbiegsamer war mein Oheim durch hδusliches Unglόck geworden.  Er
+hatte eine liebenswόrdige Frau und einen hoffnungsvollen Sohn frόh
+verloren, und er schien von der Zeit an alles von sich entfernen zu
+wollen, was nicht von seinem Willen abhing.
+
+In der Familie sagte man sich gelegentlich mit einiger
+Selbstgefδlligkeit in die Ohren, daί er wahrscheinlich nicht wieder
+heiraten werde und daί wir Kinder uns schon als Erben seines groίen
+Vermφgens ansehen kφnnten.  Ich achtete nicht weiter darauf; allein
+das Betragen der όbrigen ward nach diesen Hoffnungen nicht wenig
+gestimmt.  Bei der Festigkeit seines Charakters hatte er sich gewφhnt,
+in der Unterredung niemand zu widersprechen, vielmehr die Meinung
+eines jeden freundlich anzuhφren und die Art, wie sich jeder eine
+Sache dachte, noch selbst durch Argumente und Beispiele zu erheben.
+Wer ihn nicht kannte, glaubte stets mit ihm einerlei Meinung zu sein;
+denn er hatte einen όberwiegenden Verstand und konnte sich in alle
+Vorstellungsarten versetzen.  Mit mir ging es ihm nicht so glόcklich,
+denn hier war von Empfindungen die Rede, von denen er gar keine Ahnung
+hatte, und so schonend, teilnehmend und verstδndig er mit mir όber
+meine Gesinnungen sprach, so war es mir doch auffallend, daί er von
+dem, worin der Grund aller meiner Handlungen lag, offenbar keinen
+Begriff hatte.
+
+So geheim er όbrigens war, entdeckte sich doch der Endzweck seines
+ungewφhnlichen Aufenthalts bei uns nach einiger Zeit.  Er hatte, wie
+man endlich bemerken konnte, sich unter uns die jόngste Schwester
+ausersehen, um sie nach seinem Sinne zu verheiraten und glόcklich zu
+machen; und gewiί, sie konnte nach ihren kφrperlichen und geistigen
+Gaben, besonders wenn sich ein ansehnliches Vermφgen noch mit auf die
+Schale legte, auf die ersten Partien Anspruch machen.  Seine
+Gesinnungen gegen mich gab er gleichfalls pantomimisch zu erkennen,
+indem er mir den Platz einer Stiftsdame verschaffte, wovon ich sehr
+bald auch die Einkόnfte zog.
+
+Meine Schwester war mit seiner Fόrsorge nicht so zufrieden und nicht
+so dankbar wie ich.  Sie entdeckte mir eine Herzensangelegenheit, die
+sie bisher sehr weislich verborgen hatte: denn sie fόrchtete wohl, was
+auch wirklich geschah, daί ich ihr auf alle mφgliche Weise die
+Verbindung mit einem Manne, der ihr nicht hδtte gefallen sollen,
+widerraten wόrde.  Ich tat mein mφglichstes, und es gelang mir.  Die
+Absichten des Oheims waren zu ernsthaft und zu deutlich und die
+Aussicht fόr meine Schwester bei ihrem Weltsinne zu reizend, als daί
+sie nicht eine Neigung, die ihr Verstand selbst miίbilligte,
+aufzugeben Kraft hδtte haben sollen.
+
+Da sie nun den sanften Leitungen des Oheims nicht mehr wie bisher
+auswich, so war der Grund zu seinem Plane bald gelegt.  Sie ward
+Hofdame an einem benachbarten Hofe, wo er sie einer Freundin, die als
+Oberhofmeisterin in groίem Ansehn stand, zur Aufsicht und Ausbildung
+όbergeben konnte.  Ich begleitete sie zu dem Ort ihres neuen
+Aufenthaltes.  Wir konnten beide mit der Aufnahme, die wir erfuhren,
+sehr zufrieden sein, und manchmal muίte ich όber die Person, die ich
+nun als Stiftsdame, als junge und fromme Stiftsdame, in der Welt
+spielte, heimlich lδcheln.
+
+In frόhern Zeiten wόrde ein solches Verhδltnis mich sehr verwirrt, ja
+mir vielleicht den Kopf verrόckt haben; nun aber war ich bei allem,
+was mich umgab, sehr gelassen.  Ich lieί mich in groίer Stille ein
+paar Stunden frisieren, putzte mich und dachte nichts dabei, als daί
+ich in meinem Verhδltnisse diese Galalivree anzuziehen schuldig sei.
+In den angefόllten Sδlen sprach ich mit allen und jeden, ohne daί mir
+irgendeine Gestalt oder ein Wesen einen starken Eindruck
+zurόckgelassen hδtte.  Wenn ich wieder nach Hause kam, waren mόde
+Beine meist alles Gefόhl, was ich mit zurόckbrachte.  Meinem Verstande
+nόtzten die vielen Menschen, die ich sah; und als Muster aller
+menschlichen Tugenden, eines guten und edlen Betragens lernte ich
+einige Frauen, besonders die Oberhofmeisterin, kennen, unter der meine
+Schwester sich zu bilden das Glόck hatte.
+
+Doch fόhlte ich bei meiner Rόckkunft nicht so glόckliche kφrperliche
+Folgen von dieser Reise.  Bei der grφίten Enthaltsamkeit und der
+genausten Diδt war ich doch nicht wie sonst Herr von meiner Zeit und
+meinen Krδften.  Nahrung, Bewegung, Aufstehn und Schlafengehn,
+Ankleiden und Ausfahren hing nicht wie zu Hause von meinem Willen und
+meinem Empfinden ab.  Im Laufe des geselligen Kreises darf man nicht
+stocken, ohne unhφflich zu sein, und alles, was nφtig war, leistete
+ich gern, weil ich es fόr Pflicht hielt, weil ich wuίte, daί es bald
+vorόbergehen wόrde, und weil ich mich gesunder als jemals fόhlte.
+Dessenungeachtet muίte dieses fremde, unruhige Leben auf mich stδrker,
+als ich fόhlte, gewirkt haben.  Denn kaum war ich zu Hause angekommen
+und hatte meine Eltern mit einer befriedigenden Erzδhlung erfreut, so
+όberfiel mich ein Blutsturz, der, ob er gleich nicht gefδhrlich war
+und schnell vorόberging, doch lange Zeit eine merkliche Schwachheit
+hinterlieί.
+
+Hier hatte ich nun wieder eine neue Lektion aufzusagen.  Ich tat es
+freudig.  Nichts fesselte mich an die Welt, und ich war όberzeugt, daί
+ich hier das Rechte niemals finden wόrde, und so war ich in dem
+heitersten und ruhigsten Zustande und ward, indem ich Verzicht aufs
+Leben getan hatte, beim Leben erhalten.
+
+Eine neue Prόfung hatte ich auszustehen, da meine Mutter mit einer
+drόckenden Beschwerde όberfallen wurde, die sie noch fόnf Jahre trug,
+ehe sie die Schuld der Natur bezahlte.  In dieser Zeit gab es manche
+όbung.  Oft, wenn ihr die Bangigkeit zu stark wurde, lieί sie uns des
+Nachts alle vor ihr Bette rufen, um wenigstens durch unsre Gegenwart
+zerstreut, wo nicht gebessert zu werden.  Schwerer, ja kaum zu tragen
+war der Druck, als mein Vater auch elend zu werden anfing.  Von Jugend
+auf hatte er φfters heftige Kopfschmerzen, die aber aufs lδngste nur
+sechsunddreiίig Stunden anhielten.  Nun aber wurden sie bleibend, und
+wenn sie auf einen hohen Grad stiegen, so zerriί der Jammer mir das
+Herz.  Bei diesen Stόrmen fόhlte ich meine kφrperliche Schwδche am
+meisten, weil sie mich hinderte, meine heiligsten, liebsten Pflichten
+zu erfόllen, oder mir doch ihre Ausόbung δuίerst beschwerlich machte.
+
+Nun konnte ich mich prόfen, ob auf dem Wege, den ich eingeschlagen,
+Wahrheit oder Phantasie sei, ob ich vielleicht nur nach andern gedacht
+oder ob der Gegenstand meines Glaubens eine Realitδt habe, und zu
+meiner grφίten Unterstόtzung fand ich immer das letztere.  Die gerade
+Richtung meines Herzens zu Gott, den Umgang mit den "beloved ones"
+hatte ich gesucht und gefunden, und das war, was mir alles
+erleichterte.  Wie der Wanderer in den Schatten, so eilte meine Seele
+nach diesem Schutzort, wenn mich alles von auίen drόckte, und kam
+niemals leer zurόck.
+
+In der neuern Zeit haben einige Verfechter der Religion, die mehr
+Eifer als Gefόhl fόr dieselbe zu haben scheinen, ihre Mitglδubigen
+aufgefordert, Beispiele von wirklichen Gebetserhφrungen
+bekanntzumachen, wahrscheinlich weil sie sich Brief und Siegel
+wόnschten, um ihren Gegnern recht diplomatisch und juristisch zu Leibe
+zu gehen.  Wie unbekannt muί ihnen das wahre Gefόhl sein, und wie
+wenig echte Erfahrungen mφgen sie selbst gemacht haben!
+
+Ich darf sagen, ich kam nie leer zurόck, wenn ich unter Druck und Not
+Gott gesucht hatte.  Es ist unendlich viel gesagt, und doch kann und
+darf ich nicht mehr sagen.  So wichtig jede Erfahrung in dem
+kritischen Augenblicke fόr mich war, so matt, so unbedeutend,
+unwahrscheinlich wόrde die Erzδhlung werden, wenn ich einzelne Fδlle
+anfόhren wollte.  Wie glόcklich war ich, daί tausend kleine Vorgδnge
+zusammen, so gewiί als das Atemholen Zeichen meines Lebens ist, mir
+bewiesen, daί ich nicht ohne Gott auf der Welt sei.  Er war mir nahe,
+ich war vor ihm.  Das ist's, was ich mit geflissentlicher Vermeidung
+aller theologischen Systemsprache mit grφίter Wahrheit sagen kann.
+
+Wie sehr wόnschte ich, daί ich mich auch damals ganz ohne System
+befunden hδtte; aber wer kommt frόh zu dem Glόcke, sich seines eignen
+Selbsts, ohne fremde Formen, in reinem Zusammenhang bewuίt zu sein?
+Mir war es Ernst mit meiner Seligkeit.  Bescheiden vertraute ich
+fremdem Ansehn; ich ergab mich vφllig dem Hallischen Bekehrungssystem,
+und mein ganzes Wesen wollte auf keine Wege hineinpassen.
+
+Nach diesem Lehrplan muί die Verδnderung des Herzens mit einem tiefen
+Schrecken όber die Sόnde anfangen; das Herz muί in dieser Not bald
+mehr, bald weniger die verschuldete Strafe erkennen und den Vorschmack
+der Hφlle kosten, der die Lust der Sόnde verbittert.  Endlich muί man
+eine sehr merkliche Versicherung der Gnade fόhlen, die aber im
+Fortgange sich oft versteckt und mit Ernst wieder gesucht werden muί.
+
+Das alles traf bei mir weder nahe noch ferne zu.  Wenn ich Gott
+aufrichtig suchte, so lieί er sich finden und hielt mir von
+vergangenen Dingen nichts vor.  Ich sah hintennach wohl ein, wo ich
+unwόrdig gewesen, und wuίte auch, wo ich es noch war; aber die
+Erkenntnis meiner Gebrechen war ohne alle Angst.  Nicht einen
+Augenblick ist mir eine Furcht vor der Hφlle angekommen, ja die Idee
+eines bφsen Geistes und eines Straf- und Quδlortes nach dem Tode
+konnte keinesweges in dem Kreise meiner Ideen Platz finden.  Ich fand
+die Menschen, die ohne Gott lebten, deren Herz dem Vertrauen und der
+Liebe gegen den Unsichtbaren zugeschlossen war, schon so unglόcklich,
+daί eine Hφlle und δuίere Strafen mir eher fόr sie eine Linderung zu
+versprechen als eine Schδrfung der Strafe zu drohen schienen.  Ich
+durfte nur Menschen auf dieser Welt ansehen, die gehδssigen Gefόhlen
+in ihrem Busen Raum geben, die sich gegen das Gute von irgendeiner Art
+verstecken und sich und andern das Schlechte aufdringen wollen, die
+lieber bei Tage die Augen zuschlieίen, um nur behaupten zu kφnnen, die
+Sonne gebe keinen Schein von sich--wie όber allen Ausdruck schienen
+mir diese Menschen elend!  Wer hδtte eine Hφlle schaffen kφnnen, um
+ihren Zustand zu verschlimmern!
+
+Diese Gemόtsbeschaffenheit blieb mir, einen Tag wie den andern, zehn
+Jahre lang.  Sie erhielt sich durch viele Proben, auch am
+schmerzhaften Sterbebette meiner geliebten Mutter.  Ich war offen
+genug, um bei dieser Gelegenheit meine heitere Gemόtsverfassung
+frommen, aber ganz schulgerechten Leuten nicht zu verbergen, und ich
+muίte darόber manchen freundschaftlichen Verweis erdulden.  Man meinte
+mir eben zur rechten Zeit vorzustellen, welchen Ernst man anzuwenden
+hδtte, um in gesunden Tagen einen guten Grund zu legen.
+
+An Ernst wollte ich es auch nicht fehlen lassen.  Ich lieί mich fόr
+den Augenblick όberzeugen und wδre um mein Leben gern traurig und voll
+Schrecken gewesen.  Wie verwundert war ich aber, da es ein fόr allemal
+nicht mφglich war.  Wenn ich an Gott dachte, war ich heiter und
+vergnόgt; auch bei meiner lieben Mutter schmerzensvollem Ende graute
+mir vor dem Tode nicht.  Doch lernte ich vieles und ganz andere Sachen,
+als meine unberufenen Lehrmeister glaubten, in diesen groίen Stunden.
+
+
+
+
+VI. Buch--5
+
+
+
+
+Nach und nach ward ich an den Einsichten so mancher hochberόhmten
+Leute zweifelhaft und bewahrte meine Gesinnungen in der Stille.  Eine
+gewisse Freundin, der ich erst zuviel eingerδumt hatte, wollte sich
+immer in meine Angelegenheiten mengen; auch von dieser war ich
+genφtigt mich loszumachen, und einst sagte ich ihr ganz entschieden,
+sie solle ohne Mόhe bleiben, ich brauche ihren Rat nicht; ich kenne
+meinen Gott und wolle ihn ganz allein zum Fόhrer haben.  Sie fand sich
+sehr beleidigt, und ich glaube, sie hat mir's nie ganz verziehen.
+
+Dieser Entschluί, mich dem Rate und der Einwirkung meiner Freunde in
+geistlichen Sachen zu entziehen, hatte die Folge, daί ich auch in
+δuίerlichen Verhδltnissen meinen eigenen Weg zu gehen Mut gewann.
+Ohne den Beistand meines treuen unsichtbaren Fόhrers hδtte es mir όbel
+geraten kφnnen, und noch muί ich όber diese weise und glόckliche
+Leitung erstaunen.  Niemand wuίte eigentlich, worauf es bei mir ankam,
+und ich wuίte es selbst nicht.
+
+Das Ding, das noch nie erklδrte bφse Ding, das uns von dem Wesen
+trennt, dem wir das Leben verdanken, von dem Wesen, aus dem alles, was
+Leben genannt werden soll, sich unterhalten muί, das Ding, das man
+Sόnde nennt, kannte ich noch gar nicht.
+
+In dem Umgange mit dem unsichtbaren Freunde fόhlte ich den sόίesten
+Genuί aller meiner Lebenskrδfte.  Das Verlangen, dieses Glόck immer zu
+genieίen, war so groί, daί ich gern unterlieί, was diesen Umgang
+stφrte, und hierin war die Erfahrung mein bester Lehrmeister.  Allein
+es ging mir wie Kranken, die keine Arznei haben und sich mit der Diδt
+zu helfen suchen.  Es tut etwas, aber lange nicht genug.
+
+In der Einsamkeit konnte ich nicht immer bleiben, ob ich gleich in ihr
+das beste Mittel gegen die mir so eigene Zerstreuung der Gedanken fand.
+Kam ich nachher in Getόmmel, so machte es einen desto grφίern
+Eindruck auf mich.  Mein eigentlichster Vorteil bestand darin, daί die
+Liebe zur Stille herrschend war und ich mich am Ende immer dahin
+wieder zurόckzog.  Ich erkannte, wie in einer Art von Dδmmerung, mein
+Elend und meine Schwδche, und ich suchte mir dadurch zu helfen, daί
+ich mich schonte, daί ich mich nicht aussetzte.
+
+Sieben Jahre lang hatte ich meine diδtetische Vorsicht ausgeόbt.  Ich
+hielt mich nicht fόr schlimm und fand meinen Zustand wόnschenswert.
+Ohne sonderbare Umstδnde und Verhδltnisse wδre ich auf dieser Stufe
+stehengeblieben, und ich kam nur auf einem sonderbaren Wege weiter.
+Gegen den Rat aller meiner Freunde knόpfte ich ein neues Verhδltnis an.
+Ihre Einwendungen machten mich anfangs stutzig.  Sogleich wandte ich
+mich an meinen unsichtbaren Fόhrer, und da dieser es mir vergφnnte,
+ging ich ohne Bedenken auf meinem Wege fort.
+
+Ein Mann von Geist, Herz und Talenten hatte sich in der Nachbarschaft
+angekauft.  Unter den Fremden, die ich kennenlernte, war auch er und
+seine Familie.  Wir stimmten in unsern Sitten, Hausverfassungen und
+Gewohnheiten sehr όberein und konnten uns daher bald aneinander
+anschlieίen.
+
+Philo, so will ich ihn nennen, war schon in gewissen Jahren und meinem
+Vater, dessen Krδfte abzunehmen anfingen, in gewissen Geschδften von
+der grφίten Beihόlfe.  Er ward bald der innige Freund unsers Hauses,
+und da er, wie er sagte, an mir eine Person fand, die nicht das
+Ausschweifende und Leere der groίen Welt und nicht das Trockne und
+δngstliche der "Stillen im Lande" habe, so waren wir bald vertraute
+Freunde.  Er war mir sehr angenehm und sehr brauchbar.
+
+Ob ich gleich nicht die mindeste Anlage noch Neigung hatte, mich in
+weltliche Geschδfte zu mischen und irgendeinen Einfluί zu suchen, so
+hφrte ich doch gerne davon und wuίte gern, was in der Nδhe und Ferne
+vorging.  Von weltlichen Dingen liebte ich mir eine gefόhllose
+Deutlichkeit zu verschaffen; Empfindung, Innigkeit, Neigung bewahrte
+ich fόr meinen Gott, fόr die Meinigen und fόr meine Freunde.
+
+Diese letzten waren, wenn ich so sagen darf, auf meine neue Verbindung
+mit Philo eifersόchtig und hatten dabei von mehr als einer Seite recht,
+wenn sie mich hierόber warnten.  Ich litt viel in der Stille, denn
+ich konnte selbst ihre Einwendungen nicht ganz fόr leer oder
+eigennόtzig halten.  Ich war von jeher gewohnt, meine Einsichten
+unterzuordnen, und doch wollte diesmal meine όberzeugung nicht nach.
+Ich flehte zu meinem Gott, auch hier mich zu warnen, zu hindern, zu
+leiten, und da mich hierauf mein Herz nicht abmahnte, so ging ich
+meinen Pfad getrost fort.
+
+Philo hatte im ganzen eine entfernte δhnlichkeit mit Narzissen; nur
+hatte eine fromme Erziehung sein Gefόhl mehr zusammengehalten und
+belebt.  Er hatte weniger Eitelkeit, mehr Charakter, und wenn jener in
+weltlichen Geschδften fein, genau, anhaltend und unermόdlich war, so
+war dieser klar, scharf, schnell und arbeitete mit einer unglaublichen
+Leichtigkeit.  Durch ihn erfuhr ich die innersten Verhδltnisse fast
+aller der vornehmen Personen, deren δuίeres ich in der Gesellschaft
+hatte kennenlernen, und ich war froh, von meiner Warte dem Getόmmel
+von weiten zuzusehen.  Philo konnte mir nichts mehr verhehlen: er
+vertraute mir nach und nach seine δuίern und innern Verbindungen.  Ich
+fόrchtete fόr ihn, denn ich sah gewisse Umstδnde und Verwickelungen
+voraus, und das όbel kam schneller, als ich vermutet hatte; denn er
+hatte mit gewissen Bekenntnissen immer zurόckgehalten, und auch
+zuletzt entdeckte er mir nur so viel, daί ich das Schlimmste vermuten
+konnte.
+
+Welche Wirkung hatte das auf mein Herz!  Ich gelangte zu Erfahrungen,
+die mir ganz neu waren.  Ich sah mit unbeschreiblicher Wehmut einen
+Agathon, der, in den Hainen von Delphi erzogen, das Lehrgeld noch
+schuldig war und es nun mit schweren, rόckstδndigen Zinsen abzahlte,
+und dieser Agathon war mein genau verbundener Freund.  Meine Teilnahme
+war lebhaft und vollkommen; ich litt mit ihm, und wir befanden uns
+beide in dem sonderbarsten Zustande.
+
+Nachdem ich mich lange mit seiner Gemόtsverfassung beschδftigt hatte,
+wendete sich meine Betrachtung auf mich selbst.  Der Gedanke: "Du bist
+nicht besser als er", stieg wie eine kleine Wolke vor mir auf,
+breitete sich nach und nach aus und verfinsterte meine ganze Seele.
+
+Nun dachte ich nicht mehr bloί: "Du bist nicht besser als er"; ich
+fόhlte es und fόhlte es so, daί ich es nicht noch einmal fόhlen mφchte:
+und es war kein schneller όbergang.  Mehr als ein Jahr muίte ich
+empfinden, daί, wenn mich eine unsichtbare Hand nicht umschrδnkt hδtte,
+ich ein Girard, ein Cartouche, ein Damiens, und welches Ungeheuer man
+nennen will, hδtte werden kφnnen: die Anlage dazu fόhlte ich deutlich
+in meinem Herzen.  Gott, welche Entdeckung!
+
+Hatte ich nun bisher die Wirklichkeit der Sόnde in mir durch die
+Erfahrung nicht einmal auf das leiseste gewahr werden kφnnen, so war
+mir jetzt die Mφglichkeit derselben in der Ahnung aufs schrecklichste
+deutlich geworden, und doch kannte ich das όbel nicht, ich fόrchtete
+es nur; ich fόhlte, daί ich schuldig sein kφnnte, und hatte mich nicht
+anzuklagen.
+
+So tief ich όberzeugt war, daί eine solche Geistesbeschaffenheit,
+wofόr ich die meinige anerkennen muίte, sich nicht zu einer
+Vereinigung mit dem hφchsten Wesen, die ich nach dem Tode hoffte,
+schicken kφnne, so wenig fόrchtete ich, in eine solche Trennung zu
+geraten.  Bei allem Bφsen, das ich in mir entdeckte, hatte ich ihn
+lieb und haίte, was ich fόhlte, ja ich wόnschte es noch ernstlicher zu
+hassen, und mein ganzer Wunsch war, von dieser Krankheit und dieser
+Anlage zur Krankheit erlφst zu werden, und ich war gewiί, daί mir der
+groίe Arzt seine Hόlfe nicht versagen wόrde.
+
+Die einzige Frage war: Was heilt diesen Schaden?  Tugendόbungen?  An
+die konnte ich nicht einmal denken; denn zehn Jahre hatte ich schon
+mehr als nur bloίe Tugend geόbt, und die nun erkannten Greuel hatten
+dabei tief in meiner Seele verborgen gelegen.  Hδtten sie nicht auch
+wie bei David losbrechen kφnnen, als er Bathseba erblickte, und war er
+nicht auch ein Freund Gottes, und war ich nicht im Innersten όberzeugt,
+daί Gott mein Freund sei?
+
+Sollte es also wohl eine unvermeidliche Schwδche der Menschheit sein?
+Mόssen wir uns nun gefallen lassen, daί wir irgendeinmal die
+Herrschaft unsrer Neigung empfinden, und bleibt uns bei dem besten
+Willen nichts andres όbrig, als den Fall, den wir getan, zu
+verabscheuen und bei einer δhnlichen Gelegenheit wieder zu fallen?
+
+Aus der Sittenlehre konnte ich keinen Trost schφpfen.  Weder ihre
+Strenge, wodurch sie unsre Neigung meistern will, noch ihre
+Gefδlligkeit, mit der sie unsre Neigungen zu Tugenden machen mφchte,
+konnte mir genόgen.  Die Grundbegriffe, die mir der Umgang mit dem
+unsichtbaren Freunde eingeflφίt hatte, hatten fόr mich schon einen
+viel entschiedenern Wert.
+
+Indem ich einst die Lieder studierte, welche David nach jener
+hδίlichen Katastrophe gedichtet hatte, war mir sehr auffallend, daί er
+das in ihm wohnende Bφse schon in dem Stoff, woraus er geworden war,
+erblickte, daί er aber entsόndigt sein wollte und daί er auf das
+dringendste um ein reines Herz flehte.
+
+Wie nun aber dazu zu gelangen?  Die Antwort aus den symbolischen
+Bόchern wuίte ich wohl: es war mir auch eine Bibelwahrheit, daί das
+Blut Jesu Christi uns von allen Sόnden reinige.  Nun aber bemerkte ich
+erst, daί ich diesen so oft wiederholten Spruch noch nie verstanden
+hatte.  Die Fragen: Was heiίt das?  Wie soll das zugehen? arbeiteten
+Tag und Nacht in mir sich durch.  Endlich glaubte ich bei einem
+Schimmer zu sehen, daί das, was ich suchte, in der Menschwerdung des
+ewigen Worts, durch das alles und auch wir erschaffen sind, zu suchen
+sei.  Daί der Uranfδngliche sich in die Tiefen, in denen wir stecken,
+die er durchschaut und umfaίt, einstmal als Bewohner begeben habe,
+durch unser Verhδltnis von Stufe zu Stufe, von der Empfδngnis und
+Geburt bis zu dem Grabe, durchgegangen sei, daί er durch diesen
+sonderbaren Umweg wieder zu den lichten Hφhen aufgestiegen, wo wir
+auch wohnen sollten, um glόcklich zu sein: das ward mir, wie in einer
+dδmmernden Ferne, offenbart.
+
+O warum mόssen wir, um von solchen Dingen zu reden, Bilder gebrauchen,
+die nur δuίere Zustδnde anzeigen!  Wo ist vor ihm etwas Hohes oder
+Tiefes, etwas Dunkles oder Helles?  Wir nur haben ein Oben und Unten,
+einen Tag und eine Nacht.  Und eben darum ist er uns δhnlich geworden,
+weil wir sonst keinen Teil an ihm haben kφnnten.
+
+Wie kφnnen wir aber an dieser unschδtzbaren Wohltat teilnehmen?
+"Durch den Glauben", antwortet uns die Schrift.  Was ist denn Glauben?
+Die Erzδhlung einer Begebenheit fόr wahr halten, was kann mir das
+helfen?  Ich muί mir ihre Wirkungen, ihre Folgen zueignen kφnnen.
+Dieser zueignende Glaube muί ein eigener, dem natόrlichen Menschen
+ungewφhnlicher Zustand des Gemόts sein.
+
+"Nun, Allmδchtiger! so schenke mir Glauben!" flehte ich einst in dem
+grφίten Druck des Herzens.  Ich lehnte mich auf einen kleinen Tisch,
+an dem ich saί, und verbarg mein betrδntes Gesicht in meinen Hδnden.
+Hier war ich in der Lage, in der man sein muί, wenn Gott auf unser
+Gebet achten soll, und in der man selten ist.
+
+Ja, wer nur schildern kφnnte, was ich da fόhlte!  Ein Zug brachte
+meine Seele nach dem Kreuze hin, an dem Jesus einst erblaίte; ein Zug
+war es, ich kann es nicht anders nennen, demjenigen vφllig gleich,
+wodurch unsre Seele zu einem abwesenden Geliebten gefόhrt wird, ein
+Zunahen, das vermutlich viel wesentlicher und wahrhafter ist, als wir
+vermuten.  So nahte meine Seele dem Menschgewordnen und am Kreuz
+Gestorbenen, und in dem Augenblicke wuίte ich, was Glauben war.
+
+"Das ist Glauben!" sagte ich und sprang wie halb erschreckt in die
+Hφhe.  Ich suchte nun, meiner Empfindung, meines Anschauens gewiί zu
+werden, und in kurzem war ich όberzeugt, daί mein Geist eine Fδhigkeit
+sich aufzuschwingen erhalten habe, die ihm ganz neu war.
+
+Bei diesen Empfindungen verlassen uns die Worte.  Ich konnte sie ganz
+deutlich von aller Phantasie unterscheiden; sie waren ganz ohne
+Phantasie, ohne Bild, und gaben doch ebendie Gewiίheit eines
+Gegenstandes, auf den sie sich bezogen, als die Einbildungskraft,
+indem sie uns die Zόge eines abwesenden Geliebten vormalt.
+
+Als das erste Entzόcken vorόber war, bemerkte ich, daί mir dieser
+Zustand der Seele schon vorher bekannt gewesen; allein ich hatte ihn
+nie in dieser Stδrke empfunden.  Ich hatte ihn niemals festhalten, nie
+zu eigen behalten kφnnen.  Ich glaube όberhaupt, daί jede
+Menschenseele ein und das andere Mal davon etwas empfunden hat.  Ohne
+Zweifel ist er das, was einem jeden lehrt, daί ein Gott ist.
+
+Mit dieser mich ehemals von Zeit zu Zeit nur anwandelnden Kraft war
+ich bisher sehr zufrieden gewesen, und wδre mir nicht durch sonderbare
+Schickung seit Jahr und Tag die unerwartete Plage widerfahren, wδre
+nicht dabei mein Kφnnen und Vermφgen bei mir selbst auίer allen Kredit
+gekommen, so wδre ich vielleicht mit jenem Zustande immer zufrieden
+geblieben.
+
+Nun hatte ich aber seit jenem groίen Augenblicke Flόgel bekommen.  Ich
+konnte mich όber das, was mich vorher bedrohete, aufschwingen, wie ein
+Vogel singend όber den schnellsten Strom ohne Mόhe fliegt, vor welchem
+das Hόndchen δngstlich bellend stehenbleibt.
+
+Meine Freude war unbeschreiblich, und ob ich gleich niemand etwas
+davon entdeckte, so merkten doch die Meinigen eine ungewφhnliche
+Heiterkeit an mir, ohne begreifen zu kφnnen, was die Ursache meines
+Vergnόgens wδre.  Hδtte ich doch immer geschwiegen und die reine
+Stimmung in meiner Seele zu erhalten gesucht!  Hδtte ich mich doch
+nicht durch Umstδnde verleiten lassen, mit meinem Geheimnisse
+hervorzutreten! dann hδtte ich mir abermals einen groίen Umweg
+ersparen kφnnen.
+
+Da in meinem vorhergehenden zehnjδhrigen Christenlauf diese notwendige
+Kraft nicht in meiner Seele war, so hatte ich mich in dem Fall anderer
+redlichen Leute auch befunden; ich hatte mir dadurch geholfen, daί ich
+die Phantasie immer mit Bildern erfόllte, die einen Bezug auf Gott
+hatten, und auch dieses ist schon wahrhaft nόtzlich: denn schδdliche
+Bilder und ihre bφsen Folgen werden dadurch abgehalten.  Sodann
+ergreift unsre Seele oft ein und das andere von den geistigen Bildern
+und schwingt sich ein wenig damit in die Hφhe, wie ein junger Vogel
+von einem Zweige auf den andern flattert.  Solange man nichts Besseres
+hat, ist doch diese όbung nicht ganz zu verwerfen.
+
+Auf Gott zielende Bilder und Eindrόcke verschaffen uns kirchliche
+Anstalten, Glocken, Orgeln und Gesδnge und besonders die Vortrδge
+unsrer Lehrer.  Auf sie war ich ganz unsδglich begierig; keine
+Witterung, keine kφrperliche Schwδche hielt mich ab, die Kirchen zu
+besuchen, und nur das sonntδgige Gelδute konnte mir auf meinem
+Krankenlager einige Ungeduld verursachen.  Unsern Oberhofprediger, der
+ein trefflicher Mann war, hφrte ich mit groίer Neigung; auch seine
+Kollegen waren mir wert, und ich wuίte die goldnen δpfel des
+gφttlichen Wortes auch aus irdenen Schalen unter gemeinem Obste
+herauszufinden.  Den φffentlichen όbungen wurden alle mφglichen
+Privaterbauungen, wie man sie nennt, hinzugefόgt und auch dadurch nur
+Phantasie und feinere Sinnlichkeit genδhrt.  Ich war so an diesen Gang
+gewφhnt, ich respektierte ihn so sehr, daί mir auch jetzt nichts
+Hφheres einfiel.  Denn meine Seele hat nur Fόhlhφrner und keine Augen;
+sie tastet nur und sieht nicht; ach! daί sie Augen bekδme und schauen
+dόrfte!
+
+Auch jetzt ging ich voll Verlangen in die Predigten; aber ach, wie
+geschah mir!  Ich fand das nicht mehr, was ich sonst gefunden.  Diese
+Prediger stumpften sich die Zδhne an den Schalen ab, indessen ich den
+Kern genoί.  Ich muίte ihrer nun bald mόde werden; aber mich an den
+allein zu halten, den ich doch zu finden wuίte, dazu war ich zu
+verwφhnt.  Bilder wollte ich haben, δuίere Eindrόcke bedurfte ich und
+glaubte ein reines geistiges Bedόrfnis zu fόhlen.
+
+
+
+
+VI. Buch--6
+
+
+
+
+Philos Eltern hatten mit der herrnhutischen Gemeinde in Verbindung
+gestanden; in seiner Bibliothek fanden sich noch viele Schriften des
+Grafen.  Er hatte mir einigemal sehr klar und billig darόber
+gesprochen und mich ersucht, einige dieser Schriften durchzublδttern,
+und wδre es auch nur, um ein psychologisches Phδnomen kennenzulernen.
+Ich hielt den Grafen fόr einen gar zu argen Ketzer; so lieί ich auch
+das Ebersdorfer Gesangbuch bei mir liegen, das mir der Freund in
+δhnlicher Absicht gleichsam aufgedrungen hatte.
+
+In dem vφlligen Mangel aller δuίeren Ermunterungsmittel ergriff ich
+wie von ungefδhr das gedachte Gesangbuch und fand zu meinem Erstaunen
+wirklich Lieder darin, die, freilich unter sehr seltsamen Formen, auf
+dasjenige zu deuten schienen, was ich fόhlte; die Originalitδt und
+Naivetδt der Ausdrόcke zog mich an.  Eigene Empfindungen schienen auf
+eine eigene Weise ausgedrόckt; keine Schulterminologie erinnerte an
+etwas Steifes oder Gemeines.  Ich ward όberzeugt, die Leute fόhlten,
+was ich fόhlte, und ich fand mich nun sehr glόcklich, ein solches
+Verschen ins Gedδchtnis zu fassen und mich einige Tage damit zu tragen.
+
+
+Seit jenem Augenblick, in welchem mir das Wahre geschenkt worden war,
+verflossen auf diese Weise ungefδhr drei Monate.  Endlich faίte ich
+den Entschluί, meinem Freunde Philo alles zu entdecken und ihn um die
+Mitteilung jener Schriften zu bitten, auf die ich nun όber die Maίen
+neugierig geworden war.  Ich tat es auch wirklich, ungeachtet mir ein
+Etwas im Herzen ernstlich davon abriet.
+
+Ich erzδhlte Philo die ganze Geschichte umstδndlich, und da er selbst
+darin eine Hauptperson war, da meine Erzδhlung auch fόr ihn die
+strengste Buίpredigt enthielt, war er δuίerst betroffen und gerόhrt.
+Er zerfloί in Trδnen.  Ich freute mich und glaubte, auch bei ihm sei
+eine vφllige Sinnesδnderung bewirkt worden.
+
+Er versorgte mich mit allen Schriften, die ich nur verlangte, und nun
+hatte ich όberflόssige Nahrung fόr meine Einbildungskraft.  Ich machte
+groίe Fortschritte in der Zinzendorfischen Art, zu denken und zu
+sprechen.  Man glaube nicht, daί ich die Art und Weise des Grafen
+nicht auch gegenwδrtig zu schδtzen wisse; ich lasse ihm gern
+Gerechtigkeit widerfahren; er ist kein leerer Phantast; er spricht von
+groίen Wahrheiten meist in einem kόhnen Fluge der Einbildungskraft,
+und die ihn geschmδht haben, wuίten seine Eigenschaften weder zu
+schδtzen noch zu unterscheiden.
+
+Ich gewann ihn unbeschreiblich lieb.  Wδre ich mein eigner Herr
+gewesen, so hδtte ich gewiί Vaterland und Freunde verlassen, wδre zu
+ihm gezogen; unfehlbar hδtten wir uns verstanden, und schwerlich
+hδtten wir uns lange vertragen.
+
+Dank sei meinem Genius, der mich damals in meiner hδuslichen
+Verfassung so eingeschrδnkt hielt!  Es war schon eine groίe Reise,
+wenn ich nur in den Hausgarten gehen konnte.  Die Pflege meines alten
+und schwδchlichen Vaters machte mir Arbeit genug, und in den
+Ergφtzungsstunden war die edle Phantasie mein Zeitvertreib.  Der
+einzige Mensch, den ich sah, war Philo, den mein Vater sehr liebte,
+dessen offnes Verhδltnis zu mir aber durch die letzte Erklδrung
+einigermaίen gelitten hatte.  Bei ihm war die Rόhrung nicht tief
+gedrungen, und da ihm einige Versuche, in meiner Sprache zu reden,
+nicht gelungen waren, so vermied er diese Materie um so leichter, als
+er durch seine ausgebreiteten Kenntnisse immer neue Gegenstδnde des
+Gesprδchs herbeizufόhren wuίte.
+
+Ich war also eine herrnhutische Schwester auf meine eigene Hand und
+hatte diese neue Wendung meines Gemόts und meiner Neigungen besonders
+vor dem Oberhofprediger zu verbergen, den ich als meinen Beichtvater
+zu schδtzen sehr Ursache hatte und dessen groίe Verdienste auch
+gegenwδrtig durch seine δuίerste Abneigung gegen die herrnhutische
+Gemeinde in meinen Augen nicht geschmδlert wurden.  Leider sollte
+dieser wόrdige Mann an mir und andern viele Betrόbnis erleben!
+
+Er hatte vor mehreren Jahren auswδrts einen Kavalier als einen
+redlichen, frommen Mann kennenlernen und war mit ihm als einem, der
+Gott ernstlich suchte, in einem ununterbrochenen Briefwechsel
+geblieben.  Wie schmerzhaft war es daher fόr seinen geistlichen Fόhrer,
+als dieser Kavalier sich in der Folge mit der herrnhutischen Gemeinde
+einlieί und sich lange unter den Brόdern aufhielt; wie angenehm
+dagegen, als sein Freund sich mit den Brόdern wieder entzweite, in
+seiner Nδhe zu wohnen sich entschloί und sich seiner Leitung aufs neue
+vφllig zu όberlassen schien.
+
+Nun wurde der Neuangekommene gleichsam im Triumph allen besonders
+geliebten Schδfchen des Oberhirten vorgestellt.  Nur in unser Haus
+ward er nicht eingefόhrt, weil mein Vater niemand mehr zu sehen
+pflegte.  Der Kavalier fand groίe Approbation; er hatte das Gesittete
+des Hofs und das Einnehmende der Gemeinde, dabei viel schφne
+natόrliche Eigenschaften und ward bald der groίe Heilige fόr alle, die
+ihn kennenlernten, worόber sich sein geistlicher Gφnner δuίerst freute.
+Leider war jener nur όber δuίere Umstδnde mit der Gemeine
+brouilliert und im Herzen noch ganz Herrnhuter.  Er hing zwar wirklich
+an der Realitδt der Sache; allein auch ihm war das Tδndelwerk, das der
+Graf darumgehδngt hatte, hφchst angemessen.  Er war an jene
+Vorstellungs- und Redensarten nun einmal gewφhnt, und wenn er sich
+nunmehr vor seinem alten Freunde sorgfδltig verbergen muίte, so war es
+ihm desto notwendiger, sobald er ein Hδufchen vertrauter Personen um
+sich erblickte, mit seinen Verschen, Litaneien und Bilderchen
+hervorzurόcken, und er fand, wie man denken kann, groίen Beifall.
+
+Ich wuίte von der ganzen Sache nichts und tδndelte auf meine eigene
+Art fort.  Lange Zeit blieben wir uns unbekannt.
+
+Einst besuchte ich in einer freien Stunde eine kranke Freundin.  Ich
+traf mehrere Bekannte dort an und merkte bald, daί ich sie in einer
+Unterredung gestφrt hatte.  Ich lieί mir nichts merken, erblickte aber
+zu meiner groίen Verwunderung an der Wand einige herrnhutische Bilder,
+in zierlichen Rahmen.  Ich faίte geschwinde, was in der Zeit, da ich
+nicht im Hause gewesen, vorgegangen sein mochte, und bewillkommte
+diese neue Erscheinung mit einigen angemessenen Versen.
+
+Man denke sich das Erstaunen meiner Freundinnen.  Wir erklδrten uns
+und waren auf der Stelle einig und vertraut.
+
+Ich suchte nun φfter Gelegenheit auszugehn.  Leider fand ich sie nur
+alle drei bis vier Wochen, ward mit dem adeligen Apostel und nach und
+nach mit der ganzen heimlichen Gemeinde bekannt.  Ich besuchte, wenn
+ich konnte, ihre Versammlungen, und bei meinem geselligen Sinn war es
+mir unendlich angenehm, das von andern zu vernehmen und andern
+mitzuteilen, was ich nur bisher in und mit mir selbst ausgearbeitet
+hatte.
+
+Ich war nicht so eingenommen, daί ich nicht bemerkt hδtte, wie nur
+wenige den Sinn der zarten Worte und Ausdrόcke fόhlten und wie sie
+dadurch auch nicht mehr als ehemals durch die kirchlich symbolische
+Sprache gefφrdert waren.  Dessenungeachtet ging ich mit ihnen fort und
+lieί mich nicht irremachen.  Ich dachte, daί ich nicht zur
+Untersuchung und Herzensprόfung berufen sei.  War ich doch auch durch
+manche unschuldige όbung zum Besseren vorbereitet worden.  Ich nahm
+meinen Teil hinweg, drang, wo ich zur Rede kam, auf den Sinn, der bei
+so zarten Gegenstδnden eher durch Worte versteckt als angedeutet wird,
+und lieί όbrigens mit stiller Vertrδglichkeit einen jeden nach seiner
+Art gewδhren.
+
+Auf diese ruhigen Zeiten des heimlichen gesellschaftlichen Genusses
+folgten bald die Stόrme φffentlicher Streitigkeiten und
+Widerwδrtigkeiten, die am Hofe und in der Stadt groίe Bewegungen
+erregten und, ich mφchte beinahe sagen, manches Skandal verursachten.
+Der Zeitpunkt war gekommen, in welchem unser Oberhofprediger, dieser
+groίe Widersacher der herrnhutischen Gemeinde, zu seiner gesegneten
+Demόtigung entdecken sollte, daί seine besten und sonst anhδnglichsten
+Zuhφrer sich sδmtlich auf die Seite der Gemeinde neigten.  Er war
+δuίerst gekrδnkt, vergaί im ersten Augenblicke alle Mδίigung und
+konnte in der Folge sich nicht, selbst wenn er gewollt hδtte,
+zurόckziehn.  Es gab heftige Debatten, bei denen ich glόcklicherweise
+nicht genannt wurde, da ich nur ein zufδlliges Mitglied der so sehr
+verhaίten Zusammenkόnfte war und unser eifriger Fόhrer meinen Vater
+und meinen Freund in bόrgerlichen Angelegenheiten nicht entbehren
+konnte.  Ich erhielt meine Neutralitδt mit stiller Zufriedenheit; denn
+mich von solchen Empfindungen und Gegenstδnden selbst mit
+wohlwollenden Menschen zu unterhalten war mir schon verdrieίlich, wenn
+sie den tiefsten Sinn nicht fassen konnten und nur auf der Oberflδche
+verweilten.  Nun aber gar όber das mit Widersachern zu streiten,
+worόber man sich kaum mit Freunden verstand, schien mir unnόtz, ja
+verderblich.  Denn bald konnte ich bemerken, daί liebevolle, edle
+Menschen, die in diesem Falle ihr Herz von Widerwillen und Haί nicht
+rein halten konnten, gar bald zur Ungerechtigkeit όbergingen und, um
+eine δuίere Form zu verteidigen, ihr bestes Innerste beinahe
+zerstφrten.
+
+Sosehr auch der wόrdige Mann in diesem Fall unrecht haben mochte und
+sosehr man mich auch gegen ihn aufzubringen suchte, konnte ich ihm
+doch niemals eine herzliche Achtung versagen.  Ich kannte ihn genau;
+ich konnte mich in seine Art, diese Sachen anzusehen, mit Billigkeit
+versetzen.  Ich hatte niemals einen Menschen ohne Schwδche gesehen;
+nur ist sie auffallender bei vorzόglichen Menschen.  Wir wόnschen und
+wollen nun ein fόr allemal, daί die, die so sehr privilegiert sind,
+auch gar keinen Tribut, keine Abgaben zahlen sollen.  Ich ehrte ihn
+als einen vorzόglichen Mann und hoffte den Einfluί meiner stillen
+Neutralitδt, wo nicht zu einem Frieden, doch zu einem
+Waffenstillstande zu nutzen.  Ich weiί nicht, was ich bewirkt hδtte;
+Gott faίte die Sache kόrzer und nahm ihn zu sich.  Bei seiner Bahre
+weinten alle, die noch kurz vorher um Worte mit ihm gestritten hatten.
+Seine Rechtschaffenheit, seine Gottesfurcht hatte niemals jemand
+bezweifelt.
+
+Auch ich muίte um diese Zeit das Puppenwerk aus den Hδnden legen, das
+mir durch diese Streitigkeiten gewissermaίen in einem andern Lichte
+erschienen war.  Der Oheim hatte seine Plane auf meine Schwester in
+der Stille durchgefόhrt.  Er stellte ihr einen jungen Mann von Stande
+und Vermφgen als ihren Brδutigam vor und zeigte sich in einer
+reichlichen Aussteuer, wie man es von ihm erwarten konnte.  Mein Vater
+willigte mit Freuden ein; die Schwester war frei und vorbereitet und
+verδnderte gerne ihren Stand.  Die Hochzeit wurde auf des Oheims
+Schloί ausgerichtet, Familie und Freunde waren eingeladen, und wir
+kamen alle mit heiterm Geiste.
+
+Zum erstenmal in meinem Leben erregte mir der Eintritt in ein Haus
+Bewunderung.  Ich hatte wohl oft von des Oheims Geschmack, von seinem
+italienischen Baumeister, von seinen Sammlungen und seiner Bibliothek
+reden hφren; ich verglich aber das alles mit dem, was ich schon
+gesehen hatte, und machte mir ein sehr buntes Bild davon in Gedanken.
+Wie verwundert war ich daher όber den ernsten und harmonischen
+Eindruck, den ich beim Eintritt in das Haus empfand und der sich in
+jedem Saal und Zimmer verstδrkte.  Hatte Pracht und Zierat mich sonst
+nur zerstreut, so fόhlte ich mich hier gesammelt und auf mich selbst
+zurόckgefόhrt.  Auch in allen Anstalten zu Feierlichkeiten und Festen
+erregten Pracht und Wόrde ein stilles Gefallen, und es war mir ebenso
+unbegreiflich, daί ein Mensch das alles hδtte erfinden und anordnen
+kφnnen, als daί mehrere sich vereinigen kφnnten, um in einem so groίen
+Sinne zusammenzuwirken.  Und bei dem allen schienen der Wirt und die
+Seinigen so natόrlich; es war keine Spur von Steifheit noch von leerem
+Zeremoniell zu bemerken.
+
+Die Trauung selbst ward unvermutet auf eine herzliche Art eingeleitet;
+eine vortreffliche Vokalmusik όberraschte uns, und der Geistliche
+wuίte dieser Zeremonie alle Feierlichkeit der Wahrheit zu geben.  Ich
+stand neben Philo, und statt mir Glόck zu wόnschen, sagte er mit einem
+tiefen Seufzer: "Als ich die Schwester sah die Hand hingeben, war
+mir's, als ob man mich mit siedheiίem Wasser begossen hδtte.
+"--"Warum?" fragte ich.  "Es ist mir allezeit so, wenn ich eine
+Kopulation ansehe", versetzte er.  Ich lachte όber ihn und habe
+nachher oft genug an seine Worte zu denken gehabt.
+
+Die Heiterkeit der Gesellschaft, worunter viel junge Leute waren,
+schien noch einmal so glδnzend, indem alles, was uns umgab, wόrdig und
+ernsthaft war.  Aller Hausrat, Tafelzeug, Service und Tischaufsδtze
+stimmten zu dem Ganzen, und wenn mir sonst die Baumeister mit den
+Konditoren aus einer Schule entsprungen zu sein schienen, so war hier
+Konditor und Tafeldecker bei dem Architekten in die Schule gegangen.
+
+Da man mehrere Tage zusammenblieb, hatte der geistreiche und
+verstδndige Wirt fόr die Unterhaltung der Gesellschaft auf das
+mannigfaltigste gesorgt.  Ich wiederholte hier nicht die traurige
+Erfahrung, die ich so oft in meinem Leben gehabt hatte, wie όbel eine
+groίe gemischte Gesellschaft sich befinde, die, sich selbst όberlassen,
+zu den allgemeinsten und schalsten Zeitvertreiben greifen muί, damit
+ja eher die guten als die schlechten Subjekte Mangel der Unterhaltung
+fόhlen.
+
+Ganz anders hatte es der Oheim veranstaltet.  Er hatte zwei bis drei
+Marschδlle, wenn ich sie so nennen darf, bestellt; der eine hatte fόr
+die Freuden der jungen Welt zu sorgen: Tδnze, Spazierfahrten, kleine
+Spiele waren von seiner Erfindung und standen unter seiner Direktion,
+und da junge Leute gern im Freien leben und die Einflόsse der Luft
+nicht scheuen, so war ihnen der Garten und der groίe Gartensaal
+όbergeben, an den zu diesem Endzwecke noch einige Galerien und
+Pavillons angebauet waren, zwar nur von Brettern und Leinwand, aber in
+so edlen Verhδltnissen, daί man nur an Stein und Marmor dabei erinnert
+ward.
+
+Wie selten ist eine Fete, wobei derjenige, der die Gδste
+zusammenberuft, auch die Schuldigkeit empfindet, fόr ihre Bedόrfnisse
+und Bequemlichkeiten auf alle Weise zu sorgen!
+
+Jagd und Spielpartien, kurze Promenaden, Gelegenheiten zu
+vertraulichen, einsamen Gesprδchen waren fόr die δltern Personen
+bereitet, und derjenige, der am frόhsten zu Bette ging, war auch gewiί
+am weitesten von allem Lδrm einquartiert.
+
+Durch diese gute Ordnung schien der Raum, in dem wir uns befanden,
+eine kleine Welt zu sein, und doch, wenn man es bei nahem betrachtete,
+war das Schloί nicht groί, und man wόrde ohne genaue Kenntnis
+desselben und ohne den Geist des Wirtes wohl schwerlich so viele Leute
+darin beherbergt und jeden nach seiner Art bewirtet haben.
+
+So angenehm uns der Anblick eines wohlgestalteten Menschen ist, so
+angenehm ist uns eine ganze Einrichtung, aus der uns die Gegenwart
+eines verstδndigen, vernόnftigen Wesens fόhlbar wird.  Schon in ein
+reinliches Haus zu kommen ist eine Freude, wenn es auch sonst
+geschmacklos gebauet und verziert ist: denn es zeigt uns die Gegenwart
+wenigstens von einer Seite gebildeter Menschen.  Wie doppelt angenehm
+ist es uns also, wenn aus einer menschlichen Wohnung uns der Geist
+einer hφhern, obgleich auch nur sinnlichen Kultur entgegenspricht.
+
+Mit vieler Lebhaftigkeit ward mir dieses auf dem Schlosse meines
+Oheims anschaulich.  Ich hatte vieles von Kunst gehφrt und gelesen;
+Philo selbst war ein groίer Liebhaber von Gemδlden und hatte eine
+schφne Sammlung; auch ich selbst hatte viel gezeichnet; aber teils war
+ich zu sehr mit meinen Empfindungen beschδftigt und trachtete nur, das
+eine, was not ist, erst recht ins reine zu bringen, teils schienen
+doch alle die Sachen, die ich gesehen hatte, mich wie die όbrigen
+weltlichen Dinge zu zerstreuen.  Nun war ich zum erstenmal durch etwas
+δuίerliches auf mich selbst zurόckgefόhrt, und ich lernte den
+Unterschied zwischen dem natόrlichen, vortrefflichen Gesang der
+Nachtigall und einem vierstimmigen Halleluja aus gefόhlvollen
+Menschenkehlen zu meiner grφίten Verwunderung erst kennen.
+
+Ich verbarg meine Freude όber diese neue Anschauung meinem Oheim nicht,
+der, wenn alles andere in sein Teil gegangen war, sich mit mir
+besonders zu unterhalten pflegte.  Er sprach mit groίer Bescheidenheit
+von dem, was er besaί und hervorgebracht hatte, mit groίer Sicherheit
+von dem Sinne, in dem es gesammelt und aufgestellt worden war, und ich
+konnte wohl merken, daί er mit Schonung fόr mich redete, indem er nach
+seiner alten Art das Gute, wovon er Herr und Meister zu sein glaubte,
+demjenigen unterzuordnen schien, was nach meiner όberzeugung das
+Rechte und Beste war.
+
+
+
+
+VI. Buch--7
+
+
+
+
+"Wenn wir uns", sagte er einmal, "als mφglich denken kφnnen, daί der
+Schφpfer der Welt selbst die Gestalt seiner Kreatur angenommen und auf
+ihre Art und Weise sich eine Zeitlang auf der Welt befunden habe, so
+muί uns dieses Geschφpf schon unendlich vollkommen erscheinen, weil
+sich der Schφpfer so innig damit vereinigen konnte.  Es muί also in
+dem Begriff des Menschen kein Widerspruch mit dem Begriff der Gottheit
+liegen; und wenn wir auch oft eine gewisse Unδhnlichkeit und
+Entfernung von ihr empfinden, so ist es doch um desto mehr unsere
+Schuldigkeit, nicht immer wie der Advokat des bφsen Geistes nur auf
+die Blφίen und Schwδchen unserer Natur zu sehen, sondern eher alle
+Vollkommenheiten aufzusuchen, wodurch wir die Ansprόche unsrer
+Gottδhnlichkeit bestδtigen kφnnen."
+
+Ich lδchelte und versetzte: "Beschδmen Sie mich nicht zu sehr, lieber
+Oheim, durch die Gefδlligkeit, in meiner Sprache zu reden!  Das, was
+Sie mir zu sagen haben, ist fόr mich von so groίer Wichtigkeit, daί
+ich es in Ihrer eigensten Sprache zu hφren wόnschte, und ich will
+alsdann, was ich mir davon nicht ganz zueignen kann, schon zu
+όbersetzen suchen."
+
+"Ich werde", sagte er darauf, "auch auf meine eigenste Weise ohne
+Verδnderung des Tons fortfahren kφnnen.  Des Menschen grφίtes
+Verdienst bleibt wohl, wenn er die Umstδnde soviel als mφglich
+bestimmt und sich sowenig als mφglich von ihnen bestimmen lδίt.  Das
+ganze Weltwesen liegt vor uns wie ein groίer Steinbruch vor dem
+Baumeister, der nur dann den Namen verdient, wenn er aus diesen
+zufδlligen Naturmassen ein in seinem Geiste entsprungenes Urbild mit
+der grφίten φkonomie, Zweckmδίigkeit und Festigkeit zusammenstellt.
+Alles auίer uns ist nur Element, ja ich darf wohl sagen, auch alles an
+uns; aber tief in uns liegt diese schφpferische Kraft, die das zu
+erschaffen vermag, was sein soll, und uns nicht ruhen und rasten lδίt,
+bis wir es auίer uns oder an uns, auf eine oder die andere Weise,
+dargestellt haben.  Sie, liebe Nichte, haben vielleicht das beste Teil
+erwδhlt; Sie haben Ihr sittliches Wesen, Ihre tiefe, liebevolle Natur
+mit sich selbst und mit dem hφchsten Wesen όbereinstimmend zu machen
+gesucht, indes wir andern wohl auch nicht zu tadeln sind, wenn wir den
+sinnlichen Menschen in seinem Umfange zu kennen und tδtig in Einheit
+zu bringen suchen."
+
+Durch solche Gesprδche wurden wir nach und nach vertrauter, und ich
+erlangte von ihm, daί er mit mir ohne Kondeszendenz wie mit sich
+selbst sprach.  "Glauben Sie nicht", sagte der Oheim zu mir, "daί ich
+Ihnen schmeichle, wenn ich Ihre Art zu denken und zu handeln lobe.
+Ich verehre den Menschen, der deutlich weiί, was er will, unablδssig
+vorschreitet, die Mittel zu seinem Zwecke kennt und sie zu ergreifen
+und zu brauchen weiί; inwiefern sein Zweck groί oder klein sei, Lob
+oder Tadel verdiene, das kommt bei mir erst nachher in Betrachtung.
+Glauben Sie mir, meine Liebe, der grφίte Teil des Unheils und dessen,
+was man bφs in der Welt nennt, entsteht bloί, weil die Menschen zu
+nachlδssig sind, ihre Zwecke recht kennenzulernen und, wenn sie solche
+kennen, ernsthaft darauf loszuarbeiten.  Sie kommen mir vor wie Leute,
+die den Begriff haben, es kφnne und mόsse ein Turm gebauet werden, und
+die doch an den Grund nicht mehr Steine und Arbeit verwenden, als man
+allenfalls einer Hόtte unterschlόge.  Hδtten Sie, meine Freundin,
+deren hφchstes Bedόrfnis war, mit Ihrer innern sittlichen Natur ins
+reine zu kommen, anstatt der groίen und kόhnen Aufopferungen sich
+zwischen Ihrer Familie, einem Brδutigam, vielleicht einem Gemahl nur
+so hin beholfen, Sie wόrden, in einem ewigen Widerspruch mit sich
+selbst, niemals einen zufriedenen Augenblick genossen haben."
+
+"Sie brauchen", versetzte ich hier, "das Wort Aufopferung, und ich
+habe manchmal gedacht, wie wir einer hφhern Absicht gleichsam wie
+einer Gottheit das Geringere zum Opfer darbringen, ob es uns schon am
+Herzen liegt, wie man ein geliebtes Schaf fόr die Gesundheit eines
+verehrten Vaters gern und willig zum Altar fόhren wόrde."
+
+"Was es auch sei", versetzte er, "der Verstand oder die Empfindung,
+das uns eins fόr das andere hingeben, eins vor dem andern wδhlen heiίt,
+so ist Entschiedenheit und Folge nach meiner Meinung das
+Verehrungswόrdigste am Menschen.  Man kann die Ware und das Geld nicht
+zugleich haben; und der ist ebenso όbel daran, dem es immer nach der
+Ware gelόstet, ohne daί er das Herz hat, das Geld hinzugeben, als der,
+den der Kauf reut, wenn er die Ware in Hδnden hat.  Aber ich bin weit
+entfernt, die Menschen deshalb zu tadeln; denn sie sind eigentlich
+nicht schuld, sondern die verwickelte Lage, in der sie sich befinden
+und in der sie sich nicht zu regieren wissen.  So werden Sie zum
+Beispiel im Durchschnitt weniger όble Wirte auf dem Lande als in den
+Stδdten finden und wieder in kleinen Stδdten weniger als in groίen;
+und warum?  Der Mensch ist zu einer beschrδnkten Lage geboren;
+einfache, nahe, bestimmte Zwecke vermag er einzusehen, und er gewφhnt
+sich, die Mittel zu benutzen, die ihm gleich zur Hand sind; sobald er
+aber ins Weite kommt, weiί er weder, was er will noch was er soll, und
+es ist ganz einerlei, ob er durch die Menge der Gegenstδnde zerstreut
+oder ob er durch die Hφhe und Wόrde derselben auίer sich gesetzt werde.
+Es ist immer sein Unglόck, wenn er veranlaίt wird, nach etwas zu
+streben, mit dem er sich durch eine regelmδίige Selbsttδtigkeit nicht
+verbinden kann.
+
+Fόrwahr", fuhr er fort, "ohne Ernst ist in der Welt nichts mφglich,
+und unter denen, die wir gebildete Menschen nennen, ist eigentlich
+wenig Ernst zu finden; sie gehen, ich mφchte sagen, gegen Arbeiten und
+Geschδfte, gegen Kόnste, ja gegen Vergnόgungen nur mit einer Art von
+Selbstverteidigung zu Werke; man lebt, wie man ein Pack Zeitungen
+liest, nur damit man sie loswerde, und es fδllt mir dabei jener junge
+Englδnder in Rom ein, der abends in einer Gesellschaft sehr zufrieden
+erzδhlte: daί er doch heute sechs Kirchen und zwei Galerien beiseite
+gebracht habe.  Man will mancherlei wissen und kennen, und gerade das,
+was einen am wenigsten angeht, und man bemerkt nicht, daί kein Hunger
+dadurch gestillt wird, wenn man nach der Luft schnappt.  Wenn ich
+einen Menschen kennenlerne, frage ich sogleich: womit beschδftigt er
+sich? und wie? und in welcher Folge? und mit der Beantwortung der
+Frage ist auch mein Interesse an ihm auf zeitlebens entschieden."
+
+"Sie sind, lieber Oheim", versetzte ich darauf, "vielleicht zu strenge
+und entziehen manchem guten Menschen, dem Sie nόtzlich sein kφnnten,
+Ihre hόlfreiche Hand."
+
+"Ist es dem zu verdenken", antwortete er, "der so lange vergebens an
+ihnen und um sie gearbeitet hat?  Wie sehr leidet man nicht in der
+Jugend von Menschen, die uns zu einer angenehmen Lustpartie einzuladen
+glauben, wenn sie uns in die Gesellschaft der Danaiden oder des
+Sisyphus zu bringen versprechen.  Gott sei Dank, ich habe mich von
+ihnen losgemacht, und wenn einer unglόcklicherweise in meinen Kreis
+kommt, suche ich ihn auf die hφflichste Art hinauszukomplimentieren:
+denn gerade von diesen Leuten hφrt man die bittersten Klagen όber den
+verworrenen Lauf der Welthδndel, όber die Seichtigkeit der
+Wissenschaften, όber den Leichtsinn der Kόnstler, όber die Leerheit
+der Dichter und was alles noch mehr ist.  Sie bedenken am wenigsten,
+daί eben sie selbst und die Menge, die ihnen gleich ist, gerade das
+Buch nicht lesen wόrden, das geschrieben wδre, wie sie es fordern, daί
+ihnen die echte Dichtung fremd sei und daί selbst ein gutes Kunstwerk
+nur durch Vorurteil ihren Beifall erlangen kφnne.  Doch lassen Sie uns
+abbrechen, es ist hier keine Zeit zu schelten noch zu klagen."
+
+Er leitete meine Aufmerksamkeit auf die verschiedenen Gemδlde, die an
+der Wand aufgehδngt waren; mein Auge hielt sich an die, deren Anblick
+reizend oder deren Gegenstand bedeutend war; er lieί es eine Weile
+geschehen, dann sagte er: "Gφnnen Sie nun auch dem Genius, der diese
+Werke hervorgebracht hat, einige Aufmerksamkeit.  Gute Gemόter sehen
+so gerne den Finger Gottes in der Natur; warum sollte man nicht auch
+der Hand seines Nachahmers einige Betrachtung schenken?"  Er machte
+mich sodann auf unscheinbare Bilder aufmerksam und suchte mir
+begreiflich zu machen, daί eigentlich die Geschichte der Kunst allein
+uns den Begriff von dem Wert und der Wόrde eines Kunstwerks geben
+kφnne, daί man erst die beschwerlichen Stufen des Mechanismus und des
+Handwerks, an denen der fδhige Mensch sich jahrhundertelang
+hinaufarbeitet, kennen mόsse, um zu begreifen, wie es mφglich sei, daί
+das Genie auf dem Gipfel, bei dessen bloίem Anblick uns schwindelt,
+sich frei und frφhlich bewege.
+
+Er hatte in diesem Sinne eine schφne Reihe zusammengebracht, und ich
+konnte mich nicht enthalten, als er mir sie auslegte, die moralische
+Bildung hier wie im Gleichnisse vor mir zu sehen.  Als ich ihm meine
+Gedanken δuίerte, versetzte er: "Sie haben vollkommen recht, und wir
+sehen daraus, daί man nicht wohltut, der sittlichen Bildung einsam, in
+sich selbst verschlossen nachzuhδngen; vielmehr wird man finden, daί
+derjenige, dessen Geist nach einer moralischen Kultur strebt, alle
+Ursache hat, seine feinere Sinnlichkeit zugleich mit auszubilden,
+damit er nicht in Gefahr komme, von seiner moralischen Hφhe
+herabzugleiten, indem er sich den Lockungen einer regellosen Phantasie
+όbergibt und in den Fall kommt, seine edlere Natur durch Vergnόgen an
+geschmacklosen Tδndeleien, wo nicht an etwas Schlimmerem
+herabzuwόrdigen."
+
+Ich hatte ihn nicht im Verdacht, daί er auf mich ziele, aber ich
+fόhlte mich getroffen, wenn ich zurόckdachte, daί unter den Liedern,
+die mich erbauet hatten, manches abgeschmackte mochte gewesen sein und
+daί die Bildchen, die sich an meine geistlichen Ideen anschlossen,
+wohl schwerlich vor den Augen des Oheims wόrden Gnade gefunden haben.
+
+Philo hatte sich indessen φfters in der Bibliothek aufgehalten und
+fόhrte mich nunmehr auch in selbiger ein.  Wir bewunderten die Auswahl
+und dabei die Menge der Bόcher.  Sie waren in jenem Sinne gesammelt:
+denn es waren beinahe auch nur solche darin zu finden, die uns zur
+deutlichen Erkenntnis fόhren oder uns zur rechten Ordnung anweisen,
+die uns entweder rechte Materialien geben oder uns von der Einheit
+unsers Geistes όberzeugen.
+
+Ich hatte in meinem Leben unsδglich gelesen, und in gewissen Fδchern
+war mir fast kein Buch unbekannt; um desto angenehmer war mir's, hier
+von der όbersicht des Ganzen zu sprechen und Lόcken zu bemerken, wo
+ich sonst nur eine beschrδnkte Verwirrung oder eine unendliche
+Ausdehnung gesehen hatte.
+
+Zugleich machten wir die Bekanntschaft eines sehr interessanten,
+stillen Mannes.  Er war Arzt und Naturforscher und schien mehr zu den
+Penaten als zu den Bewohnern des Hauses zu gehφren.  Er zeigte uns das
+Naturalienkabinett, das, wie die Bibliothek, in verschlossenen
+Glasschrδnken zugleich die Wδnde der Zimmer verzierte und den Raum
+veredelte, ohne ihn zu verengen.  Hier erinnerte ich mich mit Freuden
+meiner Jugend und zeigte meinem Vater mehrere Gegenstδnde, die er
+ehemals auf das Krankenbette seines kaum in die Welt blickenden Kindes
+gebracht hatte.  Dabei verhehlte der Arzt so wenig als bei folgenden
+Unterredungen, daί er sich mir in Absicht auf religiφse Gesinnungen
+nδhere, lobte dabei den Oheim auίerordentlich wegen seiner Toleranz
+und Schδtzung von allem, was den Wert und die Einheit der menschlichen
+Natur anzeige und befφrdere, nur verlange er freilich von allen andern
+Menschen ein Gleiches und pflege nichts so sehr als individuellen
+Dόnkel und ausschlieίende Beschrδnktheit zu verdammen oder zu fliehen.
+
+Seit der Trauung meiner Schwester sah dem Oheim die Freude aus den
+Augen, und er sprach verschiedenemal mit mir όber das, was er fόr sie
+und ihre Kinder zu tun denke.  Er hatte schφne Gόter, die er selbst
+bewirtschaftete und die er in dem besten Zustande seinen Neffen zu
+όbergeben hoffte.  Wegen des kleinen Gutes, auf dem wir uns befanden,
+schien er besondere Gedanken zu hegen: "Ich werde es", sagte er, "nur
+einer Person όberlassen, die zu kennen, zu schδtzen und zu genieίen
+weiί, was es enthδlt, und die einsieht, wie sehr ein Reicher und
+Vornehmer, besonders in Deutschland, Ursache habe, etwas Mustermδίiges
+aufzustellen."
+
+Schon war der grφίte Teil der Gδste nach und nach verflogen; wir
+bereiteten uns zum Abschied und glaubten die letzte Szene der
+Feierlichkeit erlebt zu haben, als wir aufs neue durch seine
+Aufmerksamkeit, uns ein wόrdiges Vergnόgen zu machen, όberrascht
+wurden.  Wir hatten ihm das Entzόcken nicht verbergen kφnnen, das wir
+fόhlten, als bei meiner Schwester Trauung ein Chor Menschenstimmen
+sich ohne alle Begleitung irgendeines Instruments hφren lieί.  Wir
+legten es ihm nahe genug, uns das Vergnόgen noch einmal zu verschaffen;
+er schien nicht darauf zu merken.  Wie όberrascht waren wir daher,
+als er eines Abends zu uns sagte: "Die Tanzmusik hat sich entfernt;
+die jungen, flόchtigen Freunde haben uns verlassen; das Ehepaar selbst
+sieht schon ernsthafter aus als vor einigen Tagen, und in einer
+solchen Epoche voneinander zu scheiden, da wir uns vielleicht nie,
+wenigstens anders wiedersehen, regt uns zu einer feierlichen Stimmung,
+die ich nicht edler nδhren kann als durch eine Musik, deren
+Wiederholung Sie schon frόher zu wόnschen schienen."
+
+Er lieί durch das indes verstδrkte und im stillen noch mehr geόbte
+Chor uns vierund achtstimmige Gesδnge vortragen, die uns, ich darf
+wohl sagen, wirklich einen Vorschmack der Seligkeit gaben.  Ich hatte
+bisher nur den frommen Gesang gekannt, in welchem gute Seelen oft mit
+heiserer Kehle wie die Waldvφgelein Gott zu loben glauben, weil sie
+sich selbst eine angenehme Empfindung machen; dann die eitle Musik der
+Konzerte, in denen man allenfalls zur Bewunderung eines Talents,
+selten aber auch nur zu einem vorόbergehenden Vergnόgen hingerissen
+wird.  Nun vernahm ich eine Musik, aus dem tiefsten Sinne der
+trefflichsten menschlichen Naturen entsprungen, die durch bestimmte
+und geόbte Organe in harmonischer Einheit wieder zum tiefsten, besten
+Sinne des Menschen sprach und ihn wirklich in diesem Augenblicke seine
+Gottδhnlichkeit lebhaft empfinden lieί.  Alles waren lateinische
+geistliche Gesδnge, die sich wie Juwelen in dem goldnen Ringe einer
+gesitteten weltlichen Gesellschaft ausnahmen und mich ohne Anforderung
+einer sogenannten Erbauung auf das geistigste erhoben und glόcklich
+machten.
+
+Bei unserer Abreise wurden wir alle auf das edelste beschenkt.  Mir
+όberreichte er das Ordenskreuz meines Stiftes, kunstmδίiger und
+schφner gearbeitet und emailliert, als man es sonst zu sehen gewohnt
+war.  Es hing an einem groίen Brillanten, wodurch es zugleich an das
+Band befestigt wurde, und den er als den edelsten Stein einer
+Naturaliensammlung anzusehen bat.
+
+Meine Schwester zog nun mit ihrem Gemahl auf seine Gόter, wir andern
+kehrten alle nach unsern Wohnungen zurόck und schienen uns, was unsere
+δuίren Umstδnde anbetraf, in ein ganz gemeines Leben zurόckgekehrt zu
+sein.  Wir waren wie aus einem Feenschloί auf die platte Erde gesetzt
+und muίten uns wieder nach unsrer Weise benehmen und behelfen.
+
+Die sonderbaren Erfahrungen, die ich in jenem neuen Kreise gemacht
+hatte, lieίen einen schφnen Eindruck bei mir zurόck; doch blieb er
+nicht lange in seiner ganzen Lebhaftigkeit, obgleich der Oheim ihn zu
+unterhalten und zu erneuern suchte, indem er mir von Zeit zu Zeit von
+seinen besten und gefδlligsten Kunstwerken zusandte und, wenn ich sie
+lange genug genossen hatte, wieder mit andern vertauschte.
+
+Ich war zu sehr gewohnt, mich mit mir selbst zu beschδftigen, die
+Angelegenheiten meines Herzens und meines Gemόtes in Ordnung zu
+bringen und mich davon mit δhnlich gesinnten Personen zu unterhalten,
+als daί ich mit Aufmerksamkeit ein Kunstwerk hδtte betrachten sollen,
+ohne bald auf mich selbst zurόckzukehren.  Ich war gewohnt, ein
+Gemδlde und einen Kupferstich nur anzusehen wie die Buchstaben eines
+Buchs.  Ein schφner Druck gefδllt wohl; aber wer wird ein Buch des
+Druckes wegen in die Hand nehmen?  So sollte mir auch eine bildliche
+Darstellung etwas sagen, sie sollte mich belehren, rόhren, bessern;
+und der Oheim mochte in seinen Briefen, mit denen er seine Kunstwerke
+erlδuterte, reden, was er wollte, so blieb es mit mir doch immer beim
+alten.
+
+Doch mehr als meine eigene Natur zogen mich δuίere Begebenheiten, die
+Verδnderungen in meiner Familie von solchen Betrachtungen, ja eine
+Weile von mir selbst ab; ich muίte dulden und wirken, mehr, als meine
+schwachen Krδfte zu ertragen schienen.
+
+Meine ledige Schwester war bisher mein rechter Arm gewesen; gesund,
+stark und unbeschreiblich gόtig hatte sie die Besorgung der
+Haushaltung όber sich genommen, wie mich die persφnliche Pflege des
+alten Vaters beschδftigte.  Es όberfδllt sie ein Katarrh, woraus eine
+Brustkrankheit wird, und in drei Wochen liegt sie auf der Bahre; ihr
+Tod schlug mir Wunden, deren Narben ich jetzt noch nicht gerne ansehe.
+
+Ich lag krank zu Bette, ehe sie noch beerdiget war; der alte Schaden
+auf meiner Brust schien aufzuwachen, ich hustete heftig und war so
+heiser, daί ich keinen lauten Ton hervorbringen konnte.
+
+Die verheiratete Schwester kam vor Schrecken und Betrόbnis zu frόh in
+die Wochen.  Mein alter Vater fόrchtete, seine Kinder und die Hoffnung
+seiner Nachkommenschaft auf einmal zu verlieren; seine gerechten
+Trδnen vermehrten meinen Jammer; ich flehte zu Gott um Herstellung
+einer leidlichen Gesundheit und bat ihn nur, mein Leben bis nach dem
+Tode des Vaters zu fristen.  Ich genas und war nach meiner Art wohl,
+konnte wieder meine Pflichten, obgleich nur auf eine kόmmerliche Weise,
+erfόllen.
+
+
+
+
+VI. Buch--8
+
+
+
+
+Meine Schwester ward wieder guter Hoffnung.  Mancherlei Sorgen, die
+in solchen Fδllen der Mutter anvertraut werden, wurden mir mitgeteilt;
+sie lebte nicht ganz glόcklich mit ihrem Manne, das sollte dem Vater
+verborgen bleiben; ich muίte Schiedsrichter sein und konnte es um so
+eher, da mein Schwager Zutrauen zu mir hatte und beide wirklich gute
+Menschen waren, nur daί beide, anstatt einander nachzusehen,
+miteinander rechteten und aus Begierde, vφllig miteinander όberein zu
+leben, niemals einig werden konnten.  Nun lernte ich auch die
+weltlichen Dinge mit Ernst angreifen und das ausόben, was ich sonst
+nur gesungen hatte.
+
+Meine Schwester gebar einen Sohn; die Unpδίlichkeit meines Vaters
+verhinderte ihn nicht, zu ihr zu reisen.  Beim Anblick des Kindes war
+er unglaublich heiter und froh, und bei der Taufe erschien er mir
+gegen seine Art wie begeistert, ja ich mφchte sagen, als ein Genius
+mit zwei Gesichtern.  Mit dem einen blickte er freudig vorwδrts in
+jene Regionen, in die er bald einzugehen hoffte, mit dem andern auf
+das neue, hoffnungsvolle irdische Leben, das in dem Knaben entsprungen
+war, der von ihm abstammte.  Er ward nicht mόde, auf dem Rόckwege mich
+von dem Kinde zu unterhalten, von seiner Gestalt, seiner Gesundheit
+und dem Wunsche, daί die Anlagen dieses neuen Weltbόrgers glόcklich
+ausgebildet werden mφchten.  Seine Betrachtungen hierόber dauerten
+fort, als wir zu Hause anlangten, und erst nach einigen Tagen bemerkte
+man eine Art Fieber, das sich nach Tisch ohne Frost durch eine etwas
+ermattende Hitze δuίerte.  Er legte sich jedoch nicht nieder, fuhr des
+Morgens aus und versah treulich seine Amtsgeschδfte, bis ihn endlich
+anhaltende, ernsthafte Symptome davon abhielten.
+
+Nie werde ich die Ruhe des Geistes, die Klarheit und Deutlichkeit
+vergessen, womit er die Angelegenheiten seines Hauses, die Besorgung
+seines Begrδbnisses, als wie das Geschδft eines andern, mit der
+grφίten Ordnung vornahm.
+
+Mit einer Heiterkeit, die ihm sonst nicht eigen war und die bis zu
+einer lebhaften Freude stieg, sagte er zu mir: "Wo ist die Todesfurcht
+hingekommen, die ich sonst noch wohl empfand?  Sollt ich zu sterben
+scheuen?  Ich habe einen gnδdigen Gott, das Grab erweckt mir kein
+Grauen, ich habe ein ewiges Leben."
+
+Mir die Umstδnde seines Todes zurόckzurufen, der bald darauf erfolgte,
+ist in meiner Einsamkeit eine meiner angenehmsten Unterhaltungen, und
+die sichtbaren Wirkungen einer hφhern Kraft dabei wird mir niemand
+wegrδsonieren.
+
+Der Tod meines lieben Vaters verδnderte meine bisherige Lebensart.
+Aus dem strengsten Gehorsam, aus der grφίten Einschrδnkung kam ich in
+die grφίte Freiheit, und ich genoί ihrer wie einer Speise, die man
+lange entbehrt hat.  Sonst war ich selten zwei Stunden auίer dem Hause;
+nun verlebte ich kaum einen Tag in meinem Zimmer.  Meine Freunde, bei
+denen ich sonst nur abgerissene Besuche machen konnte, wollten sich
+meines anhaltenden Umgangs sowie ich mich des ihrigen erfreuen; φfters
+wurde ich zu Tische geladen, Spazierfahrten und kleine Lustreisen
+kamen hinzu, und ich blieb nirgends zurόck.  Als aber der Zirkel
+durchlaufen war, sah ich, daί das unschδtzbare Glόck der Freiheit
+nicht darin besteht, daί man alles tut, was man tun mag und wozu uns
+die Umstδnde einladen, sondern daί man das ohne Hindernis und Rόckhalt
+auf dem geraden Wege tun kann, was man fόr recht und schicklich hδlt,
+und ich war alt genug, in diesem Falle ohne Lehrgeld zu der schφnen
+όberzeugung zu gelangen.
+
+Was ich mir nicht versagen konnte, war, so bald als nur mφglich den
+Umgang mit den Gliedern der herrnhutischen Gemeine fortzusetzen und
+fester zu knόpfen, und ich eilte, eine ihrer nδchsten Einrichtungen zu
+besuchen: aber auch da fand ich keinesweges, was ich mir vorgestellt
+hatte.  Ich war ehrlich genug, meine Meinung merken zu lassen, und man
+suchte mir hinwieder beizubringen: diese Verfassung sei gar nichts
+gegen eine ordentlich eingerichtete Gemeine.  Ich konnte mir das
+gefallen lassen; doch hδtte nach meiner όberzeugung der wahre Geist
+aus einer kleinen so gut als aus einer groίen Anstalt hervorblicken
+sollen.
+
+Einer ihrer Bischφfe, der gegenwδrtig war, ein unmittelbarer Schόler
+des Grafen, beschδftigte sich viel mit mir; er sprach vollkommen
+Englisch, und weil ich es ein wenig verstand, meinte er, es sei ein
+Wink, daί wir zusammengehφrten; ich meinte es aber ganz und gar nicht;
+sein Umgang konnte mir nicht im geringsten gefallen.  Er war ein
+Messerschmied, ein geborner Mδhre; seine Art zu denken konnte das
+Handwerksmδίige nicht verleugnen.  Besser verstand ich mich mit dem
+Herrn von L***, der Major in franzφsischen Diensten gewesen war; aber
+zu der Untertδnigkeit, die er gegen seine Vorgesetzten bezeigte,
+fόhlte ich mich niemals fδhig; ja es war mir, als wenn man mir eine
+Ohrfeige gδbe, wenn ich die Majorin und andere mehr oder weniger
+angesehene Frauen dem Bischof die Hand kόssen sah.  Indessen wurde
+doch eine Reise nach Holland verabredet, die aber, und gewiί zu meinem
+Besten, niemals zustande kam.
+
+Meine Schwester war mit einer Tochter niedergekommen, und nun war die
+Reihe an uns Frauen, zufrieden zu sein und zu denken, wie sie dereinst
+uns δhnlich erzogen werden sollte.  Mein Schwager war dagegen sehr
+unzufrieden, als in dem Jahr darauf abermals eine Tochter erfolgte; er
+wόnschte bei seinen groίen Gόtern Knaben um sich zu sehen, die ihm
+einst in der Verwaltung beistehen kφnnten.
+
+Ich hielt mich bei meiner schwachen Gesundheit still und bei einer
+ruhigen Lebensart ziemlich im Gleichgewicht; ich fόrchtete den Tod
+nicht, ja ich wόnschte zu sterben, aber ich fόhlte in der Stille, daί
+mir Gott Zeit gebe, meine Seele zu untersuchen und ihm immer
+nδherzukommen.  In den vielen schlaflosen Nδchten habe ich besonders
+etwas empfunden, das ich eben nicht deutlich beschreiben kann.
+
+Es war, als wenn meine Seele ohne Gesellschaft des Kφrpers dδchte; sie
+sah den Kφrper selbst als ein ihr fremdes Wesen an, wie man etwa ein
+Kleid ansieht.  Sie stellte sich mit einer auίerordentlichen
+Lebhaftigkeit die vergangenen Zeiten und Begebenheiten vor und fόhlte
+daraus, was folgen werde.  Alle diese Zeiten sind dahin; was folgt,
+wird auch dahingehen: der Kφrper wird wie ein Kleid zerreiίen, aber
+ich, das wohlbekannte Ich, ich bin.
+
+Diesem groίen, erhabenen und trφstlichen Gefόhle sowenig als nur
+mφglich nachzuhδngen, lehrte mich ein edler Freund, der sich mir immer
+nδher verband; es war der Arzt, den ich in dem Hause meines Oheims
+hatte kennenlernen und der sich von der Verfassung meines Kφrpers und
+meines Geistes sehr gut unterrichtet hatte; er zeigte mir, wie sehr
+diese Empfindungen, wenn wir sie unabhδngig von δuίern Gegenstδnden in
+uns nδhren, uns gewissermaίen aushφhlen und den Grund unseres Daseins
+untergraben.  "Tδtig zu sein", sagte er, "ist des Menschen erste
+Bestimmung, und alle Zwischenzeiten, in denen er auszuruhen genφtiget
+ist, sollte er anwenden, eine deutliche Erkenntnis der δuίerlichen
+Dinge zu erlangen, die ihm in der Folge abermals seine Tδtigkeit
+erleichtert."
+
+Da der Freund meine Gewohnheit kannte, meinen eigenen Kφrper als einen
+δuίern Gegenstand anzusehn, und da er wuίte, daί ich meine
+Konstitution, mein όbel und die medizinischen Hόlfsmittel ziemlich
+kannte und ich wirklich durch anhaltende eigene und fremde Leiden ein
+halber Arzt geworden war, so leitete er meine Aufmerksamkeit von der
+Kenntnis des menschlichen Kφrpers und der Spezereien auf die όbrigen
+nachbarlichen Gegenstδnde der Schφpfung und fόhrte mich wie im
+Paradiese umher, und nur zuletzt, wenn ich mein Gleichnis fortsetzen
+darf, lieί er mich den in der Abendkόhle im Garten wandelnden Schφpfer
+aus der Entfernung ahnen.
+
+Wie gerne sah ich nunmehr Gott in der Natur, da ich ihn mit solcher
+Gewiίheit im Herzen trug; wie interessant war mir das Werk seiner
+Hδnde, und wie dankbar war ich, daί er mich mit dem Atem seines Mundes
+hatte beleben wollen!  Wir hofften aufs neue mit meiner Schwester auf
+einen Knaben, dem mein Schwager so sehnlich entgegensah und dessen
+Geburt er leider nicht erlebte.  Der wackere Mann starb an den Folgen
+eines unglόcklichen Sturzes vom Pferde, und meine Schwester folgte ihm,
+nachdem sie der Welt einen schφnen Knaben gegeben hatte.  Ihre vier
+hinterlassenen Kinder konnte ich nur mit Wehmut ansehn.  So manche
+gesunde Person war vor mir, der Kranken, hingegangen; sollte ich nicht
+vielleicht von diesen hoffnungsvollen Blόten manche abfallen sehen?
+Ich kannte die Welt genug, um zu wissen, unter wie vielen Gefahren ein
+Kind, besonders in dem hφheren Stande, heraufwδchst, und es schien mir,
+als wenn sie seit der Zeit meiner Jugend sich fόr die gegenwδrtige
+Welt noch vermehrt hδtten.  Ich fόhlte, daί ich bei meiner Schwδche
+wenig oder nichts fόr die Kinder zu tun imstande sei; um desto
+erwόnschter war mir des Oheims Entschluί, der natόrlich aus seiner
+Denkungsart entsprang, seine ganze Aufmerksamkeit auf die Erziehung
+dieser liebenswόrdigen Geschφpfe zu verwenden.  Und gewiί, sie
+verdienten es in jedem Sinne, sie waren wohlgebildet und versprachen
+bei ihrer groίen Verschiedenheit sδmtlich gutartige und verstδndige
+Menschen zu werden.
+
+Seitdem mein guter Arzt mich aufmerksam gemacht hatte, betrachtete ich
+gern die Familienδhnlichkeit in Kindern und Verwandten.  Mein Vater
+hatte sorgfδltig die Bilder seiner Vorfahren aufbewahrt, sich selbst
+und seine Kinder von leidlichen Meistern malen lassen, auch war meine
+Mutter und ihre Verwandten nicht vergessen worden.  Wir kannten die
+Charaktere der ganzen Familie genau, und da wir sie oft untereinander
+verglichen hatten, so suchten wir nun bei den Kindern die
+δhnlichkeiten des δuίern und Innern wieder auf.  Der δlteste Sohn
+meiner Schwester schien seinem Groίvater vδterlicher Seite zu gleichen,
+von dem ein jugendliches Bild, sehr gut gemalt, in der Sammlung
+unseres Oheims aufgestellt war; auch liebte er wie jener, der sich
+immer als ein braver Offizier gezeigt hatte, nichts so sehr als das
+Gewehr, womit er sich immer, sooft er mich besuchte, beschδftigte.
+Denn mein Vater hatte einen sehr schφnen Gewehrschrank hinterlassen,
+und der Kleine hatte nicht eher Ruhe, bis ich ihm ein paar Pistolen
+und eine Jagdflinte schenkte und bis er herausgebracht hatte, wie ein
+deutsches Schloί aufzuziehen sei. όbrigens war er in seinen Handlungen
+und seinem ganzen Wesen nichts weniger als rauh, sondern vielmehr
+sanft und verstδndig.
+
+Die δlteste Tochter hatte meine ganze Neigung gefesselt, und es mochte
+wohl daher kommen, weil sie mir δhnlich sah und weil sie sich von
+allen vieren am meisten zu mir hielt.  Aber ich kann wohl sagen, je
+genauer ich sie beobachtete, da sie heranwuchs, desto mehr beschδmte
+sie mich, und ich konnte das Kind nicht ohne Bewunderung, ja ich darf
+beinahe sagen, nicht ohne Verehrung ansehn.  Man sah nicht leicht eine
+edlere Gestalt, ein ruhiger Gemόt und eine immer gleiche, auf keinen
+Gegenstand eingeschrδnkte Tδtigkeit.  Sie war keinen Augenblick ihres
+Lebens unbeschδftigt, und jedes Geschδft ward unter ihren Hδnden zur
+wόrdigen Handlung.  Alles schien ihr gleich, wenn sie nur das
+verrichten konnte, was in der Zeit und am Platz war, und ebenso konnte
+sie ruhig, ohne Ungeduld bleiben, wenn sich nichts zu tun fand.  Diese
+Tδtigkeit ohne Bedόrfnis einer Beschδftigung habe ich in meinem Leben
+nicht wieder gesehen.  Unnachahmlich war von Jugend auf ihr Betragen
+gegen Notleidende und Hόlfsbedόrftige.  Ich gestehe gern, daί ich
+niemals das Talent hatte, mir aus der Wohltδtigkeit ein Geschδft zu
+machen; ich war nicht karg gegen Arme, ja ich gab oft in meinem
+Verhδltnisse zuviel dahin, aber gewissermaίen kaufte ich mich nur los,
+und es muίte mir jemand angeboren sein, wenn er mir meine Sorgfalt
+abgewinnen wollte.  Gerade das Gegenteil lobe ich an meiner Nichte.
+Ich habe sie niemals einem Armen Geld geben sehen, und was sie von mir
+zu diesem Endzweck erhielt, verwandelte sie immer erst in das nδchste
+Bedόrfnis.  Niemals erschien sie mir liebenswόrdiger, als wenn sie
+meine Kleider- und Wδschschrδnke plόnderte; immer fand sie etwas, das
+ich nicht trug und nicht brauchte, und diese alten Sachen
+zusammenzuschneiden und sie irgendeinem zerlumpten Kinde anzupassen
+war ihre grφίte Glόckseligkeit.
+
+Die Gesinnungen ihrer Schwester zeigten sich schon anders; sie hatte
+vieles von der Mutter, versprach schon frόhe sehr zierlich und reizend
+zu werden und scheint ihr Versprechen halten zu wollen; sie ist sehr
+mit ihrem δuίern beschδftigt und wuίte sich von frόher Zeit an auf
+eine in die Augen fallende Weise zu putzen und zu tragen.  Ich
+erinnere mich noch immer, mit welchem Entzόcken sie sich als ein
+kleines Kind im Spiegel besah, als ich ihr die schφnen Perlen, die mir
+meine Mutter hinterlassen hatte und die sie von ungefδhr bei mir fand,
+umbinden muίte.
+
+Wenn ich diese verschiedenen Neigungen betrachtete, war es mir
+angenehm zu denken, wie meine Besitzungen nach meinem Tode unter sie
+zerfallen und durch sie wieder lebendig werden wόrden.  Ich sah die
+Jagdflinten meines Vaters schon wieder auf dem Rόcken des Neffen im
+Felde herumwandeln und aus seiner Jagdtasche schon wieder Hόhner
+herausfallen; ich sah meine sδmtliche Garderobe bei der
+Osterkonfirmation, lauter kleinen Mδdchen angepaίt, aus der Kirche
+herauskommen und mit meinen besten Stoffen ein sittsames Bόrgermδdchen
+an ihrem Brauttage geschmόckt: denn zu Ausstattung solcher Kinder und
+ehrbarer armer Mδdchen hatte Natalie eine besondere Neigung, ob sie
+gleich, wie ich hier bemerken muί, selbst keine Art von Liebe und,
+wenn ich so sagen darf, kein Bedόrfnis einer Anhδnglichkeit an ein
+sichtbares oder unsichtbares Wesen, wie es sich bei mir in meiner
+Jugend so lebhaft gezeigt hatte, auf irgendeine Weise merken lieί.
+
+Wenn ich nun dachte, daί die Jόngste an ebendemselben Tage meine
+Perlen und Juwelen nach Hofe tragen werde, so sah ich mit Ruhe meine
+Besitzungen wie meinen Kφrper den Elementen wiedergegeben.
+
+Die Kinder wuchsen heran und sind zu meiner Zufriedenheit gesunde,
+schφne und wackre Geschφpfe.  Ich ertrage es mit Geduld, daί der Oheim
+sie von mir entfernt hδlt, und sehe sie, wenn sie in der Nδhe oder
+auch wohl gar in der Stadt sind, selten.
+
+Ein wunderbarer Mann, den man fόr einen franzφsischen Geistlichen hδlt,
+ohne daί man recht von seiner Herkunft unterrichtet ist, hat die
+Aufsicht όber die sδmtlichen Kinder, welche an verschiedenen Orten
+erzogen werden und bald hier, bald da in der Kost sind.
+
+Ich konnte anfangs keinen Plan in dieser Erziehung sehn, bis mir mein
+Arzt zuletzt erφffnete: der Oheim habe sich durch den Abbe όberzeugen
+lassen, daί, wenn man an der Erziehung des Menschen etwas tun wolle,
+mόsse man sehen, wohin seine Neigungen und Wόnsche gehen.  Sodann
+mόsse man ihn in die Lage versetzen, jene so bald als mφglich zu
+befriedigen, diese so bald als mφglich zu erreichen, damit der Mensch,
+wenn er sich geirret habe, frόh genug seinen Irrtum gewahr werde, und
+wenn er das getroffen hat, was fόr ihn paίt, desto eifriger daran
+halte und sich desto emsiger fortbilde.  Ich wόnsche, daί dieser
+sonderbare Versuch gelingen mφge; bei so guten Naturen ist es
+vielleicht mφglich.
+
+Aber das, was ich nicht an diesen Erziehern billigen kann, ist, daί
+sie alles von den Kindern zu entfernen suchen, was sie zu dem Umgange
+mit sich selbst und mit dem unsichtbaren, einzigen treuen Freunde
+fόhren kφnne.  Ja, es verdrieίt mich oft von dem Oheim, daί er mich
+deshalb fόr die Kinder fόr gefδhrlich hδlt.  Im Praktischen ist doch
+kein Mensch tolerant!  Denn wer auch versichert, daί er jedem seine
+Art und Wesen gerne lassen wolle, sucht doch immer diejenigen von der
+Tδtigkeit auszuschlieίen, die nicht so denken wie er.
+
+Diese Art, die Kinder von mir zu entfernen, betrόbt mich desto mehr,
+je mehr ich von der Realitδt meines Glaubens όberzeugt sein kann.
+Warum sollte er nicht einen gφttlichen Ursprung, nicht einen
+wirklichen Gegenstand haben, da er sich im Praktischen so wirksam
+erweiset?  Werden wir durchs Praktische doch unseres eigenen Daseins
+selbst erst recht gewiί, warum sollten wir uns nicht auch auf ebendem
+Wege von jenem Wesen όberzeugen kφnnen, das uns zu allem Guten die
+Hand reicht?
+
+Daί ich immer vorwδrts, nie rόckwδrts gehe, daί meine Handlungen immer
+mehr der Idee δhnlich werden, die ich mir von der Vollkommenheit
+gemacht habe, daί ich tδglich mehr Leichtigkeit fόhle, das zu tun, was
+ich fόr recht halte, selbst bei der Schwδche meines Kφrpers, der mir
+so manchen Dienst versagt; lδίt sich das alles aus der menschlichen
+Natur, deren Verderben ich so tief eingesehen habe, erklδren?  Fόr
+mich nun einmal nicht.
+
+Ich erinnere mich kaum eines Gebotes; nichts erscheint mir in Gestalt
+eines Gesetzes; es ist ein Trieb, der mich leitet und mich immer recht
+fόhret; ich folge mit Freiheit meinen Gesinnungen und weiί sowenig von
+Einschrδnkung als von Reue.  Gott sei Dank, daί ich erkenne, wem ich
+dieses Glόck schuldig bin und daί ich an diese Vorzόge nur mit Demut
+denken darf.  Denn niemals werde ich in Gefahr kommen, auf mein eignes
+Kφnnen und Vermφgen stolz zu werden, da ich so deutlich erkannt habe,
+welch Ungeheuer in jedem menschlichen Busen, wenn eine hφhere Kraft
+uns nicht bewahrt, sich erzeugen und nδhren kφnne.
+
+
+
+
+
+Ende dieses Project Gutenberg Etextes "Wilhelm Meisters Lehrjahre--Buch 6"
+von Johann Wolfgang von Goethe.
