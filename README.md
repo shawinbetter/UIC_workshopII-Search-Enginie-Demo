@@ -25,4 +25,4 @@
 > Pycharm virtual environment settings
 
 ### ws2_django_demo
-> The web server and interface, with the source text files in the /static
+> The web server and interface, with the source text files in the static/
