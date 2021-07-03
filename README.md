@@ -1,6 +1,21 @@
-# <b>UIC Data Processing Workshop II - Search Engine Demo (My Book Searcher</b>
+## <b>UIC Data Processing Workshop II - Search Engine Demo (My Book Searcher</b>
 
+### HomePage
 ![avatar](/imgs/homepage.jpg)
+
+### Search Result Page
+![avatar](/imgs/result_page.jpg)
+
+### Source Data
+We collected 60,000 E-Books from open source website http://www.gutenberg.org/
+
+### Index and Ranking
+We used Hadoop to create the inversed indexing for each word/phase and TF-IDF algorithm is adopted to rank
+
+### System
+Django is adopted to create the search engine demo
+
+### File Structure
 
 ### .idea
 > The Pycharm configuration files
