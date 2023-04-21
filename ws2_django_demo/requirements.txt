@@ -4,7 +4,7 @@ pandas==0.25.3
 python-dateutil==2.8.1
 pytz==2019.3
 six==1.13.0
-sqlparse==0.3.0
+sqlparse==0.4.4
 PyDictionary==1.5.2
 django-autocomplete-light==3.2.10
 nltk
